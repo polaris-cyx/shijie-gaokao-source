@@ -11,7 +11,7 @@
 
 ![扫码打开](docs/qr-github.png)
 
-> 部署在 GitHub Pages，使用 GitHub Actions 发布；不用登录、不用安装，平板 Safari/Chrome 打开后「添加到主屏幕」即可。
+> 部署在 GitHub Pages；不用登录、不用安装，平板 Safari/Chrome 打开后「添加到主屏幕」即可。
 
 ![首页预览](docs/preview.png)
 
@@ -95,7 +95,7 @@
 线上地址：**https://polaris-cyx.github.io/shijie-gaokao/**
 
 仓库：**https://github.com/polaris-cyx/shijie-gaokao**  
-部署方式：GitHub Actions → GitHub Pages（静态文件全部在 `main` 分支根目录）。  
+部署方式：GitHub Pages（静态文件全部在 `main` 分支根目录）。  
 本地改完内容后，重新构建 `dist/` 并更新仓库即可；当前线上版本已包含全部 236 条情景短句、朗读和 9 份 PDF。
 
 ### 方式 5：单文件传到平板
