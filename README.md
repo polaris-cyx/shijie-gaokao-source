@@ -3,6 +3,16 @@
 > 把第一批高中资料拆成**每天能走完的一小步**：知识卡、速查、刷题、错题本、模拟考、30 天计划。所有英文单词、例句和情景短句都可以点击朗读。
 > 无登录、无账号、无网络请求，打开就能学；电脑、iPad、安卓平板共用一套界面。
 
+## 在线地址（已发布）
+
+# **https://polaris-cyx.github.io/shijie-gaokao/**
+
+平板/手机扫码直接打开：
+
+![扫码打开](docs/qr-github.png)
+
+> 部署在 GitHub Pages，使用 GitHub Actions 发布；不用登录、不用安装，平板 Safari/Chrome 打开后「添加到主屏幕」即可。
+
 ![首页预览](docs/preview.png)
 
 ![知识卡](docs/card.png)
@@ -80,16 +90,13 @@
 双击 **`启动学习系统.bat`**，会自动构建（首次）、启动本地服务器并打开浏览器。  
 平板访问终端里打印的局域网地址即可。
 
-### 方式 4：部署到网上（长期、免费）
+### 方式 4：已经部署在网上（长期、免费）
 
-```bash
-node tools/build.mjs
-node tools/build-mobile.mjs
-```
+线上地址：**https://polaris-cyx.github.io/shijie-gaokao/**
 
-把生成的 `dist/` 整个目录拖到 GitHub Pages / Netlify Drop / Cloudflare Pages。  
-入口是 `dist/index.html`，应用在 `dist/app/`，资料在 `dist/materials/`。  
-部署到 https 后 Service Worker 生效，可离线使用。
+仓库：**https://github.com/polaris-cyx/shijie-gaokao**  
+部署方式：GitHub Actions → GitHub Pages（静态文件全部在 `main` 分支根目录）。  
+本地改完内容后，重新构建 `dist/` 并更新仓库即可；当前线上版本已包含全部 236 条情景短句、朗读和 9 份 PDF。
 
 ### 方式 5：单文件传到平板
 
