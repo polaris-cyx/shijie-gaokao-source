@@ -311,6 +311,23 @@ node tools/validate.mjs    # 内容质检
 
 ---
 
+## 十、版本管理与仓库状态
+
+- 本地源仓库：`高中学习备考系统/`，分支 `main`，标签 `v1.1.0`
+- 线上部署仓库：<https://github.com/polaris-cyx/shijie-gaokao>（只含 `dist/` 构建产物，历史与源仓库独立）
+- `dist/` 被 `.gitignore` 忽略；它由 `node tools/build-mobile.mjs` 重新生成
+- 源仓库当前**没有配置 GitHub remote**，本机 `.git` 是唯一完整源历史；线上仓库是发布产物，不是源仓库的 remote
+- 每次改完内容的标准流程：
+
+```bash
+node tools/build.mjs
+node tools/validate.mjs
+node tools/build-mobile.mjs
+git add -A && git commit -m "说明这次改了什么"
+```
+
+- 当前仓库检查：`git status` 干净、`git fsck` 通过、73 个受控文件、9 份 PDF、约 27 MB `.git`
+
 ## 十、开发
 
 无 npm 依赖，只需要 Node.js ≥ 18。
