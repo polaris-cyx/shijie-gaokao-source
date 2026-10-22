@@ -996,3 +996,308 @@ kbd{
   body{background:#fff}
   .card{box-shadow:none}
 }
+
+/* ─────────── 朗读按钮 ─────────── */
+.speak-btn{
+  width:30px;height:30px;flex:0 0 30px;border-radius:9px;display:inline-flex;align-items:center;justify-content:center;
+  color:var(--brand-3);background:var(--brand-soft);border:1px solid color-mix(in srgb,var(--brand) 22%,transparent);
+  cursor:pointer;transition:all .15s;vertical-align:middle;
+}
+.speak-btn svg{width:15px;height:15px}
+.speak-btn:hover{background:var(--brand);color:#fff;transform:scale(1.05)}
+.speak-btn.inline{width:25px;height:25px;flex-basis:25px;border-radius:7px;margin-left:5px;padding:0}
+.speak-btn.inline svg{width:13px;height:13px}
+.speak-btn.word-speak{width:28px;height:28px;flex-basis:28px;margin-left:7px}
+.speak-btn.stem-speak{width:34px;height:34px;flex-basis:34px;margin-left:9px;vertical-align:2px}
+.speak-btn.opt-say{margin-left:auto;width:30px;height:30px;flex-basis:30px}
+.speak-btn.nav-speak{width:34px;height:34px}
+.opt-text{flex:1;min-width:0}
+.vc-word-row{display:flex;align-items:center;gap:8px}
+.vc-word-main{display:flex;align-items:center;gap:2px;flex:1;min-width:0;flex-wrap:wrap}
+.vocab-card .vc-actions{position:static;opacity:1;display:flex;gap:4px}
+.vc-scene{margin-top:10px;padding:11px 13px;border-radius:11px;background:var(--surface-2);border-left:3px solid var(--brand)}
+.vc-scene-head{display:flex;align-items:center;gap:6px;margin-bottom:5px}
+.vc-tag{font-size:11px;color:var(--brand-3);background:var(--brand-soft);padding:2px 7px;border-radius:5px;letter-spacing:.04em;font-weight:600}
+.vc-scene-en{font-size:15px;line-height:1.7;margin:0;font-weight:500;color:var(--ink)}
+.vc-scene-cn{font-size:13.5px;color:var(--ink-3);margin:4px 0 0;line-height:1.6}
+.vocab-card .vc-ex{display:flex;align-items:flex-start;gap:4px}
+.vocab-card .vc-ex > span{flex:1;min-width:0}
+
+/* ─────────── 可读性 v2：给小朋友看的字，再大一点 ─────────── */
+body{font-size:17px;line-height:1.72}
+.tiny{font-size:14px}
+.small{font-size:14.5px}
+.nav-item{font-size:16px;padding:12px 12px}
+.brand-text strong{font-size:21px}
+.brand-text span{font-size:12px}
+.topbar .search-trigger{font-size:14px}
+.streak-pill{font-size:13px}
+.streak-pill b{font-size:15px}
+.page-head h1{font-size:36px}
+.page-head p{font-size:15.5px;line-height:1.8}
+.eyebrow{font-size:12.5px}
+.hero h1{font-size:40px;line-height:1.25}
+.hero p{font-size:16.5px;line-height:1.85}
+.hero .eyebrow{font-size:13px}
+.hero-stat b{font-size:33px}
+.hero-stat span{font-size:13px}
+.hero-cta .btn{font-size:15.5px;height:50px}
+.section-head h2{font-size:22px}
+.section-head .hint{font-size:13.5px}
+.task-main b{font-size:16.5px}
+.task-main span{font-size:14.5px}
+.task-bar span{font-size:13px}
+.task .btn{font-size:14.5px}
+.countdown .cd-t b{font-size:15.5px}
+.countdown .cd-t span{font-size:13.5px}
+.focus-meta b{font-size:19px}
+.focus-meta span{font-size:13px}
+.subject-card h3{font-size:17px}
+.subject-card .sc-sub{font-size:13px}
+.subject-card .sc-meta{font-size:13px}
+.chapter-card h3{font-size:16.5px}
+.chapter-card .cc-desc{font-size:14.5px;min-height:44px}
+.chapter-card .cc-meta{font-size:12.5px}
+.kp-topic{font-size:34px}
+.kp-core{font-size:21px;line-height:1.85;padding:18px 21px}
+.kp-detail{font-size:17.5px;line-height:1.95}
+.kp-sec-t{font-size:12.5px}
+.dots{font-size:16.5px;line-height:1.95}
+.formula-line{font-size:20px;min-height:54px;padding:12px 20px}
+.example .ex-q{font-size:16.5px;line-height:1.8}
+.example .ex-a{font-size:16px;line-height:1.9}
+.mnemo,.trap-box{font-size:16px;line-height:1.85}
+.cite{font-size:13px}
+.note-box label{font-size:12.5px}
+.note-box textarea{font-size:15px}
+.rate-btn{font-size:15.5px;height:50px}
+.learn-toolbar .chip{font-size:13px}
+.f-card .f-name{font-size:15.5px}
+.f-card .f-expr{font-size:20px}
+.f-card .f-note{font-size:14px}
+.eq-table{font-size:15.5px}
+.eq-table th{font-size:12.5px}
+.eq-table .eq-name{font-size:15.5px}
+.eq-table .eq-formula{font-size:18.5px}
+.eq-table .eq-note{font-size:13.5px}
+.vocab-card .vc-word{font-size:27px}
+.vocab-card .vc-cn{font-size:16px}
+.vocab-card .vc-ex{font-size:16px;line-height:1.75;color:var(--ink-2)}
+.vocab-card .vc-rel{font-size:14px}
+.vc-scene-en{font-size:16px}
+.vc-scene-cn{font-size:14.5px}
+.vc-tag{font-size:12px}
+.day-card .dc-t{font-size:13.5px}
+.day-card .dc-m{font-size:12.5px}
+.method-card h3{font-size:17.5px}
+.method-card .mc-when{font-size:14.5px}
+.method-card .mc-steps{font-size:14.5px}
+.method-card .mc-ex{font-size:15px}
+.method-card .mc-trap{font-size:13.5px}
+.q-stem{font-size:21px;line-height:1.9}
+.opt{font-size:17px;line-height:1.75;padding:15px 17px}
+.opt .ok{width:28px;height:28px;flex-basis:28px;font-size:13px}
+.explain{font-size:16px;line-height:1.9}
+.fill-input{font-size:19px;height:52px}
+.result-score .big{font-size:80px}
+.result-score .lbl{font-size:15.5px}
+.res-item b{font-size:29px}
+.res-item span{font-size:13px}
+.list-item .li-main .t{font-size:16px}
+.list-item .li-main .s{font-size:13.5px}
+.setup-card h2{font-size:24px}
+.setup-block .sb-title{font-size:12.5px}
+.source-card h3{font-size:16.5px}
+.source-card .src-sub{font-size:13px}
+.source-card p{font-size:14.5px;line-height:1.85}
+.source-card .src-foot{font-size:13px}
+.stat-card .k{font-size:13px}
+.stat-card .s{font-size:13px}
+.plan-row .pr-title{font-size:16.5px}
+.plan-row .pr-note{font-size:14.5px;line-height:1.7}
+.plan-row .chip{font-size:12.5px}
+.settings-row .sr-main b{font-size:16px}
+.settings-row .sr-main span{font-size:14px}
+.modal-box h2{font-size:23px}
+.toast{font-size:15px}
+.sr-item .sr-t{font-size:15.5px}
+.sr-item .sr-s{font-size:13.5px}
+.search-row input{font-size:18px}
+.search-hint{font-size:13px}
+.empty h3{font-size:19px}
+.empty p{font-size:14.5px}
+.chip{font-size:13.5px;height:29px;padding:0 11px}
+.btn{font-size:15px;height:42px}
+.btn.sm{font-size:14px;height:34px}
+.btn.lg{font-size:16px;height:50px}
+.math{font-size:1.03em}
+
+@media (max-width:860px){
+  body{font-size:16.5px}
+  .page-head h1{font-size:30px}
+  .page-head p{font-size:15px}
+  .hero h1{font-size:31px}
+  .hero p{font-size:15px}
+  .hero-stat b{font-size:27px}
+  .hero-stat span{font-size:12.5px}
+  .section-head h2{font-size:20px}
+  .kp-topic{font-size:28px}
+  .kp-core{font-size:19.5px}
+  .kp-detail{font-size:16.5px}
+  .dots{font-size:16px}
+  .formula-line{font-size:18px}
+  .q-stem{font-size:19.5px}
+  .opt{font-size:16px}
+  .result-score .big{font-size:64px}
+  .task-main b{font-size:15.5px}
+  .task-main span{font-size:13.5px}
+  .task-bar span{font-size:12.5px}
+  .chapter-card h3{font-size:15px}
+  .chapter-card .cc-meta{font-size:12px}
+  .vocab-card .vc-word{font-size:25px}
+  .vocab-card .vc-cn{font-size:15px}
+  .vocab-card .vc-ex{font-size:14.5px}
+  .vc-scene-en{font-size:15px}
+  .vc-scene-cn{font-size:14px}
+  .nav-item{font-size:15px}
+  .hero-cta .btn{font-size:14.5px;height:46px}
+}
+@media (max-width:420px){
+  body{font-size:16px}
+  .hero h1{font-size:27px}
+  .hero p{font-size:14px}
+  .hero-stat b{font-size:24px}
+  .page-head h1{font-size:27px}
+  .kp-topic{font-size:25px}
+  .kp-core{font-size:18.5px}
+  .q-stem{font-size:18.5px}
+  .opt{font-size:15.5px}
+  .vocab-card .vc-word{font-size:24px}
+}
+
+/* 手机端：主标题更平衡，四项数据一排放下 */
+.hero h1,.page-head h1,.kp-topic{text-wrap:balance}
+@media (max-width:860px){
+  .hero h1{font-size:27px;line-height:1.28;text-wrap:balance}
+  .hero-stats{display:grid;grid-template-columns:repeat(2,1fr);gap:14px 16px;align-items:end}
+  .hero-stat b{font-size:23px}
+  .hero-stat b small{font-size:11px}
+  .hero-stat span{font-size:11px;letter-spacing:0}
+  .hero p{font-size:14px;line-height:1.8}
+}
+@media (max-width:420px){
+  .hero h1{font-size:25px}
+  .hero-stat b{font-size:21px}
+  .hero-stat span{font-size:10.5px}
+  .hero-cta{gap:8px}
+  .hero-cta .btn{flex:1 1 calc(50% - 8px);min-width:0;padding:0 10px;font-size:14px}
+}
+
+/* ─────────── 可读性 v3：正文 18px，重点内容 20px+ ─────────── */
+body{font-size:18px;line-height:1.75}
+.tiny{font-size:14.5px}
+.small{font-size:15px}
+.nav-item{font-size:16.5px}
+.page-head h1{font-size:38px}
+.page-head p{font-size:16px}
+.hero h1{font-size:42px}
+.hero p{font-size:17px;line-height:1.85}
+.hero-stat b{font-size:34px}
+.hero-stat span{font-size:13.5px}
+.section-head h2{font-size:23px}
+.section-head .hint{font-size:14px}
+.task-main b{font-size:17px}
+.task-main span{font-size:15px}
+.task-bar span{font-size:13.5px}
+.chapter-card h3{font-size:17px}
+.chapter-card .cc-desc{font-size:15px;min-height:48px}
+.chapter-card .cc-meta{font-size:13px}
+.subject-card h3{font-size:18px}
+.subject-card .sc-sub{font-size:13.5px}
+.subject-card .sc-meta{font-size:13.5px}
+.kp-topic{font-size:36px}
+.kp-core{font-size:22px;line-height:1.85}
+.kp-detail{font-size:18.5px;line-height:1.95}
+.dots{font-size:17px;line-height:1.95}
+.formula-line{font-size:21px;min-height:56px}
+.example .ex-q{font-size:17.5px}
+.example .ex-a{font-size:17px}
+.mnemo,.trap-box{font-size:17px;line-height:1.85}
+.q-stem{font-size:22px}
+.opt{font-size:18px;line-height:1.75}
+.explain{font-size:17px}
+.fill-input{font-size:20px}
+.vocab-card .vc-word{font-size:28px}
+.vocab-card .vc-cn{font-size:17px}
+.vocab-card .vc-ex{font-size:16.5px}
+.vocab-card .vc-rel{font-size:14.5px}
+.vc-scene-en{font-size:17px}
+.vc-scene-cn{font-size:15.5px}
+.vc-tag{font-size:12.5px}
+.eq-table{font-size:16.5px}
+.eq-table .eq-name{font-size:16.5px}
+.eq-table .eq-formula{font-size:20px}
+.eq-table .eq-note{font-size:14.5px}
+.f-card .f-name{font-size:16.5px}
+.f-card .f-expr{font-size:21px}
+.f-card .f-note{font-size:15px}
+.method-card h3{font-size:18.5px}
+.method-card .mc-when,.method-card .mc-steps{font-size:15.5px}
+.method-card .mc-ex{font-size:16px}
+.list-item .li-main .t{font-size:17px}
+.list-item .li-main .s{font-size:14.5px}
+.plan-row .pr-title{font-size:17.5px}
+.plan-row .pr-note{font-size:15.5px}
+.source-card h3{font-size:17.5px}
+.source-card p{font-size:15.5px}
+.source-card .src-sub{font-size:14px}
+.settings-row .sr-main b{font-size:17px}
+.settings-row .sr-main span{font-size:15px}
+.btn{font-size:16px;height:44px}
+.btn.sm{font-size:15px;height:36px}
+.btn.lg{font-size:17px;height:52px}
+.chip{font-size:14px;height:30px;padding:0 12px}
+.search-trigger{font-size:14.5px!important}
+.sr-item .sr-t{font-size:16.5px}
+.sr-item .sr-s{font-size:14.5px}
+.search-row input{font-size:19px}
+.modal-box h2{font-size:25px}
+.toast{font-size:16px}
+@media (max-width:860px){
+  body{font-size:17.5px}
+  .page-head h1{font-size:31px}
+  .hero h1{font-size:28px}
+  .hero p{font-size:15.5px}
+  .hero-stat b{font-size:24px}
+  .hero-stat span{font-size:11.5px}
+  .section-head h2{font-size:21px}
+  .kp-topic{font-size:29px}
+  .kp-core{font-size:21px}
+  .kp-detail{font-size:17.5px}
+  .dots{font-size:16.5px}
+  .formula-line{font-size:19px}
+  .q-stem{font-size:20px}
+  .opt{font-size:17px}
+  .explain{font-size:16.5px}
+  .vocab-card .vc-word{font-size:26px}
+  .vocab-card .vc-cn{font-size:16px}
+  .vocab-card .vc-ex{font-size:15.5px}
+  .vc-scene-en{font-size:16px}
+  .vc-scene-cn{font-size:15px}
+  .chapter-card h3{font-size:15.5px}
+  .chapter-card .cc-desc{font-size:14.5px;min-height:0}
+  .task-main b{font-size:16px}
+  .task-main span{font-size:14px}
+  .hero-cta .btn{font-size:15px;height:48px}
+}
+@media (max-width:420px){
+  body{font-size:17px}
+  .hero h1{font-size:26px}
+  .kp-core{font-size:19.5px}
+  .kp-detail{font-size:16.5px}
+  .q-stem{font-size:19px}
+  .opt{font-size:16.5px}
+  .vocab-card .vc-word{font-size:25px}
+  .vocab-card .vc-cn{font-size:15.5px}
+  .vocab-card .vc-ex{font-size:15px}
+}

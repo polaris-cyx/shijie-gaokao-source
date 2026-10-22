@@ -1,0 +1,1656 @@
+{
+ "items": [
+  {
+   "id": "SC-0001",
+   "word": "achieve",
+   "en": "Our robotics team worked hard to achieve first place in the school contest.",
+   "cn": "我们机器人队努力训练，终于在学校比赛中拿下第一名。",
+   "tag": "校园·科技"
+  },
+  {
+   "id": "SC-0002",
+   "word": "consider",
+   "en": "Before choosing your optional courses, consider what you really enjoy.",
+   "cn": "选科之前，先想想你真正喜欢什么。",
+   "tag": "校园·选科"
+  },
+  {
+   "id": "SC-0003",
+   "word": "departure",
+   "en": "The departure of our foreign teacher made the whole class sad.",
+   "cn": "外教的离开让全班都很难过。",
+   "tag": "校园·离别"
+  },
+  {
+   "id": "SC-0004",
+   "word": "development",
+   "en": "The rapid development of AI is changing the way we study.",
+   "cn": "人工智能的快速发展正在改变我们的学习方式。",
+   "tag": "科技·AI"
+  },
+  {
+   "id": "SC-0005",
+   "word": "discovery",
+   "en": "Her discovery that plants can communicate amazed the whole class.",
+   "cn": "她发现植物之间能够“交流”，让全班都很惊讶。",
+   "tag": "科学·发现"
+  },
+  {
+   "id": "SC-0006",
+   "word": "discuss",
+   "en": "We often discuss hot topics in our English club.",
+   "cn": "我们经常在英语社团里讨论热点话题。",
+   "tag": "社团·表达"
+  },
+  {
+   "id": "SC-0007",
+   "word": "expansion",
+   "en": "The school announced the expansion of its sports center.",
+   "cn": "学校宣布扩建体育中心。",
+   "tag": "校园·建设"
+  },
+  {
+   "id": "SC-0008",
+   "word": "explanation",
+   "en": "His explanation of the math problem was clearer than the textbook.",
+   "cn": "他对这道数学题的解释比课本还清楚。",
+   "tag": "学习·方法"
+  },
+  {
+   "id": "SC-0009",
+   "word": "improve",
+   "en": "Reading ten minutes a day can improve your English quickly.",
+   "cn": "每天读十分钟，英语会进步得很快。",
+   "tag": "学习·坚持"
+  },
+  {
+   "id": "SC-0010",
+   "word": "suggestion",
+   "en": "My suggestion is to sleep earlier before the exam.",
+   "cn": "我的建议是考试前早点睡。",
+   "tag": "考试·作息"
+  },
+  {
+   "id": "SC-0011",
+   "word": "accurately",
+   "en": "The machine can measure our heart rate accurately.",
+   "cn": "这台机器能准确测量我们的心率。",
+   "tag": "科技·健康"
+  },
+  {
+   "id": "SC-0012",
+   "word": "clearly",
+   "en": "Please speak clearly so everyone in the group can hear you.",
+   "cn": "请说清楚一点，让组里每个人都听得见。",
+   "tag": "课堂·表达"
+  },
+  {
+   "id": "SC-0013",
+   "word": "creatively",
+   "en": "Our class solved the recycling problem creatively.",
+   "cn": "我们班很有创意地解决了回收问题。",
+   "tag": "环保·创意"
+  },
+  {
+   "id": "SC-0014",
+   "word": "dangerous",
+   "en": "It is dangerous to look at your phone while crossing the road.",
+   "cn": "过马路时看手机很危险。",
+   "tag": "安全·手机"
+  },
+  {
+   "id": "SC-0015",
+   "word": "effective",
+   "en": "Flashcards are an effective way to remember new words.",
+   "cn": "闪卡是记新单词的有效方法。",
+   "tag": "学习·记忆"
+  },
+  {
+   "id": "SC-0016",
+   "word": "efficiently",
+   "en": "She plans her study time efficiently before every exam.",
+   "cn": "每次考试前，她都能高效地安排学习时间。",
+   "tag": "学习·时间管理"
+  },
+  {
+   "id": "SC-0017",
+   "word": "happily",
+   "en": "The whole class happily joined the volunteer activity.",
+   "cn": "全班都开心地参加了志愿活动。",
+   "tag": "公益·班级"
+  },
+  {
+   "id": "SC-0018",
+   "word": "responsibly",
+   "en": "We should use social media responsibly.",
+   "cn": "我们应该负责任地使用社交媒体。",
+   "tag": "网络·自律"
+  },
+  {
+   "id": "SC-0019",
+   "word": "unpredictable",
+   "en": "The weather in the mountains is unpredictable, so bring a raincoat.",
+   "cn": "山里天气多变，带件雨衣吧。",
+   "tag": "旅行·天气"
+  },
+  {
+   "id": "SC-0020",
+   "word": "wise",
+   "en": "It is wise to back up your homework on the cloud.",
+   "cn": "把作业备份到云端是明智的。",
+   "tag": "学习·科技"
+  },
+  {
+   "id": "SC-0021",
+   "word": "admiration",
+   "en": "I have great admiration for students who train hard every day.",
+   "cn": "我非常钦佩每天坚持训练的同学。",
+   "tag": "运动·榜样"
+  },
+  {
+   "id": "SC-0022",
+   "word": "anxiety",
+   "en": "Deep breathing can help you deal with anxiety before an exam.",
+   "cn": "深呼吸能帮你缓解考前焦虑。",
+   "tag": "心理·考试"
+  },
+  {
+   "id": "SC-0023",
+   "word": "curiosity",
+   "en": "Curiosity pushes us to ask questions and learn more.",
+   "cn": "好奇心推动我们提问和探索。",
+   "tag": "学习·探索"
+  },
+  {
+   "id": "SC-0024",
+   "word": "disappointment",
+   "en": "She felt disappointment when her favorite team lost.",
+   "cn": "她最喜欢的队输了，她感到很失望。",
+   "tag": "运动·情绪"
+  },
+  {
+   "id": "SC-0025",
+   "word": "enthusiasm",
+   "en": "His enthusiasm for science made the whole class interested.",
+   "cn": "他对科学的热情感染了全班。",
+   "tag": "科学·热情"
+  },
+  {
+   "id": "SC-0026",
+   "word": "excitement",
+   "en": "There was great excitement when the holiday was announced.",
+   "cn": "宣布放假时，大家都很兴奋。",
+   "tag": "校园·假期"
+  },
+  {
+   "id": "SC-0027",
+   "word": "fear",
+   "en": "Many students have a fear of speaking English in public.",
+   "cn": "很多学生害怕在公众场合说英语。",
+   "tag": "英语·表达"
+  },
+  {
+   "id": "SC-0028",
+   "word": "kindness",
+   "en": "A small act of kindness can make someone's day.",
+   "cn": "一个小小的善举就能让别人开心一整天。",
+   "tag": "朋友·善意"
+  },
+  {
+   "id": "SC-0029",
+   "word": "patience",
+   "en": "Learning a language takes patience and daily practice.",
+   "cn": "学语言需要耐心和每天练习。",
+   "tag": "学习·语言"
+  },
+  {
+   "id": "SC-0030",
+   "word": "satisfaction",
+   "en": "She felt great satisfaction after finishing the marathon.",
+   "cn": "跑完马拉松后，她非常有成就感。",
+   "tag": "运动·成就"
+  },
+  {
+   "id": "SC-0031",
+   "word": "agreement",
+   "en": "The two groups finally reached an agreement on the project.",
+   "cn": "两个小组最终在项目上达成了一致。",
+   "tag": "合作·沟通"
+  },
+  {
+   "id": "SC-0032",
+   "word": "communication",
+   "en": "Good communication keeps a team moving forward.",
+   "cn": "良好的沟通能让团队不断前进。",
+   "tag": "团队·沟通"
+  },
+  {
+   "id": "SC-0033",
+   "word": "cooperation",
+   "en": "Our success depends on cooperation between classmates.",
+   "cn": "我们的成功离不开同学之间的合作。",
+   "tag": "班级·合作"
+  },
+  {
+   "id": "SC-0034",
+   "word": "exchange",
+   "en": "We had a cultural exchange with students from another city.",
+   "cn": "我们和另一个城市的学生进行了文化交流。",
+   "tag": "文化·交流"
+  },
+  {
+   "id": "SC-0035",
+   "word": "interpretation",
+   "en": "Her interpretation of the poem surprised the teacher.",
+   "cn": "她对这首诗的解读让老师很惊讶。",
+   "tag": "语文·文学"
+  },
+  {
+   "id": "SC-0036",
+   "word": "introduction",
+   "en": "Let me give a short introduction to our new club.",
+   "cn": "让我简单介绍一下我们的新社团。",
+   "tag": "社团·表达"
+  },
+  {
+   "id": "SC-0037",
+   "word": "invitation",
+   "en": "I received an invitation to my classmate's birthday party.",
+   "cn": "我收到了同学生日聚会的邀请。",
+   "tag": "朋友·聚会"
+  },
+  {
+   "id": "SC-0038",
+   "word": "negotiation",
+   "en": "The students had a negotiation about the rules of the game.",
+   "cn": "同学们就游戏规则进行了协商。",
+   "tag": "校园·规则"
+  },
+  {
+   "id": "SC-0039",
+   "word": "social",
+   "en": "Volunteering is a good way to meet new people and build social skills.",
+   "cn": "志愿服务是认识新朋友、锻炼社交能力的好方式。",
+   "tag": "公益·社交"
+  },
+  {
+   "id": "SC-0040",
+   "word": "admission",
+   "en": "She was excited to receive her university admission letter.",
+   "cn": "收到大学录取通知书时，她非常激动。",
+   "tag": "升学·未来"
+  },
+  {
+   "id": "SC-0041",
+   "word": "analysis",
+   "en": "A careful analysis of the data helped us find the answer.",
+   "cn": "仔细分析数据帮我们找到了答案。",
+   "tag": "科学·数据"
+  },
+  {
+   "id": "SC-0042",
+   "word": "concentration",
+   "en": "Turn off notifications to improve your concentration.",
+   "cn": "关掉通知，能让你更专注。",
+   "tag": "学习·专注"
+  },
+  {
+   "id": "SC-0043",
+   "word": "educational",
+   "en": "The museum offers many educational programs for teenagers.",
+   "cn": "博物馆为青少年提供了许多教育项目。",
+   "tag": "文化·学习"
+  },
+  {
+   "id": "SC-0044",
+   "word": "graduation",
+   "en": "We are planning a video for our graduation ceremony.",
+   "cn": "我们正在为毕业典礼准备一个视频。",
+   "tag": "校园·毕业"
+  },
+  {
+   "id": "SC-0045",
+   "word": "practical",
+   "en": "Cooking is a practical skill that every student should learn.",
+   "cn": "做饭是每个学生都该学的实用技能。",
+   "tag": "生活·技能"
+  },
+  {
+   "id": "SC-0046",
+   "word": "review",
+   "en": "A quick review before bed helps you remember more.",
+   "cn": "睡前快速复习能帮你记得更牢。",
+   "tag": "学习·记忆"
+  },
+  {
+   "id": "SC-0047",
+   "word": "translation",
+   "en": "This translation of the poem sounds natural in Chinese.",
+   "cn": "这首诗的中文翻译读起来很自然。",
+   "tag": "语文·翻译"
+  },
+  {
+   "id": "SC-0048",
+   "word": "understanding",
+   "en": "Reading the whole passage gives you a better understanding.",
+   "cn": "通读全文能让你理解得更好。",
+   "tag": "英语·阅读"
+  },
+  {
+   "id": "SC-0049",
+   "word": "competition",
+   "en": "The competition for places in the school team is strong.",
+   "cn": "校队的选拔竞争很激烈。",
+   "tag": "校园·竞争"
+  },
+  {
+   "id": "SC-0050",
+   "word": "consumer",
+   "en": "As a consumer, you should compare prices before buying.",
+   "cn": "作为消费者，买东西前应该比较价格。",
+   "tag": "消费·理性"
+  },
+  {
+   "id": "SC-0051",
+   "word": "employment",
+   "en": "Many students take part-time jobs to get work experience.",
+   "cn": "很多学生做兼职来积累工作经验。",
+   "tag": "职业·兼职"
+  },
+  {
+   "id": "SC-0052",
+   "word": "growth",
+   "en": "Reading regularly leads to steady growth in vocabulary.",
+   "cn": "坚持阅读会让词汇量稳步增长。",
+   "tag": "学习·成长"
+  },
+  {
+   "id": "SC-0053",
+   "word": "increase",
+   "en": "There was a clear increase in students joining the reading club.",
+   "cn": "参加读书社的学生明显增加了。",
+   "tag": "校园·阅读"
+  },
+  {
+   "id": "SC-0054",
+   "word": "investment",
+   "en": "Learning a new skill is an investment in your future.",
+   "cn": "学一项新技能是对未来的投资。",
+   "tag": "成长·未来"
+  },
+  {
+   "id": "SC-0055",
+   "word": "management",
+   "en": "Good time management makes exam preparation less stressful.",
+   "cn": "良好的时间管理让备考没那么焦虑。",
+   "tag": "学习·时间"
+  },
+  {
+   "id": "SC-0056",
+   "word": "production",
+   "en": "Our class put on a production of a famous play.",
+   "cn": "我们班排演了一部著名戏剧。",
+   "tag": "校园·戏剧"
+  },
+  {
+   "id": "SC-0057",
+   "word": "stability",
+   "en": "A regular routine gives you more stability during busy weeks.",
+   "cn": "忙碌的一周里，规律的作息能让你更稳定。",
+   "tag": "生活·作息"
+  },
+  {
+   "id": "SC-0058",
+   "word": "advances",
+   "en": "Medical advances have helped many patients recover faster.",
+   "cn": "医学进步帮助许多病人更快康复。",
+   "tag": "健康·科技"
+  },
+  {
+   "id": "SC-0059",
+   "word": "diagnosis",
+   "en": "An early diagnosis can make treatment much easier.",
+   "cn": "早诊断能让治疗容易得多。",
+   "tag": "健康·医疗"
+  },
+  {
+   "id": "SC-0060",
+   "word": "health",
+   "en": "Sleep is as important to your health as food and exercise.",
+   "cn": "睡眠对健康的重要性不亚于食物和运动。",
+   "tag": "健康·睡眠"
+  },
+  {
+   "id": "SC-0061",
+   "word": "nutrition",
+   "en": "Good nutrition helps you stay focused in class.",
+   "cn": "良好的营养能让你上课更专注。",
+   "tag": "健康·饮食"
+  },
+  {
+   "id": "SC-0062",
+   "word": "patients",
+   "en": "The doctor spoke kindly to the young patients.",
+   "cn": "医生温和地对小病人们说话。",
+   "tag": "健康·关怀"
+  },
+  {
+   "id": "SC-0063",
+   "word": "recovery",
+   "en": "She made a quick recovery after the operation.",
+   "cn": "手术后她恢复得很快。",
+   "tag": "健康·恢复"
+  },
+  {
+   "id": "SC-0064",
+   "word": "researchers",
+   "en": "Researchers are looking for better ways to treat the disease.",
+   "cn": "研究人员正在寻找更好的治疗方法。",
+   "tag": "科学·医学"
+  },
+  {
+   "id": "SC-0065",
+   "word": "treatment",
+   "en": "The new treatment gave many patients hope.",
+   "cn": "新的治疗方法给许多病人带来了希望。",
+   "tag": "健康·治疗"
+  },
+  {
+   "id": "SC-0066",
+   "word": "application",
+   "en": "This app has a useful application for learning vocabulary.",
+   "cn": "这个应用在背单词方面很有用。",
+   "tag": "科技·学习"
+  },
+  {
+   "id": "SC-0067",
+   "word": "creative",
+   "en": "Our creative writing club meets every Wednesday.",
+   "cn": "我们的创意写作社每周三活动。",
+   "tag": "社团·写作"
+  },
+  {
+   "id": "SC-0068",
+   "word": "innovations",
+   "en": "Recent innovations in AI have changed online learning.",
+   "cn": "近年 AI 的创新改变了在线学习。",
+   "tag": "科技·AI"
+  },
+  {
+   "id": "SC-0069",
+   "word": "invention",
+   "en": "The telephone was an invention that changed the world.",
+   "cn": "电话是一项改变世界的发明。",
+   "tag": "科技·历史"
+  },
+  {
+   "id": "SC-0070",
+   "word": "research",
+   "en": "Our group is doing research on how music affects study.",
+   "cn": "我们小组正在研究音乐如何影响学习。",
+   "tag": "科学·研究"
+  },
+  {
+   "id": "SC-0071",
+   "word": "support",
+   "en": "My parents support my decision to study design.",
+   "cn": "父母支持我学设计的决定。",
+   "tag": "家庭·支持"
+  },
+  {
+   "id": "SC-0072",
+   "word": "transformation",
+   "en": "The old library has undergone a complete transformation.",
+   "cn": "旧图书馆已经完全变了样。",
+   "tag": "校园·变化"
+  },
+  {
+   "id": "SC-0073",
+   "word": "updates",
+   "en": "Check the app updates to get the newest features.",
+   "cn": "检查应用更新，获取最新功能。",
+   "tag": "科技·手机"
+  },
+  {
+   "id": "SC-0074",
+   "word": "beauty",
+   "en": "The beauty of the night sky made us forget our phones.",
+   "cn": "夜空的美丽让我们忘了看手机。",
+   "tag": "自然·旅行"
+  },
+  {
+   "id": "SC-0075",
+   "word": "change",
+   "en": "Small daily habits can lead to big change.",
+   "cn": "每天的小习惯能带来大改变。",
+   "tag": "环保·行动"
+  },
+  {
+   "id": "SC-0076",
+   "word": "Conservation",
+   "en": "Wildlife conservation needs support from young people.",
+   "cn": "野生动物保护需要年轻人的支持。",
+   "tag": "环保·动物"
+  },
+  {
+   "id": "SC-0077",
+   "word": "destruction",
+   "en": "Plastic pollution causes serious destruction to the ocean.",
+   "cn": "塑料污染对海洋造成严重破坏。",
+   "tag": "环保·海洋"
+  },
+  {
+   "id": "SC-0078",
+   "word": "efficiency",
+   "en": "Using energy with greater efficiency helps the planet.",
+   "cn": "更高效地使用能源对地球有好处。",
+   "tag": "环保·能源"
+  },
+  {
+   "id": "SC-0079",
+   "word": "pollution",
+   "en": "Air pollution is a serious problem in many big cities.",
+   "cn": "空气污染是许多大城市面临的严重问题。",
+   "tag": "环保·城市"
+  },
+  {
+   "id": "SC-0080",
+   "word": "protection",
+   "en": "The protection of wetlands is important for birds.",
+   "cn": "保护湿地对鸟类很重要。",
+   "tag": "环保·湿地"
+  },
+  {
+   "id": "SC-0081",
+   "word": "Recycling",
+   "en": "Recycling paper and bottles is easy if we sort them properly.",
+   "cn": "只要分类得当，回收纸张和瓶子很容易。",
+   "tag": "环保·回收"
+  },
+  {
+   "id": "SC-0082",
+   "word": "shortage",
+   "en": "The city faces a water shortage every summer.",
+   "cn": "这座城市每年夏天都面临缺水。",
+   "tag": "环保·水资源"
+  },
+  {
+   "id": "SC-0083",
+   "word": "behavior",
+   "en": "Good behavior in the library means keeping quiet and returning books on time.",
+   "cn": "在图书馆的好习惯就是保持安静、按时还书。",
+   "tag": "校园·规则"
+  },
+  {
+   "id": "SC-0084",
+   "word": "celebration",
+   "en": "The Lantern Festival celebration at school was full of music and food.",
+   "cn": "学校的元宵节庆祝活动充满了音乐和美食。",
+   "tag": "文化·节日"
+  },
+  {
+   "id": "SC-0085",
+   "word": "changes",
+   "en": "The changes in our timetable give us more time for sports.",
+   "cn": "课表的变化给了我们更多运动时间。",
+   "tag": "校园·作息"
+  },
+  {
+   "id": "SC-0086",
+   "word": "customs",
+   "en": "Learning about different customs helps us understand each other.",
+   "cn": "了解不同的习俗能帮助我们互相理解。",
+   "tag": "文化·理解"
+  },
+  {
+   "id": "SC-0087",
+   "word": "diversity",
+   "en": "Cultural diversity makes our class more interesting.",
+   "cn": "文化多样性让我们的班级更有趣。",
+   "tag": "文化·班级"
+  },
+  {
+   "id": "SC-0088",
+   "word": "evolves",
+   "en": "Language evolves as young people create new words.",
+   "cn": "随着年轻人创造新词，语言也在演变。",
+   "tag": "语言·网络"
+  },
+  {
+   "id": "SC-0089",
+   "word": "involvement",
+   "en": "Her involvement in the volunteer club changed her weekends.",
+   "cn": "她参与志愿社团后，周末变得不一样了。",
+   "tag": "公益·参与"
+  },
+  {
+   "id": "SC-0090",
+   "word": "society",
+   "en": "Social media plays a big role in modern society.",
+   "cn": "社交媒体在现代社会中扮演着重要角色。",
+   "tag": "社会·网络"
+  },
+  {
+   "id": "SC-0091",
+   "word": "traditional",
+   "en": "During the Spring Festival, we wear traditional clothes.",
+   "cn": "春节期间，我们会穿传统服装。",
+   "tag": "文化·节日"
+  },
+  {
+   "id": "SC-0092",
+   "word": "values",
+   "en": "Teamwork and honesty are important values in our class.",
+   "cn": "团队合作和诚实是我们班重要的价值观。",
+   "tag": "班级·价值观"
+  },
+  {
+   "id": "SC-0093",
+   "word": "amendments",
+   "en": "The club made amendments to its rules after a discussion.",
+   "cn": "讨论之后，社团对规则做了修改。",
+   "tag": "校园·规则"
+  },
+  {
+   "id": "SC-0094",
+   "word": "decision",
+   "en": "Choosing your major is a big decision.",
+   "cn": "选择专业是一个重大的决定。",
+   "tag": "升学·选择"
+  },
+  {
+   "id": "SC-0095",
+   "word": "Democratic",
+   "en": "The class made the decision in a democratic way.",
+   "cn": "班级用民主的方式做出了决定。",
+   "tag": "班级·民主"
+  },
+  {
+   "id": "SC-0096",
+   "word": "legal",
+   "en": "Downloading music illegally is not legal.",
+   "cn": "非法下载音乐是不合法的。",
+   "tag": "法律·网络"
+  },
+  {
+   "id": "SC-0097",
+   "word": "political",
+   "en": "We discussed a political issue in our debate club.",
+   "cn": "我们在辩论社讨论了一个政治话题。",
+   "tag": "社会·辩论"
+  },
+  {
+   "id": "SC-0098",
+   "word": "achievements",
+   "en": "The exhibition celebrates the achievements of young artists.",
+   "cn": "这场展览展示了年轻艺术家的成就。",
+   "tag": "艺术·展览"
+  },
+  {
+   "id": "SC-0099",
+   "word": "artifacts",
+   "en": "The museum protects ancient artifacts from damage.",
+   "cn": "博物馆保护古代文物不受损坏。",
+   "tag": "文化·文物"
+  },
+  {
+   "id": "SC-0100",
+   "word": "creativity",
+   "en": "Art class gives us space to show our creativity.",
+   "cn": "美术课给了我们展示创造力的空间。",
+   "tag": "艺术·创意"
+  },
+  {
+   "id": "SC-0101",
+   "word": "description",
+   "en": "Her description of the mountain made us want to travel.",
+   "cn": "她对那座山的描述让我们想去旅行。",
+   "tag": "写作·旅行"
+  },
+  {
+   "id": "SC-0102",
+   "word": "expression",
+   "en": "Music is a powerful expression of emotion.",
+   "cn": "音乐是表达情感的有力方式。",
+   "tag": "艺术·情感"
+  },
+  {
+   "id": "SC-0103",
+   "word": "imaginative",
+   "en": "The story is imaginative and full of surprises.",
+   "cn": "这个故事富有想象力，充满惊喜。",
+   "tag": "文学·阅读"
+  },
+  {
+   "id": "SC-0104",
+   "word": "painting",
+   "en": "This painting shows a quiet street in the rain.",
+   "cn": "这幅画描绘了雨中安静的街道。",
+   "tag": "艺术·绘画"
+  },
+  {
+   "id": "SC-0105",
+   "word": "performance",
+   "en": "The school performance starts at seven tonight.",
+   "cn": "学校演出今晚七点开始。",
+   "tag": "校园·演出"
+  },
+  {
+   "id": "SC-0106",
+   "word": "talent",
+   "en": "She has a talent for explaining difficult ideas.",
+   "cn": "她擅长把难懂的概念讲清楚。",
+   "tag": "学习·天赋"
+  },
+  {
+   "id": "SC-0107",
+   "word": "arrangements",
+   "en": "We made arrangements for the school trip.",
+   "cn": "我们为学校旅行做了安排。",
+   "tag": "旅行·计划"
+  },
+  {
+   "id": "SC-0108",
+   "word": "arrival",
+   "en": "Our arrival at the camp was greeted by rain.",
+   "cn": "我们到达营地时正下着雨。",
+   "tag": "旅行·营地"
+  },
+  {
+   "id": "SC-0109",
+   "word": "connection",
+   "en": "A stable internet connection is important for online classes.",
+   "cn": "稳定的网络连接对网课很重要。",
+   "tag": "科技·网课"
+  },
+  {
+   "id": "SC-0110",
+   "word": "construction",
+   "en": "The construction of the new library will finish next year.",
+   "cn": "新图书馆的建设将于明年完成。",
+   "tag": "校园·建设"
+  },
+  {
+   "id": "SC-0111",
+   "word": "exploration",
+   "en": "Space exploration inspires many young scientists.",
+   "cn": "太空探索激励着许多年轻科学家。",
+   "tag": "科学·太空"
+  },
+  {
+   "id": "SC-0112",
+   "word": "movement",
+   "en": "The environmental movement is growing among students.",
+   "cn": "环保运动在学生中不断发展。",
+   "tag": "环保·行动"
+  },
+  {
+   "id": "SC-0113",
+   "word": "Tourism",
+   "en": "Tourism brings money but also puts pressure on nature.",
+   "cn": "旅游业带来收入，也给自然带来压力。",
+   "tag": "旅行·环保"
+  },
+  {
+   "id": "SC-0114",
+   "word": "discoveries",
+   "en": "New discoveries in science often come from curiosity.",
+   "cn": "科学新发现往往来自好奇心。",
+   "tag": "科学·探索"
+  },
+  {
+   "id": "SC-0115",
+   "word": "equipment",
+   "en": "The lab equipment must be handled carefully.",
+   "cn": "实验室设备必须小心操作。",
+   "tag": "科学·实验"
+  },
+  {
+   "id": "SC-0116",
+   "word": "experiment",
+   "en": "Our experiment showed that plants grow toward light.",
+   "cn": "我们的实验表明植物会向光生长。",
+   "tag": "科学·实验"
+  },
+  {
+   "id": "SC-0117",
+   "word": "innovation",
+   "en": "Innovation starts with asking good questions.",
+   "cn": "创新始于提出好问题。",
+   "tag": "科技·创新"
+  },
+  {
+   "id": "SC-0118",
+   "word": "observation",
+   "en": "Careful observation is the first step in science.",
+   "cn": "仔细观察是科学的第一步。",
+   "tag": "科学·观察"
+  },
+  {
+   "id": "SC-0119",
+   "word": "athletic",
+   "en": "He is athletic and plays basketball every afternoon.",
+   "cn": "他运动能力很强，每天下午打篮球。",
+   "tag": "运动·篮球"
+  },
+  {
+   "id": "SC-0120",
+   "word": "coach",
+   "en": "Our coach tells us to warm up before running.",
+   "cn": "教练让我们跑步前先热身。",
+   "tag": "运动·训练"
+  },
+  {
+   "id": "SC-0121",
+   "word": "exercise",
+   "en": "Regular exercise helps you sleep better.",
+   "cn": "规律运动能让你睡得更好。",
+   "tag": "健康·运动"
+  },
+  {
+   "id": "SC-0122",
+   "word": "fitness",
+   "en": "She uses a fitness app to track her running.",
+   "cn": "她用健身应用记录跑步。",
+   "tag": "运动·科技"
+  },
+  {
+   "id": "SC-0123",
+   "word": "Participation",
+   "en": "Participation in class discussions improves your speaking.",
+   "cn": "参与课堂讨论能提高口语。",
+   "tag": "课堂·表达"
+  },
+  {
+   "id": "SC-0124",
+   "word": "strength",
+   "en": "Training every week builds both strength and confidence.",
+   "cn": "每周训练能增强力量和自信。",
+   "tag": "运动·成长"
+  },
+  {
+   "id": "SC-0125",
+   "word": "training",
+   "en": "The training for the school race starts at six.",
+   "cn": "校运会训练六点开始。",
+   "tag": "运动·校运会"
+  },
+  {
+   "id": "SC-0126",
+   "word": "winning",
+   "en": "The winning team shared the prize with everyone.",
+   "cn": "获胜队伍把奖品和大家分享。",
+   "tag": "运动·团队"
+  },
+  {
+   "id": "SC-0127",
+   "word": "cooking",
+   "en": "Cooking with friends is fun and cheaper than eating out.",
+   "cn": "和朋友一起做饭既有趣又比外食便宜。",
+   "tag": "生活·朋友"
+  },
+  {
+   "id": "SC-0128",
+   "word": "eating",
+   "en": "Healthy eating starts with a good breakfast.",
+   "cn": "健康饮食从一顿好早餐开始。",
+   "tag": "健康·饮食"
+  },
+  {
+   "id": "SC-0129",
+   "word": "nutritional",
+   "en": "This menu shows the nutritional value of each dish.",
+   "cn": "这份菜单标出了每道菜的营养价值。",
+   "tag": "健康·营养"
+  },
+  {
+   "id": "SC-0130",
+   "word": "planning",
+   "en": "Planning your week saves you from last-minute stress.",
+   "cn": "提前规划一周能避免临时焦虑。",
+   "tag": "学习·计划"
+  },
+  {
+   "id": "SC-0131",
+   "word": "preference",
+   "en": "My preference is to study in the morning.",
+   "cn": "我更喜欢早上学习。",
+   "tag": "学习·习惯"
+  },
+  {
+   "id": "SC-0132",
+   "word": "preparation",
+   "en": "Good preparation makes the exam less scary.",
+   "cn": "充分准备让考试没那么可怕。",
+   "tag": "考试·准备"
+  },
+  {
+   "id": "SC-0133",
+   "word": "safety",
+   "en": "Food safety matters when you cook for a group.",
+   "cn": "给一群人做饭时，食品安全很重要。",
+   "tag": "生活·安全"
+  },
+  {
+   "id": "SC-0134",
+   "word": "Storage",
+   "en": "Proper storage keeps vegetables fresh for longer.",
+   "cn": "正确储存能让蔬菜保鲜更久。",
+   "tag": "生活·储存"
+  },
+  {
+   "id": "SC-0135",
+   "word": "guidance",
+   "en": "Our teacher gives us guidance on choosing a university.",
+   "cn": "老师给我们选大学的指导。",
+   "tag": "升学·指导"
+  },
+  {
+   "id": "SC-0136",
+   "word": "marriage",
+   "en": "In some cultures, marriage is a family decision.",
+   "cn": "在一些文化中，婚姻是家庭的决定。",
+   "tag": "文化·家庭"
+  },
+  {
+   "id": "SC-0137",
+   "word": "memories",
+   "en": "The photos bring back happy memories of our trip.",
+   "cn": "这些照片唤起了旅行中的快乐回忆。",
+   "tag": "家庭·回忆"
+  },
+  {
+   "id": "SC-0138",
+   "word": "relationships",
+   "en": "Healthy relationships need time and honest communication.",
+   "cn": "健康的关系需要时间和坦诚沟通。",
+   "tag": "朋友·关系"
+  },
+  {
+   "id": "SC-0139",
+   "word": "awareness",
+   "en": "The campaign raises awareness of mental health.",
+   "cn": "这项活动提高了人们对心理健康的意识。",
+   "tag": "心理·公益"
+  },
+  {
+   "id": "SC-0140",
+   "word": "broadcast",
+   "en": "The match will be broadcast live online.",
+   "cn": "比赛将在网上直播。",
+   "tag": "媒体·体育"
+  },
+  {
+   "id": "SC-0141",
+   "word": "coverage",
+   "en": "The school newspaper gives full coverage of the sports day.",
+   "cn": "校报对运动会进行了全面报道。",
+   "tag": "媒体·校园"
+  },
+  {
+   "id": "SC-0142",
+   "word": "delivery",
+   "en": "Online shopping delivery is fast in big cities.",
+   "cn": "大城市的网购配送很快。",
+   "tag": "生活·消费"
+  },
+  {
+   "id": "SC-0143",
+   "word": "editing",
+   "en": "Video editing takes more time than shooting.",
+   "cn": "视频剪辑比拍摄更花时间。",
+   "tag": "媒体·创作"
+  },
+  {
+   "id": "SC-0144",
+   "word": "influence",
+   "en": "Friends can have a strong influence on your choices.",
+   "cn": "朋友会对你的选择产生很大影响。",
+   "tag": "朋友·成长"
+  },
+  {
+   "id": "SC-0145",
+   "word": "Information",
+   "en": "Check the information before you share it online.",
+   "cn": "转发前先核实信息。",
+   "tag": "网络·信息"
+  },
+  {
+   "id": "SC-0146",
+   "word": "publication",
+   "en": "Her article is ready for publication.",
+   "cn": "她的文章准备发表了。",
+   "tag": "写作·发表"
+  },
+  {
+   "id": "SC-0147",
+   "word": "report",
+   "en": "Our group wrote a report on food waste.",
+   "cn": "我们小组写了一份关于食物浪费的报告。",
+   "tag": "学习·报告"
+  },
+  {
+   "id": "SC-0148",
+   "word": "architecture",
+   "en": "The architecture of the old town is beautiful.",
+   "cn": "老城区的建筑很美。",
+   "tag": "文化·建筑"
+  },
+  {
+   "id": "SC-0149",
+   "word": "building",
+   "en": "The new building has a rooftop garden.",
+   "cn": "新楼有一个屋顶花园。",
+   "tag": "校园·建筑"
+  },
+  {
+   "id": "SC-0150",
+   "word": "decoration",
+   "en": "We made decorations for the classroom party.",
+   "cn": "我们为班级聚会做了装饰。",
+   "tag": "校园·活动"
+  },
+  {
+   "id": "SC-0151",
+   "word": "design",
+   "en": "She wants to study design at university.",
+   "cn": "她想在大学学设计。",
+   "tag": "升学·设计"
+  },
+  {
+   "id": "SC-0152",
+   "word": "engineer",
+   "en": "My cousin is an engineer working on electric cars.",
+   "cn": "我表哥是一名研究电动汽车的工程师。",
+   "tag": "职业·科技"
+  },
+  {
+   "id": "SC-0153",
+   "word": "maintenance",
+   "en": "Regular maintenance keeps the bikes safe.",
+   "cn": "定期维护能让自行车保持安全。",
+   "tag": "生活·维护"
+  },
+  {
+   "id": "SC-0154",
+   "word": "structure",
+   "en": "The structure of the essay should be clear.",
+   "cn": "文章结构应该清晰。",
+   "tag": "写作·结构"
+  },
+  {
+   "id": "SC-0155",
+   "word": "collaboration",
+   "en": "Our collaboration on the science project made the work much easier.",
+   "cn": "我们在科学项目上的合作让工作轻松了很多。",
+   "tag": "合作·科学"
+  },
+  {
+   "id": "SC-0156",
+   "word": "interview",
+   "en": "I was nervous before my first job interview.",
+   "cn": "第一次求职面试前我很紧张。",
+   "tag": "职业·面试"
+  },
+  {
+   "id": "SC-0157",
+   "word": "Leadership",
+   "en": "The camp taught me leadership and teamwork.",
+   "cn": "夏令营教会了我领导力和团队合作。",
+   "tag": "成长·领导力"
+  },
+  {
+   "id": "SC-0158",
+   "word": "manager",
+   "en": "The store manager gave me useful advice about part-time work.",
+   "cn": "店长给了我一些做兼职的实用建议。",
+   "tag": "职业·兼职"
+  },
+  {
+   "id": "SC-0159",
+   "word": "Promotion",
+   "en": "He got a promotion after working hard for two years.",
+   "cn": "努力工作两年后，他升职了。",
+   "tag": "职业·晋升"
+  },
+  {
+   "id": "SC-0160",
+   "word": "retirement",
+   "en": "My grandfather enjoys gardening after his retirement.",
+   "cn": "我爷爷退休后喜欢上了园艺。",
+   "tag": "家庭·退休"
+  },
+  {
+   "id": "SC-0161",
+   "word": "banking",
+   "en": "Online banking makes it easy to manage pocket money.",
+   "cn": "网上银行让管理零花钱变得很方便。",
+   "tag": "金融·生活"
+  },
+  {
+   "id": "SC-0162",
+   "word": "financial",
+   "en": "Learning financial skills early helps you plan for the future.",
+   "cn": "早点学习理财技能有助于规划未来。",
+   "tag": "金融·未来"
+  },
+  {
+   "id": "SC-0163",
+   "word": "inflation",
+   "en": "Inflation makes everyday things more expensive.",
+   "cn": "通货膨胀让日常用品变得更贵。",
+   "tag": "经济·生活"
+  },
+  {
+   "id": "SC-0164",
+   "word": "predictions",
+   "en": "Weather predictions help us plan the school sports day.",
+   "cn": "天气预报帮我们安排学校运动会。",
+   "tag": "科学·生活"
+  },
+  {
+   "id": "SC-0165",
+   "word": "Trade",
+   "en": "Trade between countries affects the things we buy.",
+   "cn": "国家之间的贸易会影响我们买到的东西。",
+   "tag": "经济·全球"
+  },
+  {
+   "id": "SC-0166",
+   "word": "confidence",
+   "en": "Speaking in front of the class slowly builds confidence.",
+   "cn": "在班上发言能慢慢建立自信。",
+   "tag": "心理·表达"
+  },
+  {
+   "id": "SC-0167",
+   "word": "intelligence",
+   "en": "Artificial intelligence is changing many jobs.",
+   "cn": "人工智能正在改变许多职业。",
+   "tag": "科技·AI"
+  },
+  {
+   "id": "SC-0168",
+   "word": "Motivation",
+   "en": "Clear goals give you motivation to keep going.",
+   "cn": "清晰的目标给你继续前进的动力。",
+   "tag": "心理·目标"
+  },
+  {
+   "id": "SC-0169",
+   "word": "optimism",
+   "en": "Her optimism helped the team after a difficult loss.",
+   "cn": "她乐观的心态在失利后鼓舞了全队。",
+   "tag": "心理·团队"
+  },
+  {
+   "id": "SC-0170",
+   "word": "personality",
+   "en": "Online quizzes cannot really describe your personality.",
+   "cn": "网络测试并不能真正描述你的性格。",
+   "tag": "心理·自我"
+  },
+  {
+   "id": "SC-0171",
+   "word": "psychological",
+   "en": "Sleep has a strong psychological effect on mood.",
+   "cn": "睡眠对情绪有很强的心理影响。",
+   "tag": "心理·睡眠"
+  },
+  {
+   "id": "SC-0172",
+   "word": "therapist",
+   "en": "Talking to a therapist can help when stress feels too heavy.",
+   "cn": "当压力太大时，和心理治疗师聊聊会有帮助。",
+   "tag": "心理·求助"
+  },
+  {
+   "id": "SC-0173",
+   "word": "depth",
+   "en": "The river is dangerous because of its depth.",
+   "cn": "这条河因为水深而很危险。",
+   "tag": "自然·地理"
+  },
+  {
+   "id": "SC-0174",
+   "word": "erosion",
+   "en": "Planting trees can slow down soil erosion.",
+   "cn": "种树可以减缓土壤侵蚀。",
+   "tag": "自然·环保"
+  },
+  {
+   "id": "SC-0175",
+   "word": "features",
+   "en": "The map shows the main features of the coast.",
+   "cn": "地图显示了海岸的主要特征。",
+   "tag": "地理·地图"
+  },
+  {
+   "id": "SC-0176",
+   "word": "formation",
+   "en": "The formation of the canyon took millions of years.",
+   "cn": "峡谷的形成花了数百万年。",
+   "tag": "地理·地质"
+  },
+  {
+   "id": "SC-0177",
+   "word": "preservation",
+   "en": "The preservation of old buildings is important for history.",
+   "cn": "保护老建筑对历史很重要。",
+   "tag": "文化·保护"
+  },
+  {
+   "id": "SC-0178",
+   "word": "resources",
+   "en": "We should use natural resources more carefully.",
+   "cn": "我们应该更谨慎地使用自然资源。",
+   "tag": "环保·资源"
+  },
+  {
+   "id": "SC-0179",
+   "word": "Vegetation",
+   "en": "Thick vegetation covers the hills after the rainy season.",
+   "cn": "雨季过后，茂密的植被覆盖了山丘。",
+   "tag": "自然·植被"
+  },
+  {
+   "id": "SC-0180",
+   "word": "Wildlife",
+   "en": "The park protects wildlife such as deer and birds.",
+   "cn": "公园保护着鹿和鸟类等野生动物。",
+   "tag": "自然·动物"
+  },
+  {
+   "id": "SC-0181",
+   "word": "beginning",
+   "en": "The beginning of the term is a good time to set goals.",
+   "cn": "学期开始是设定目标的好时机。",
+   "tag": "学习·目标"
+  },
+  {
+   "id": "SC-0182",
+   "word": "civilizations",
+   "en": "Ancient civilizations built cities along rivers.",
+   "cn": "古代文明沿河修建城市。",
+   "tag": "历史·文明"
+  },
+  {
+   "id": "SC-0183",
+   "word": "continuation",
+   "en": "The continuation of the project depends on our test results.",
+   "cn": "项目能否继续取决于测试结果。",
+   "tag": "学习·项目"
+  },
+  {
+   "id": "SC-0184",
+   "word": "end",
+   "en": "At the end of the day, review what you have learned.",
+   "cn": "一天结束时，回顾一下所学内容。",
+   "tag": "学习·复盘"
+  },
+  {
+   "id": "SC-0185",
+   "word": "events",
+   "en": "The school organizes many events during the arts festival.",
+   "cn": "艺术节期间学校会组织很多活动。",
+   "tag": "校园·活动"
+  },
+  {
+   "id": "SC-0186",
+   "word": "length",
+   "en": "The length of the exam is two hours.",
+   "cn": "考试时长是两个小时。",
+   "tag": "考试·时间"
+  },
+  {
+   "id": "SC-0187",
+   "word": "progress",
+   "en": "Small daily progress is better than a last-minute rush.",
+   "cn": "每天进步一点，胜过临时抱佛脚。",
+   "tag": "学习·进步"
+  },
+  {
+   "id": "SC-0188",
+   "word": "amount",
+   "en": "A large amount of plastic ends up in the ocean.",
+   "cn": "大量塑料最终流入海洋。",
+   "tag": "环保·塑料"
+  },
+  {
+   "id": "SC-0189",
+   "word": "data",
+   "en": "The data shows that students sleep less before exams.",
+   "cn": "数据显示，学生在考试前睡得更少。",
+   "tag": "数据·健康"
+  },
+  {
+   "id": "SC-0190",
+   "word": "distance",
+   "en": "The distance from my home to school is about two kilometers.",
+   "cn": "我家到学校的距离大约两公里。",
+   "tag": "生活·通勤"
+  },
+  {
+   "id": "SC-0191",
+   "word": "height",
+   "en": "The height of the tower is over one hundred meters.",
+   "cn": "这座塔的高度超过一百米。",
+   "tag": "地理·建筑"
+  },
+  {
+   "id": "SC-0192",
+   "word": "Measurement",
+   "en": "Accurate measurement is important in science experiments.",
+   "cn": "准确的测量在科学实验中很重要。",
+   "tag": "科学·实验"
+  },
+  {
+   "id": "SC-0193",
+   "word": "quantity",
+   "en": "The recipe needs a small quantity of salt.",
+   "cn": "这个食谱需要少量盐。",
+   "tag": "生活·烹饪"
+  },
+  {
+   "id": "SC-0194",
+   "word": "width",
+   "en": "The width of the river changes with the season.",
+   "cn": "河的宽度随季节变化。",
+   "tag": "地理·自然"
+  },
+  {
+   "id": "SC-0195",
+   "word": "Accuracy",
+   "en": "Accuracy matters when you record experimental results.",
+   "cn": "记录实验结果时，准确性很重要。",
+   "tag": "科学·严谨"
+  },
+  {
+   "id": "SC-0196",
+   "word": "Consistency",
+   "en": "Consistency is the key to learning a language.",
+   "cn": "坚持是学语言的关键。",
+   "tag": "学习·坚持"
+  },
+  {
+   "id": "SC-0197",
+   "word": "durability",
+   "en": "The durability of the shoes makes them good for hiking.",
+   "cn": "这双鞋很耐穿，适合徒步。",
+   "tag": "生活·运动"
+  },
+  {
+   "id": "SC-0198",
+   "word": "flexibility",
+   "en": "Yoga improves both strength and flexibility.",
+   "cn": "瑜伽能增强力量和柔韧性。",
+   "tag": "运动·健康"
+  },
+  {
+   "id": "SC-0199",
+   "word": "purity",
+   "en": "The purity of the water is tested every week.",
+   "cn": "水质纯度每周都要检测。",
+   "tag": "科学·环保"
+  },
+  {
+   "id": "SC-0200",
+   "word": "quality",
+   "en": "Sleep quality affects your mood and memory.",
+   "cn": "睡眠质量会影响情绪和记忆。",
+   "tag": "健康·睡眠"
+  },
+  {
+   "id": "SC-0201",
+   "word": "Reliability",
+   "en": "The reliability of the internet is important for online exams.",
+   "cn": "网络可靠性对在线考试很重要。",
+   "tag": "科技·考试"
+  },
+  {
+   "id": "SC-0202",
+   "word": "standards",
+   "en": "The school has high standards for lab safety.",
+   "cn": "学校对实验室安全有很高标准。",
+   "tag": "校园·安全"
+  },
+  {
+   "id": "SC-0203",
+   "word": "Accomplishment",
+   "en": "Finishing the marathon was a real accomplishment.",
+   "cn": "跑完马拉松是一项真正的成就。",
+   "tag": "运动·成就"
+  },
+  {
+   "id": "SC-0204",
+   "word": "achievement",
+   "en": "Winning the debate was a team achievement.",
+   "cn": "赢得辩论赛是团队的成就。",
+   "tag": "校园·团队"
+  },
+  {
+   "id": "SC-0205",
+   "word": "advancement",
+   "en": "Technology advancement creates new kinds of jobs.",
+   "cn": "技术进步创造了新的职业。",
+   "tag": "科技·职业"
+  },
+  {
+   "id": "SC-0206",
+   "word": "completion",
+   "en": "The completion of the project took three months.",
+   "cn": "完成这个项目花了三个月。",
+   "tag": "学习·项目"
+  },
+  {
+   "id": "SC-0207",
+   "word": "fulfillment",
+   "en": "Volunteering gives her a sense of fulfillment.",
+   "cn": "志愿服务给她带来满足感。",
+   "tag": "公益·成长"
+  },
+  {
+   "id": "SC-0208",
+   "word": "Improvement",
+   "en": "Daily practice leads to steady improvement.",
+   "cn": "每天练习会带来稳步提高。",
+   "tag": "学习·进步"
+  },
+  {
+   "id": "SC-0209",
+   "word": "success",
+   "en": "Success is not only about grades.",
+   "cn": "成功不只是成绩。",
+   "tag": "成长·价值观"
+  },
+  {
+   "id": "SC-0210",
+   "word": "victorious",
+   "en": "The victorious team thanked their coach.",
+   "cn": "获胜的队伍感谢了教练。",
+   "tag": "运动·团队"
+  },
+  {
+   "id": "SC-0211",
+   "word": "challenge",
+   "en": "Learning to manage time is a challenge for many students.",
+   "cn": "学会管理时间对很多学生来说是个挑战。",
+   "tag": "学习·时间"
+  },
+  {
+   "id": "SC-0212",
+   "word": "Difficulties",
+   "en": "She faced many difficulties but never stopped trying.",
+   "cn": "她遇到很多困难，但从未停止尝试。",
+   "tag": "成长·坚持"
+  },
+  {
+   "id": "SC-0213",
+   "word": "investigation",
+   "en": "The school started an investigation into the broken window.",
+   "cn": "学校开始调查窗户被打破的事。",
+   "tag": "校园·调查"
+  },
+  {
+   "id": "SC-0214",
+   "word": "issues",
+   "en": "The class meeting focused on environmental issues.",
+   "cn": "班会聚焦环境问题。",
+   "tag": "环保·讨论"
+  },
+  {
+   "id": "SC-0215",
+   "word": "resolution",
+   "en": "They found a peaceful resolution to the argument.",
+   "cn": "他们找到了和平解决争吵的办法。",
+   "tag": "沟通·解决"
+  },
+  {
+   "id": "SC-0216",
+   "word": "solution",
+   "en": "Talking openly is often the best solution.",
+   "cn": "坦诚沟通往往是最好的解决办法。",
+   "tag": "沟通·方法"
+  },
+  {
+   "id": "SC-0217",
+   "word": "solving",
+   "en": "Solving problems with friends is easier than facing them alone.",
+   "cn": "和朋友一起解决问题比独自面对容易。",
+   "tag": "朋友·合作"
+  },
+  {
+   "id": "SC-0218",
+   "word": "Trouble",
+   "en": "He had trouble sleeping before the big exam.",
+   "cn": "大考前他睡不好觉。",
+   "tag": "考试·压力"
+  },
+  {
+   "id": "SC-0219",
+   "word": "fill in",
+   "en": "Please fill in the form before you join the school club.",
+   "cn": "参加学校社团前，请先填好这张表。",
+   "tag": "校园·社团"
+  },
+  {
+   "id": "SC-0220",
+   "word": "take place",
+   "en": "The school sports meeting will take place next Friday.",
+   "cn": "学校运动会将在下周五举行。",
+   "tag": "校园·运动"
+  },
+  {
+   "id": "SC-0221",
+   "word": "give up",
+   "en": "Do not give up when a problem looks difficult.",
+   "cn": "遇到难题时不要放弃。",
+   "tag": "学习·心态"
+  },
+  {
+   "id": "SC-0222",
+   "word": "look into",
+   "en": "The teacher promised to look into the noise problem.",
+   "cn": "老师答应调查噪音问题。",
+   "tag": "校园·沟通"
+  },
+  {
+   "id": "SC-0223",
+   "word": "take after",
+   "en": "People say I take after my mother because we both love reading.",
+   "cn": "大家说我和妈妈很像，因为我们都爱读书。",
+   "tag": "家庭·性格"
+  },
+  {
+   "id": "SC-0224",
+   "word": "work out",
+   "en": "We finally worked out a plan for the class project.",
+   "cn": "我们终于想出了班级项目的方案。",
+   "tag": "合作·项目"
+  },
+  {
+   "id": "SC-0225",
+   "word": "go over",
+   "en": "Let us go over the notes before the quiz.",
+   "cn": "小测前我们一起复习笔记吧。",
+   "tag": "学习·复习"
+  },
+  {
+   "id": "SC-0226",
+   "word": "come up with",
+   "en": "Can you come up with a better name for our club?",
+   "cn": "你能给社团想一个更好的名字吗？",
+   "tag": "社团·创意"
+  },
+  {
+   "id": "SC-0227",
+   "word": "spread",
+   "en": "Good study habits can spread quickly in a positive class.",
+   "cn": "好的学习习惯会在积极的班级里迅速传播。",
+   "tag": "班级·习惯"
+  },
+  {
+   "id": "SC-0228",
+   "word": "put up with",
+   "en": "I cannot put up with the noise from the street at night.",
+   "cn": "我实在受不了晚上街上的噪音。",
+   "tag": "生活·环境"
+  },
+  {
+   "id": "SC-0229",
+   "word": "perseverance",
+   "en": "Perseverance helped her improve her English step by step.",
+   "cn": "坚持让她一步步提高了英语。",
+   "tag": "学习·坚持"
+  },
+  {
+   "id": "SC-0230",
+   "word": "responsibility",
+   "en": "Taking responsibility for your choices is part of growing up.",
+   "cn": "为自己的选择负责是成长的一部分。",
+   "tag": "成长·责任"
+  },
+  {
+   "id": "SC-0231",
+   "word": "foundation",
+   "en": "A strong foundation in math makes later topics easier.",
+   "cn": "扎实的数学基础让后面的内容更容易。",
+   "tag": "学习·基础"
+  },
+  {
+   "id": "SC-0232",
+   "word": "global",
+   "en": "Climate change is a global challenge.",
+   "cn": "气候变化是全球性挑战。",
+   "tag": "全球·环保"
+  },
+  {
+   "id": "SC-0233",
+   "word": "lifelong",
+   "en": "Reading is a lifelong habit worth building.",
+   "cn": "阅读是值得培养的终身习惯。",
+   "tag": "成长·阅读"
+  },
+  {
+   "id": "SC-0234",
+   "word": "sustainable",
+   "en": "We need sustainable ways to use energy and water.",
+   "cn": "我们需要可持续地使用能源和水。",
+   "tag": "环保·未来"
+  },
+  {
+   "id": "SC-0235",
+   "word": "adapt",
+   "en": "Students must adapt to new ways of learning.",
+   "cn": "学生必须适应新的学习方式。",
+   "tag": "学习·适应"
+  },
+  {
+   "id": "SC-0236",
+   "word": "mutual",
+   "en": "Mutual respect makes group work more enjoyable.",
+   "cn": "相互尊重让小组合作更愉快。",
+   "tag": "合作·尊重"
+  }
+ ]
+}

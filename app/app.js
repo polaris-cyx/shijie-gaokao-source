@@ -233,6 +233,55 @@ function prose(src) {
     .replace(/\*\*(.+?)\*\*/g, '<b>$1</b>')
     .replace(/\n/g, '<br>')).join('');
 }
+/* ───────────────── 朗读（使用本机语音，离线可用） ───────────────── */
+let voicesCache = [];
+function refreshVoices() {
+  try { voicesCache = window.speechSynthesis ? window.speechSynthesis.getVoices() || [] : []; } catch (e) { voicesCache = []; }
+}
+if ('speechSynthesis' in window) {
+  refreshVoices();
+  window.speechSynthesis.onvoiceschanged = refreshVoices;
+}
+function speechText(text, lang = 'en-US') {
+  let t = String(text == null ? '' : text)
+    .replace(/_{2,}/g, ' blank ')
+    .replace(/（[^）]*）/g, ' ')
+    .replace(/\([^)]*\)/g, ' ');
+  if (String(lang).toLowerCase().startsWith('en')) {
+    t = t.replace(/[\u4e00-\u9fff]+/g, ' ').replace(/[，。；：！？、]/g, ' ');
+  }
+  return t.replace(/\s+/g, ' ').trim();
+}
+function mostlyEnglish(text) {
+  const t = String(text == null ? '' : text);
+  const cjk = (t.match(/[\u4e00-\u9fff]/g) || []).length;
+  const lat = (t.match(/[A-Za-z]/g) || []).length;
+  return lat >= 2 && lat > cjk * 1.2;
+}
+function say(text, lang = 'en-US') {
+  if (!('speechSynthesis' in window)) { toast('这个浏览器不支持语音朗读'); return; }
+  const clean = speechText(text, lang);
+  if (!clean) { toast('没有可朗读的内容'); return; }
+  try {
+    window.speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(clean);
+    u.lang = lang; u.rate = 0.88; u.pitch = 1;
+    if (!voicesCache.length) refreshVoices();
+    const prefix = lang.slice(0, 2).toLowerCase();
+    const list = voicesCache.filter((v) => String(v.lang || '').toLowerCase().startsWith(prefix));
+    const exact = list.filter((v) => String(v.lang || '').toLowerCase().replace('_', '-') === lang.toLowerCase());
+    const pool = exact.length ? exact : list;
+    const preferred = pool.find((v) => /samantha|aria|jenny|google us english|natural/i.test(v.name))
+      || pool.find((v) => /alex|daniel|karen/i.test(v.name))
+      || pool.find((v) => v.localService) || pool[0];
+    if (preferred) u.voice = preferred;
+    window.speechSynthesis.speak(u);
+  } catch (e) { toast('朗读失败，请检查系统语音设置'); }
+}
+function speakBtn(text, cls = '') {
+  if (!text) return '';
+  return `<button class="speak-btn ${cls}" data-act="say" data-say="${esc(text)}" data-lang="en-US" title="朗读这段英文" aria-label="朗读">${icon('speaker')}</button>`;
+}
 function srcLink(src) {
   if (!src || !src.file) return '';
   const f = encodeURIComponent(src.file);
@@ -255,7 +304,8 @@ const ICONS = {
   settings: '<circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .34 1.87l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06A1.7 1.7 0 0 0 15 19.4a1.7 1.7 0 0 0-1 .6 1.7 1.7 0 0 0-.4 1.1V21a2 2 0 1 1-4 0v-.09A1.7 1.7 0 0 0 8.6 19.4a1.7 1.7 0 0 0-1.87.34l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.7 1.7 0 0 0 4.6 15a1.7 1.7 0 0 0-.6-1 1.7 1.7 0 0 0-1.1-.4H3a2 2 0 1 1 0-4h.09A1.7 1.7 0 0 0 4.6 8.6a1.7 1.7 0 0 0-.34-1.87l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.7 1.7 0 0 0 9 4.6a1.7 1.7 0 0 0 1-.6 1.7 1.7 0 0 0 .4-1.1V3a2 2 0 1 1 4 0v.09A1.7 1.7 0 0 0 15.4 4.6a1.7 1.7 0 0 0 1.87-.34l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.7 1.7 0 0 0 19.4 9c.1.36.32.7.6 1 .3.26.68.4 1.1.4H21a2 2 0 1 1 0 4h-.09a1.7 1.7 0 0 0-1.51.6z"/>',
   more: '<circle cx="5" cy="12" r="1.5" fill="currentColor" stroke="none"/><circle cx="12" cy="12" r="1.5" fill="currentColor" stroke="none"/><circle cx="19" cy="12" r="1.5" fill="currentColor" stroke="none"/>',
   arrow: '<path d="M5 12h14M13 6l6 6-6 6"/>',
-  search: '<circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/>'
+  search: '<circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/>',
+  speaker: '<path d="M11 5 6 9H3v6h3l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M18.5 5.5a9 9 0 0 1 0 13"/>'
 };
 function icon(name) { return `<svg viewBox="0 0 24 24" aria-hidden="true">${ICONS[name] || ''}</svg>`; }
 
@@ -596,6 +646,7 @@ function renderLearnCard() {
         <span class="chip" style="background:${colorMix(chColor(k.chapter), 12)};color:${chColor(k.chapter)}">${esc(c.name || '')}</span>
         <span class="chip dot" title="重要度">${'★'.repeat(k.star || 3)}${'☆'.repeat(5 - (k.star || 3))}</span>
         ${(k.tags || []).slice(0, 3).map((t) => `<span class="chip">${esc(t)}</span>`).join('')}
+        ${k.subject === 'english' && (k.examples || []).length ? `<button class="chip chip-btn" data-act="say" data-say="${esc(k.examples.map((e) => e.q).join('. '))}" data-lang="en-US">${icon('speaker')} 读例句</button>` : ''}
         <div class="spacer"></div>
         <span class="tiny muted">${esc(k.id)}</span>
       </div>
@@ -610,7 +661,7 @@ function renderLearnCard() {
       ${(k.bullets || []).length ? `<div class="kp-sec"><div class="kp-sec-t">要点</div><ul class="dots">${k.bullets.map((b) => `<li>${prose(b)}</li>`).join('')}</ul></div>` : ''}
 
       ${(k.examples || []).length ? `<div class="kp-sec"><div class="kp-sec-t">例题</div>
-        ${k.examples.map((ex) => `<div class="example"><div class="ex-q">${prose(ex.q)}</div><div class="ex-a">${prose(ex.a)}</div></div>`).join('')}</div>` : ''}
+        ${k.examples.map((ex) => `<div class="example"><div class="ex-q">${prose(ex.q)}${mostlyEnglish(ex.q) ? speakBtn(ex.q, 'inline') : ''}</div><div class="ex-a">${prose(ex.a)}${mostlyEnglish(ex.a) ? speakBtn(ex.a, 'inline') : ''}</div></div>`).join('')}</div>` : ''}
 
       ${k.mnemonic ? `<div class="mnemo"><b>口诀</b><span>${esc(k.mnemonic)}</span></div>` : ''}
       ${k.trap ? `<div class="trap-box">${prose(k.trap)}</div>` : ''}
@@ -742,16 +793,23 @@ function vocabCard(v) {
   const known = !!state.knownWords[v.id];
   const hidden = ui.vocab.flash && !ui.vocab.revealed[v.id];
   return `<div class="vocab-card ${known ? 'known' : ''}" data-act="word-click" data-id="${v.id}">
-    <div class="vc-actions"><button data-act="speak" data-id="${v.id}" title="朗读">🔊</button><button data-act="word-known" data-id="${v.id}" title="标记掌握">${known ? '↺' : '✓'}</button></div>
-    <div><span class="vc-word">${esc(v.word)}</span>${v.pos ? `<span class="vc-pos">${esc(v.pos)}</span>` : ''}</div>
+    <div class="vc-word-row">
+      <div class="vc-word-main"><span class="vc-word">${esc(v.word)}</span>${v.pos ? `<span class="vc-pos">${esc(v.pos)}</span>` : ''}${speakBtn(v.word, 'word-speak')}</div>
+      <div class="vc-actions"><button data-act="word-known" data-id="${v.id}" title="标记掌握">${known ? '↺' : '✓'}</button></div>
+    </div>
     <div class="vc-cn" style="${hidden ? 'filter:blur(5px);cursor:pointer' : ''}">${hidden ? '点击查看释义' : esc(v.cn || '')}</div>
-    ${v.example ? `<div class="vc-ex" style="${hidden ? 'filter:blur(4px)' : ''}">${esc(v.example)}</div>` : ''}
-    ${v.related ? `<div class="vc-rel">相关形式：<b>${esc(v.related)}</b></div>` : ''}
+    ${v.example ? `<div class="vc-ex" style="${hidden ? 'filter:blur(4px)' : ''}">${speakBtn(v.example, 'inline')}<span>${esc(v.example)}</span></div>` : ''}
+    ${v.scene ? `<div class="vc-scene" style="${hidden ? 'filter:blur(4px)' : ''}">
+      <div class="vc-scene-head"><span class="vc-tag">${esc(v.sceneTag || '情景')}</span>${speakBtn(v.scene, 'inline')}</div>
+      <p class="vc-scene-en">${esc(v.scene)}</p>
+      <p class="vc-scene-cn">${esc(v.sceneCn || '')}</p>
+    </div>` : ''}
+    ${v.related ? `<div class="vc-rel">相关形式：<b>${esc(v.related)}</b>${speakBtn(v.related, 'inline')}</div>` : ''}
   </div>`;
 }
 function renderVocabSearch() {
   const q = ui.vocab.q.toLowerCase();
-  const list = DB.vocab.filter((v) => (v.word + v.cn + v.theme + (v.related || '')).toLowerCase().includes(q));
+  const list = DB.vocab.filter((v) => (v.word + v.cn + v.theme + (v.related || '') + (v.scene || '') + (v.sceneCn || '') + (v.sceneTag || '')).toLowerCase().includes(q));
   if (!list.length) return `<div class="empty"><div class="ico">A</div><h3>没有找到这个单词</h3><p>试试只输入前几个字母。</p></div>`;
   return `<div class="vocab-list">${list.slice(0, 80).map(vocabCard).join('')}</div>`;
 }
@@ -763,6 +821,7 @@ function renderVocabDay() {
     <div class="page-head">
       <div><div class="eyebrow">Day ${d} / 30</div><h1>${esc((list[0] || {}).theme || '词汇')}</h1><p>${list.length} 个词 · 已掌握 ${known}</p></div>
       <span class="spacer"></span>
+      <button class="btn" data-act="say" data-say="${esc(list.map((v) => v.word).join('. '))}" data-lang="en-US">${icon('speaker')} 朗读本组</button>
       <button class="btn" data-act="vocab-back">← 全部天数</button>
       <button class="btn ${ui.vocab.flash ? 'primary' : ''}" data-act="vocab-flash">${ui.vocab.flash ? '闪卡中' : '闪卡模式'}</button>
     </div>
@@ -846,6 +905,10 @@ function renderQuizRun() {
   const sel = s.ans[s.i], judged = s.judged[s.i];
   const multi = q.type === 'multi';
   const correct = q.answer || [];
+  const enText = q.subject === 'english'
+    ? (mostlyEnglish(q.stem) ? q.stem : ((q.stem.match(/「([A-Za-z][^」]*)」/) || [])[1] || ''))
+    : '';
+  const answerSpeech = q.type === 'fill' ? (q.answerText || []).join(' / ') : correct.map((i) => (q.options || [])[i]).join('. ');
   return `<div class="wrap">
     <div class="quiz-head">
       <span class="chip solid" style="background:${subColor(q.subject)}">${esc(subName(q.subject))}</span>
@@ -856,7 +919,7 @@ function renderQuizRun() {
       <button class="btn sm ghost" data-act="quiz-exit">退出</button>
     </div>
     <div class="card q-card">
-      <div class="q-stem">${prose(q.stem)}</div>
+      <div class="q-stem">${prose(q.stem)}${enText ? speakBtn(enText, 'stem-speak') : ''}</div>
       ${q.type === 'fill' ? `<div class="row" style="gap:9px;flex-wrap:wrap">
         <input class="fill-input" id="fillInput" placeholder="输入答案，回车提交" autocomplete="off" autocapitalize="off" spellcheck="false" ${judged ? 'disabled' : ''} value="${judged ? esc((sel || []).join('')) : ''}">
         ${!judged ? `<button class="btn primary" data-act="submit-fill">提交</button>` : ''}
@@ -869,11 +932,11 @@ function renderQuizRun() {
             if (correct.includes(oi)) cls += ' right';
             else if (sel && sel.includes(oi)) cls += ' wrong';
           }
-          return `<div class="${cls}" data-act="pick" data-i="${oi}"><span class="ok">${String.fromCharCode(65 + oi)}</span><span>${prose(o)}</span></div>`;
+          return `<div class="${cls}" data-act="pick" data-i="${oi}"><span class="ok">${String.fromCharCode(65 + oi)}</span><span class="opt-text">${prose(o)}</span>${q.subject === 'english' && mostlyEnglish(o) ? speakBtn(o, 'opt-say') : ''}</div>`;
         }).join('')}
       </div>`}
       ${judged ? `<div class="explain">
-        <div class="verdict ${sel && sameSet(sel, correct) ? 'ok' : 'no'}">${sel && sameSet(sel, correct) ? '✓ 正确' : '✗ 错误'}<span class="muted" style="font-weight:400;font-size:11.5px">正确答案：${q.type === 'fill' ? esc((q.answerText || []).join(' / ')) : correct.map((i) => String.fromCharCode(65 + i)).join('')}</span></div>
+        <div class="verdict ${sel && sameSet(sel, correct) ? 'ok' : 'no'}">${sel && sameSet(sel, correct) ? '✓ 正确' : '✗ 错误'}<span class="muted" style="font-weight:400;font-size:11.5px">正确答案：${q.type === 'fill' ? esc((q.answerText || []).join(' / ')) : correct.map((i) => String.fromCharCode(65 + i)).join('')}</span>${q.subject === 'english' && mostlyEnglish(answerSpeech) ? speakBtn(answerSpeech, 'inline') : ''}</div>
         <div>${prose(q.explain)}</div>
         <div class="src">${srcLink(q.source)}${q.tags ? ' · ' + esc(q.tags.slice(0, 2).join(' / ')) : ''}</div>
         ${q.type === 'fill' && sel && !sameSet(sel, correct) ? `<div style="margin-top:10px"><button class="btn sm" data-act="self-correct">我写的是同义表达，算对</button></div>` : ''}
@@ -881,6 +944,7 @@ function renderQuizRun() {
       <div class="q-actions">
         ${!judged ? `${multi ? '<button class="btn primary" data-act="submit-multi">提交答案</button>' : ''}<span class="tiny muted">${multi ? '多选题：选全后提交' : q.type === 'fill' ? '填空：注意词形变化和拼写' : '点击选项直接判定'}</span>` : `<button class="btn primary" data-act="next-q">${s.i + 1 < s.list.length ? '下一题 →' : '看结果 →'}</button>`}
         <div class="spacer"></div>
+        ${enText ? `<button class="btn ghost sm" data-act="say" data-say="${esc([enText].concat((q.options || []).filter(mostlyEnglish)).join('. '))}" data-lang="en-US">${icon('speaker')} 朗读整题</button>` : ''}
         <button class="btn ghost sm" data-act="prev-q" ${s.i === 0 ? 'disabled' : ''}>← 上一题</button>
       </div>
     </div>
@@ -1075,7 +1139,7 @@ function renderExamRun() {
     <div class="card q-card">
       <div class="row" style="justify-content:space-between;margin-bottom:5px"><span class="tiny muted">本卷第 ${s.i + 1} 题 · 每题 ${(100 / s.paper.length).toFixed(1)} 分</span>
         <button class="btn sm ghost" data-act="exam-flag">${s.flags.has(s.i) ? '⚑ 已标记' : '⚐ 标记'}</button></div>
-      <div class="q-stem">${prose(q.stem)}</div>
+      <div class="q-stem">${prose(q.stem)}${enText ? speakBtn(enText, 'stem-speak') : ''}</div>
       ${q.type === 'fill' ? `<input class="fill-input" id="examFill" placeholder="输入答案" value="${sel ? esc(sel[0]) : ''}" autocomplete="off" autocapitalize="off" spellcheck="false">
         <div class="tiny muted" style="margin-top:6px">填空答案按完全匹配计分。</div>` : `<div class="q-opts">
         ${(q.options || []).map((o, oi) => `<div class="opt ${sel && sel.includes(oi) ? 'sel' : ''}" data-act="exam-pick" data-i="${oi}"><span class="ok">${String.fromCharCode(65 + oi)}</span><span>${prose(o)}</span></div>`).join('')}
@@ -1386,7 +1450,7 @@ function doSearch(q) {
     DB.kps.forEach((k) => { if ((k.topic + k.core + (k.detail || '') + (k.tags || []).join('')).toLowerCase().includes(term)) res.push({ type: 'card', t: k.topic, s: `${subName(k.subject)} · ${chName(k.chapter)}`, id: k.id }); });
     DB.formulas.forEach((f) => { if ((f.name + f.expr + (f.note || '')).toLowerCase().includes(term)) res.push({ type: 'formula', t: f.name, s: f.expr, id: f.id }); });
     DB.equations.forEach((e) => { if ((e.name + e.equation + (e.note || '')).toLowerCase().includes(term)) res.push({ type: 'equation', t: e.name, s: e.equation, id: e.id }); });
-    DB.vocab.forEach((v) => { if ((v.word + v.cn + (v.related || '') + v.theme).toLowerCase().includes(term)) res.push({ type: 'word', t: v.word, s: `${v.cn || ''} · Day${v.day}`, id: v.id }); });
+    DB.vocab.forEach((v) => { if ((v.word + v.cn + (v.related || '') + v.theme + (v.scene || '') + (v.sceneCn || '') + (v.sceneTag || '')).toLowerCase().includes(term)) res.push({ type: 'word', t: v.word, s: `${v.cn || ''} · Day${v.day}${v.sceneTag ? ' · ' + v.sceneTag : ''}`, id: v.id }); });
     DB.questions.forEach((q) => { if ((q.stem + (q.explain || '')).toLowerCase().includes(term)) res.push({ type: 'question', t: q.stem.slice(0, 58), s: `${subName(q.subject)} · ${TYPE_NAME[q.type]} · ${chName(q.chapter)}`, id: q.id }); });
   }
   ui.search.results = res.slice(0, 80);
@@ -1421,9 +1485,13 @@ function openKP(id) {
 }
 function openQuestion(q) {
   if (!q) return;
+  const enText = q.subject === 'english'
+    ? (mostlyEnglish(q.stem) ? q.stem : ((q.stem.match(/「([A-Za-z][^」]*)」/) || [])[1] || ''))
+    : '';
+  const answerSpeech = q.type === 'fill' ? (q.answerText || []).join(' / ') : correct.map((i) => (q.options || [])[i]).join('. ');
   modal(`<h2>${TYPE_NAME[q.type]} · ${esc(chName(q.chapter))}</h2>
-    <div style="font-size:15px;line-height:1.85;margin-bottom:14px">${prose(q.stem)}</div>
-    ${q.type !== 'fill' ? `<div style="display:flex;flex-direction:column;gap:7px">${(q.options || []).map((o, i) => `<div class="opt ${q.answer.includes(i) ? 'right' : ''}" style="pointer-events:none"><span class="ok">${String.fromCharCode(65 + i)}</span><span>${prose(o)}</span></div>`).join('')}</div>` : `<div class="explain" style="margin-top:0"><b>答案：${esc((q.answerText || []).join(' / '))}</b></div>`}
+    <div style="font-size:17px;line-height:1.85;margin-bottom:14px">${prose(q.stem)}${enText ? speakBtn(enText, 'inline') : ''}</div>
+    ${q.type !== 'fill' ? `<div style="display:flex;flex-direction:column;gap:7px">${(q.options || []).map((o, i) => `<div class="opt ${q.answer.includes(i) ? 'right' : ''}"><span class="ok">${String.fromCharCode(65 + i)}</span><span class="opt-text">${prose(o)}</span>${q.subject === 'english' && mostlyEnglish(o) ? speakBtn(o, 'opt-say') : ''}</div>`).join('')}</div>` : `<div class="explain" style="margin-top:0"><b>答案：${esc((q.answerText || []).join(' / '))}</b>${q.subject === 'english' && (q.answerText || []).length ? speakBtn(q.answerText[0], 'inline') : ''}</div>`}
     <div class="explain"><div>${prose(q.explain)}</div><div class="src">${srcLink(q.source)}</div></div>
     <div class="row" style="margin-top:16px;justify-content:flex-end"><button class="btn" data-close-modal>关闭</button></div>`);
 }
@@ -1548,14 +1616,14 @@ const ACT = {
     const id = t.dataset.id;
     if (ui.vocab.flash) { ui.vocab.revealed[id] = !ui.vocab.revealed[id]; render(); return; }
     const v = VOC.get(id); if (!v) return;
-    modal(`<h2>${esc(v.word)}${v.pos ? ` <span class="vc-pos" style="vertical-align:4px">${esc(v.pos)}</span>` : ''}</h2>
-      <p style="font-size:16px;margin:0 0 12px">${esc(v.cn || '')}</p>
-      ${v.example ? `<div class="explain" style="margin-top:0"><b>例句</b><br>${esc(v.example)}</div>` : ''}
-      ${v.related ? `<p class="small" style="margin-top:10px">相关形式：<b>${esc(v.related)}</b></p>` : ''}
-      ${v.explain ? `<p class="tiny muted" style="line-height:1.8;margin-top:8px">${esc(v.explain)}</p>` : ''}
+    modal(`<h2>${esc(v.word)}${v.pos ? ` <span class="vc-pos" style="vertical-align:4px">${esc(v.pos)}</span>` : ''} ${speakBtn(v.word, 'inline')}</h2>
+      <p style="font-size:18px;margin:0 0 12px">${esc(v.cn || '')}</p>
+      ${v.example ? `<div class="explain" style="margin-top:0"><b>例句</b> ${speakBtn(v.example, 'inline')}<br>${esc(v.example)}</div>` : ''}
+      ${v.scene ? `<div class="vc-scene" style="margin-top:12px"><div class="vc-scene-head"><span class="vc-tag">${esc(v.sceneTag || '情景')}</span>${speakBtn(v.scene, 'inline')}</div><p class="vc-scene-en">${esc(v.scene)}</p><p class="vc-scene-cn">${esc(v.sceneCn || '')}</p></div>` : ''}
+      ${v.related ? `<p class="small" style="margin-top:10px">相关形式：<b>${esc(v.related)}</b> ${speakBtn(v.related, 'inline')}</p>` : ''}
       <div class="row" style="margin-top:16px;justify-content:flex-end;gap:8px">
-        <button class="btn" data-act="speak" data-id="${v.id}">🔊 朗读</button>
         <button class="btn primary" data-act="word-known" data-id="${v.id}">${state.knownWords[v.id] ? '取消已掌握' : '标记已掌握'}</button>
+        <button class="btn" data-close-modal>关闭</button>
       </div>`);
   },
   'word-known': (t, e) => {
@@ -1563,8 +1631,11 @@ const ACT = {
     const id = t.dataset.id;
     if (state.knownWords[id]) delete state.knownWords[id];
     else { state.knownWords[id] = TODAY; act('words', 1); }
-    save(); render();
+    save();
+    if (!$('#modal').hidden) closeModal();
+    render();
   },
+  say: (t, e) => { e.stopPropagation(); say(t.dataset.say, t.dataset.lang || 'en-US'); },
   speak: (t, e) => {
     e.stopPropagation();
     const v = VOC.get(t.dataset.id); if (!v) return;

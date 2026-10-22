@@ -6,15 +6,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「achieve」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "stem": "「achieve」的词性与含义是（　）",
    "options": [
-    "名词，合作",
-    "方法",
-    "形容词，金融的",
-    "动词，实现"
+    "名词，广播",
+    "动词，实现",
+    "名词，意识",
+    "名词，高度"
    ],
    "answer": [
-    3
+    1
    ],
    "explain": "achieve：动词，实现。例：He hopes to achieve (achievement) his goal this year.",
    "source": {
@@ -33,15 +33,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「consider」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "stem": "「consider」的词性与含义是（　）",
    "options": [
-    "名词，结构",
-    "名词，性格",
-    "名词，完成",
-    "动词，考虑"
+    "动词，考虑",
+    "填写（表格）",
+    "蔓延；传播",
+    "名词复数，问题"
    ],
    "answer": [
-    3
+    0
    ],
    "explain": "consider：动词，考虑。例：The manager will consider (consideration) your proposal.",
    "source": {
@@ -60,15 +60,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「departure」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "stem": "「departure」的词性与含义是（　）",
    "options": [
-    "形容词，政治的",
-    "结果",
-    "行为",
-    "名词，离开"
+    "名词，增加",
+    "名词，解释",
+    "名词，离开",
+    "名词，破坏"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "departure：名词，离开。例：His sudden departure (depart) surprised everyone.",
    "source": {
@@ -87,15 +87,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「development」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "stem": "「development」的词性与含义是（　）",
    "options": [
-    "名词，宽度",
-    "名词，连接",
-    "名词，表演",
-    "名词，发展"
+    "动词，实现",
+    "名词，发展",
+    "名词，失望",
+    "名词，麻烦"
    ],
    "answer": [
-    3
+    1
    ],
    "explain": "development：名词，发展。例：The development (develop) of technology is rapid.",
    "source": {
@@ -114,15 +114,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「discovery」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "stem": "「discovery」的词性与含义是（　）",
    "options": [
-    "名词，成就",
-    "药 膏等",
-    "行为",
-    "名词，发现"
+    "名词，发现",
+    "名词，经理",
+    "名词，效率",
+    "名词，善良"
    ],
    "answer": [
-    3
+    0
    ],
    "explain": "discovery：名词，发现。例：She made an important discovery (discover) in her research.",
    "source": {
@@ -141,15 +141,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「discuss」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "stem": "「discuss」的词性与含义是（　）",
    "options": [
-    "性",
-    "过程",
-    "状态",
-    "动词，讨论"
+    "名词，解决",
+    "动词，讨论",
+    "名词，病人（复数）",
+    "名词，广播"
    ],
    "answer": [
-    3
+    1
    ],
    "explain": "discuss：动词，讨论。例：They will discuss (discussion) the issue tomorrow.",
    "source": {
@@ -168,12 +168,12 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「expansion」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "stem": "「expansion」的词性与含义是（　）",
    "options": [
-    "名词，诊断",
+    "名词，影响",
     "名词，扩张",
-    "名词，就业",
-    "对语言、艺术、法律等的"
+    "名词，消费者",
+    "名词，探索"
    ],
    "answer": [
     1
@@ -195,15 +195,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「explanation」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "stem": "「explanation」的词性与含义是（　）",
    "options": [
-    "名词，关系",
+    "名词，邀请",
+    "名词，善良",
     "名词，解释",
-    "愿望、责任等的",
-    "名词，扩张"
+    "名词，参与"
    ],
    "answer": [
-    1
+    2
    ],
    "explain": "explanation：名词，解释。例：Her explanation (explain) was clear and helpful.",
    "source": {
@@ -222,15 +222,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「improve」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "stem": "「improve」的词性与含义是（　）",
    "options": [
-    "名词，一致性",
-    "名词，健康",
+    "名词，贸易",
     "动词，改进",
-    "名词，治疗"
+    "名词，发现",
+    "名词，银行业"
    ],
    "answer": [
-    2
+    1
    ],
    "explain": "improve：动词，改进。例：We need to improve (improvement) our service quality.",
    "source": {
@@ -249,11 +249,11 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「suggestion」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "stem": "「suggestion」的词性与含义是（　）",
    "options": [
-    "名词，就业",
-    "名词，翻译",
-    "名词，成就",
+    "名词，更新",
+    "副词，准确地",
+    "名词，运动；移动",
     "名词，建议"
    ],
    "answer": [
@@ -276,17 +276,17 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「accurately」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "stem": "「accurately」的词性与含义是（　）",
    "options": [
-    "不是 anxiousness",
-    "行为",
-    "名词，更新",
-    "保留末尾的“e”"
+    "副词，准确地",
+    "名词，烹饪",
+    "名词复数，价值观",
+    "形容词，相互的"
    ],
    "answer": [
-    3
+    0
    ],
-   "explain": "accurately：保留末尾的“e”。例：She answered accurately (accurate) all the questions.",
+   "explain": "accurately：副词，准确地。例：She answered accurately (accurate) all the questions.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -303,15 +303,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「clearly」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "stem": "「clearly」的词性与含义是（　）",
    "options": [
-    "名词，保护",
-    "名词，训练",
+    "名词，完成",
     "副词，清晰地",
-    "名词，善良"
+    "名词，连接",
+    "名词，质量；品质"
    ],
    "answer": [
-    2
+    1
    ],
    "explain": "clearly：副词，清晰地。例：She spoke clearly (clear) so everyone could understand.",
    "source": {
@@ -330,12 +330,12 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「creatively」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "stem": "「creatively」的词性与含义是（　）",
    "options": [
     "副词，有创造力地",
-    "对语言、艺术、法律等的",
-    "名词，分析",
-    "名词，治疗"
+    "名词，探索",
+    "名词，动力",
+    "名词，工程师"
    ],
    "answer": [
     0
@@ -357,17 +357,17 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「dangerous」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "stem": "「dangerous」的词性与含义是（　）",
    "options": [
-    "形容词，富有想象力的",
-    "不是 dangerish",
-    "名词，创造力",
-    "名词，诊断"
+    "形容词，危险的",
+    "名词，合作",
+    "名词，健康",
+    "名词，稳定性"
    ],
    "answer": [
-    1
+    0
    ],
-   "explain": "dangerous：不是 dangerish。例：This is a dangerous (danger) area after dark.",
+   "explain": "dangerous：形容词，危险的。例：This is a dangerous (danger) area after dark.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -384,15 +384,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「effective」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "stem": "「effective」的词性与含义是（　）",
    "options": [
-    "形容词，政治的",
     "形容词，有效的",
-    "政治、社会",
-    "名词，扩张"
+    "动词，考虑",
+    "名词，多样性",
+    "名词复数，变化"
    ],
    "answer": [
-    1
+    0
    ],
    "explain": "effective：形容词，有效的。例：This medicine is effective (effect) for headaches.",
    "source": {
@@ -411,15 +411,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「efficiently」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "stem": "「efficiently」的词性与含义是（　）",
    "options": [
-    "名词，诊断",
-    "名词，恢复",
-    "名词复数，事件",
-    "副词，高效地"
+    "名词，邀请",
+    "名词，经理",
+    "副词，高效地",
+    "名词，发明"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "efficiently：副词，高效地。例：The system works efficiently (efficient).",
    "source": {
@@ -438,15 +438,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「happily」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "stem": "「happily」的词性与含义是（　）",
    "options": [
-    "名词复数，事件",
-    "名词，破坏",
+    "名词，邀请",
     "副词，快乐地",
-    "一幅"
+    "动词，考虑",
+    "名词，交流；沟通"
    ],
    "answer": [
-    2
+    1
    ],
    "explain": "happily：副词，快乐地。例：The child smiled happily (happy).",
    "source": {
@@ -465,15 +465,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「responsibly」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "stem": "「responsibly」的词性与含义是（　）",
    "options": [
-    "名词，经理",
-    "名词，训练",
-    "副词，负责任地",
-    "名词，行为"
+    "动词，考虑",
+    "名词，善良",
+    "名词，记忆",
+    "副词，负责任地"
    ],
    "answer": [
-    2
+    3
    ],
    "explain": "responsibly：副词，负责任地。例：He behaved responsibly (responsible) throughout the project.",
    "source": {
@@ -492,15 +492,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「unpredictable」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "stem": "「unpredictable」的词性与含义是（　）",
    "options": [
-    "名词，距离",
     "形容词，不可预测的",
-    "活动或技艺",
-    "名词，性格"
+    "名词，旅游业",
+    "名词，解释",
+    "名词，出版；出版物"
    ],
    "answer": [
-    1
+    0
    ],
    "explain": "unpredictable：形容词，不可预测的。例：The weather was unpredictable (predict) that day.",
    "source": {
@@ -519,15 +519,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「wise」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "stem": "「wise」的词性与含义是（　）",
    "options": [
-    "名词，社会",
-    "名词，设备",
-    "如心理治疗师",
-    "形容词，明智的"
+    "形容词，明智的",
+    "名词，进步",
+    "调查",
+    "名词，距离"
    ],
    "answer": [
-    3
+    0
    ],
    "explain": "wise：形容词，明智的。例：Her decision was wise (wisdom) under the circumstances.",
    "source": {
@@ -546,15 +546,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「admiration」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "stem": "「admiration」的词性与含义是（　）",
    "options": [
-    "名词，宽度",
-    "名词，钦佩",
-    "名词复数，事件",
-    "名词，多样性"
+    "回顾；检查",
+    "名词，行为",
+    "蔓延；传播",
+    "名词，钦佩"
    ],
    "answer": [
-    1
+    3
    ],
    "explain": "admiration：名词，钦佩。例：We were filled with admiration (admire) for her courage.",
    "source": {
@@ -573,17 +573,17 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「anxiety」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "stem": "「anxiety」的词性与含义是（　）",
    "options": [
-    "副词，快乐地",
-    "名词，美丽",
-    "不是 anxiousness",
-    "名词，发现"
+    "名词，描述",
+    "名词复数，文物",
+    "想出",
+    "名词，焦虑"
    ],
    "answer": [
-    2
+    3
    ],
-   "explain": "anxiety：不是 anxiousness。例：Her anxiety (anxious) was obvious before the exam.",
+   "explain": "anxiety：名词，焦虑。例：Her anxiety (anxious) was obvious before the exam.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -600,17 +600,17 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「curiosity」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "stem": "「curiosity」的词性与含义是（　）",
    "options": [
-    "副词，快乐地",
-    "不是 curiousity",
-    "名词，麻烦",
-    "集 合名词"
+    "名词，好奇心",
+    "名词，纯净度",
+    "名词，基础",
+    "名词，钦佩"
    ],
    "answer": [
-    1
+    0
    ],
-   "explain": "curiosity：不是 curiousity。例：His curiosity (curious) led him to explore new things.",
+   "explain": "curiosity：名词，好奇心。例：His curiosity (curious) led him to explore new things.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -627,15 +627,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「disappointment」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "stem": "「disappointment」的词性与含义是（　）",
    "options": [
-    "行为",
-    "名词，失望",
-    "不是 curiousity",
-    "名词，描述"
+    "形容词，明智的",
+    "名词，通货膨胀",
+    "名词，安全",
+    "名词，失望"
    ],
    "answer": [
-    1
+    3
    ],
    "explain": "disappointment：名词，失望。例：He expressed his disappointment (disappoint) with the result.",
    "source": {
@@ -654,15 +654,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「enthusiasm」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "stem": "「enthusiasm」的词性与含义是（　）",
    "options": [
-    "名词，热情",
-    "名词，描述",
-    "名词，发现",
-    "名词，钦佩"
+    "形容词，有营养的",
+    "名词复数，特征",
+    "名词，野生动物",
+    "名词，热情"
    ],
    "answer": [
-    0
+    3
    ],
    "explain": "enthusiasm：名词，热情。例：He spoke with great enthusiasm (enthusiastic).",
    "source": {
@@ -681,11 +681,11 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「excitement」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "stem": "「excitement」的词性与含义是（　）",
    "options": [
-    "名词，建议",
-    "名词，经理",
-    "性",
+    "名词，数据",
+    "名词，自信",
+    "名词，治疗",
     "名词，兴奋"
    ],
    "answer": [
@@ -708,15 +708,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「fear」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "stem": "「fear」的词性与含义是（　）",
    "options": [
-    "名词，污染",
-    "名词，建议",
-    "形容词，政治的",
-    "名词，恐惧"
+    "名词，恐惧",
+    "名词复数，资源",
+    "名词复数，文物",
+    "名词，满足"
    ],
    "answer": [
-    3
+    0
    ],
    "explain": "fear：名词，恐惧。例：The child showed no fear (fear) of the dark.",
    "source": {
@@ -735,15 +735,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「kindness」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "stem": "「kindness」的词性与含义是（　）",
    "options": [
-    "名词，破坏",
+    "名词，保护",
+    "名词，意识",
     "名词，善良",
-    "名词，增加",
-    "名词，进步"
+    "名词，完成"
    ],
    "answer": [
-    1
+    2
    ],
    "explain": "kindness：名词，善良。例：Her kindness (kind) was appreciated by everyone.",
    "source": {
@@ -762,15 +762,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「patience」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "stem": "「patience」的词性与含义是（　）",
    "options": [
-    "名词，行为",
-    "名词，治疗",
+    "名词，善良",
     "名词，耐心",
-    "名词，预测"
+    "名词，满足",
+    "名词，深度"
    ],
    "answer": [
-    2
+    1
    ],
    "explain": "patience：名词，耐心。例：Their patience (patient) was running out.",
    "source": {
@@ -789,15 +789,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「satisfaction」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "stem": "「satisfaction」的词性与含义是（　）",
    "options": [
-    "名词，解决方案",
+    "名词，表达；表情",
+    "名词，意识",
     "名词，满足",
-    "名词，治疗",
-    "过程"
+    "名词，锻炼；练习"
    ],
    "answer": [
-    1
+    2
    ],
    "explain": "satisfaction：名词，满足。例：She felt deep satisfaction (satisfy) after helping others.",
    "source": {
@@ -816,12 +816,12 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「agreement」在「Day5 社交与互动」中的词性与含义是（　）",
+   "stem": "「agreement」的词性与含义是（　）",
    "options": [
-    "名词，稳定性",
+    "名词，自信",
     "名词，协议",
-    "名词，退休",
-    "名词，指导"
+    "名词，进步",
+    "名词，健康"
    ],
    "answer": [
     1
@@ -843,17 +843,17 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「communication」在「Day5 社交与互动」中的词性与含义是（　）",
+   "stem": "「communication」的词性与含义是（　）",
    "options": [
-    "使其维持原状",
-    "名词，创新",
-    "名词，耐用性",
-    "方式或信息"
+    "名词，交流；沟通",
+    "名词，文明（复数）",
+    "名词，基础",
+    "名词，继续"
    ],
    "answer": [
-    3
+    0
    ],
-   "explain": "communication：方式或信息。例：Their communication (communicate) broke down during the argument.",
+   "explain": "communication：名词，交流；沟通。例：Their communication (communicate) broke down during the argument.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -870,11 +870,11 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「cooperation」在「Day5 社交与互动」中的词性与含义是（　）",
+   "stem": "「cooperation」的词性与含义是（　）",
    "options": [
-    "名词，发明",
-    "名词，距离",
-    "名词，储存",
+    "名词，麻烦",
+    "形容词，运动的",
+    "名词，成就",
     "名词，合作"
    ],
    "answer": [
@@ -897,17 +897,17 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「exchange」在「Day5 社交与互动」中的词性与含义是（　）",
+   "stem": "「exchange」的词性与含义是（　）",
    "options": [
-    "名词，协议",
-    "不可数",
-    "名词，深度",
-    "名词，动力"
+    "名词，晋升",
+    "名词，交换；交流",
+    "名词，申请；应用",
+    "名词，解决"
    ],
    "answer": [
     1
    ],
-   "explain": "exchange：不可数。例：Cultural exchange (exchange) programs are valuable.",
+   "explain": "exchange：名词，交换；交流。例：Cultural exchange (exchange) programs are valuable.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -924,17 +924,17 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「interpretation」在「Day5 社交与互动」中的词性与含义是（　）",
+   "stem": "「interpretation」的词性与含义是（　）",
    "options": [
-    "名词，调查",
-    "保留末尾的“e”",
-    "对语言、艺术、法律等的",
-    "名词，表演"
+    "名词，庆祝",
+    "名词，解释；理解",
+    "名词，专注",
+    "名词，实验"
    ],
    "answer": [
-    2
+    1
    ],
-   "explain": "interpretation：对语言、艺术、法律等的。例：There was a misunderstanding in their interpretation (interpret) of the rules.",
+   "explain": "interpretation：名词，解释；理解。例：There was a misunderstanding in their interpretation (interpret) of the rules.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -951,15 +951,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「introduction」在「Day5 社交与互动」中的词性与含义是（　）",
+   "stem": "「introduction」的词性与含义是（　）",
    "options": [
+    "名词，更新",
     "名词，介绍",
-    "名词，银行业",
-    "名词，行为",
-    "形容词，心理的"
+    "名词，乐观",
+    "名词，装饰"
    ],
    "answer": [
-    0
+    1
    ],
    "explain": "introduction：名词，介绍。例：The introduction (introduce) of new members was brief.",
    "source": {
@@ -978,12 +978,12 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「invitation」在「Day5 社交与互动」中的词性与含义是（　）",
+   "stem": "「invitation」的词性与含义是（　）",
    "options": [
     "名词，邀请",
-    "不是 anxiousness",
-    "行为",
-    "状态"
+    "名词，研究者",
+    "名词，教练",
+    "名词，建议"
    ],
    "answer": [
     0
@@ -1005,15 +1005,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「negotiation」在「Day5 社交与互动」中的词性与含义是（　）",
+   "stem": "「negotiation」的词性与含义是（　）",
    "options": [
-    "名词，指导",
+    "名词，诊断",
+    "名词，安排",
     "名词，谈判",
-    "名词，自信",
-    "名词，退休"
+    "名词，饮食"
    ],
    "answer": [
-    1
+    2
    ],
    "explain": "negotiation：名词，谈判。例：The negotiation (negotiate) lasted for three days.",
    "source": {
@@ -1032,15 +1032,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「social」在「Day5 社交与互动」中的词性与含义是（　）",
+   "stem": "「social」的词性与含义是（　）",
    "options": [
-    "名词，继续",
-    "方法",
-    "名词，投资",
-    "形容词，社会的"
+    "形容词，运动的",
+    "名词，解决",
+    "形容词，社会的",
+    "副词，有创造力地"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "social：形容词，社会的。例：She has excellent social (social) skills.",
    "source": {
@@ -1059,15 +1059,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「admission」在「Day6 学习与教育」中的词性与含义是（　）",
+   "stem": "「admission」的词性与含义是（　）",
    "options": [
-    "名词，录取",
-    "名词，报道",
-    "名词，翻译",
-    "名词，创造力"
+    "放弃",
+    "名词，侵蚀",
+    "名词，表达；表情",
+    "名词，录取"
    ],
    "answer": [
-    0
+    3
    ],
    "explain": "admission：名词，录取。例：She received admission (admit) to the university.",
    "source": {
@@ -1086,15 +1086,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「analysis」在「Day6 学习与教育」中的词性与含义是（　）",
+   "stem": "「analysis」的词性与含义是（　）",
    "options": [
-    "名词，支持",
     "名词，分析",
-    "不是 dangerish",
-    "名词，恢复"
+    "名词，表达；表情",
+    "名词，结束",
+    "名词，文明（复数）"
    ],
    "answer": [
-    1
+    0
    ],
    "explain": "analysis：名词，分析。例：His analysis (analyze) of the data was thorough.",
    "source": {
@@ -1113,11 +1113,11 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「concentration」在「Day6 学习与教育」中的词性与含义是（　）",
+   "stem": "「concentration」的词性与含义是（　）",
    "options": [
-    "名词，野生动物",
-    "名词，关系",
-    "名词复数，变化",
+    "名词，解决",
+    "名词，设备",
+    "名词，形成",
     "名词，专注"
    ],
    "answer": [
@@ -1140,15 +1140,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「educational」在「Day6 学习与教育」中的词性与含义是（　）",
+   "stem": "「educational」的词性与含义是（　）",
    "options": [
-    "题",
-    "过程",
-    "形容词，教育的",
-    "名词，探索"
+    "名词，决定",
+    "名词，谈判",
+    "副词，有创造力地",
+    "形容词，教育的"
    ],
    "answer": [
-    2
+    3
    ],
    "explain": "educational：形容词，教育的。例：The educational (educate) system needs improvement.",
    "source": {
@@ -1167,15 +1167,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「graduation」在「Day6 学习与教育」中的词性与含义是（　）",
+   "stem": "「graduation」的词性与含义是（　）",
    "options": [
-    "名词，进步",
-    "名词，信息",
+    "名词，数据",
     "名词，毕业",
-    "形容词，有创造力的"
+    "名词，邀请",
+    "名词，质量；品质"
    ],
    "answer": [
-    2
+    1
    ],
    "explain": "graduation：名词，毕业。例：The graduation (graduate) ceremony will be held in June.",
    "source": {
@@ -1194,15 +1194,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「practical」在「Day6 学习与教育」中的词性与含义是（　）",
+   "stem": "「practical」的词性与含义是（　）",
    "options": [
-    "名词，翻译",
-    "形容词，有创造力的",
-    "名词，保护",
-    "形容词，实践的"
+    "名词，退休",
+    "名词，解决方案",
+    "形容词，实践的",
+    "名词，侵蚀"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "practical：形容词，实践的。例：We need more practical (practice) exercises.",
    "source": {
@@ -1221,12 +1221,12 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「review」在「Day6 学习与教育」中的词性与含义是（　）",
+   "stem": "「review」的词性与含义是（　）",
    "options": [
-    "名词复数，习俗",
+    "回顾；检查",
     "名词，复习",
-    "名词，就业",
-    "名词，继续"
+    "动词，实现",
+    "名词，支持"
    ],
    "answer": [
     1
@@ -1248,15 +1248,15 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「translation」在「Day6 学习与教育」中的词性与含义是（　）",
+   "stem": "「translation」的词性与含义是（　）",
    "options": [
-    "状态",
-    "名词，翻译",
-    "动词，讨论",
-    "性"
+    "名词，解释；理解",
+    "名词，继续",
+    "名词，困难（复数）",
+    "名词，翻译"
    ],
    "answer": [
-    1
+    3
    ],
    "explain": "translation：名词，翻译。例：The translation (translate) was accurate and fluent.",
    "source": {
@@ -1275,17 +1275,17 @@
    "subject": "english",
    "chapter": "E01",
    "type": "single",
-   "stem": "「understanding」在「Day6 学习与教育」中的词性与含义是（　）",
+   "stem": "「understanding」的词性与含义是（　）",
    "options": [
-    "非正式的",
-    "愿望、责任等的",
-    "名词，健康",
-    "名词，继续"
+    "名词，覆盖",
+    "名词，理解；谅解",
+    "名词，经理",
+    "名词，晋升"
    ],
    "answer": [
-    0
+    1
    ],
-   "explain": "understanding：非正式的。例：His understanding (understand) of the topic was impressive.",
+   "explain": "understanding：名词，理解；谅解。例：His understanding (understand) of the topic was impressive.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -1302,17 +1302,17 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「competition」在「Day7 经济与商业」中的词性与含义是（　）",
+   "stem": "「competition」的词性与含义是（　）",
    "options": [
-    "活动",
-    "名词，恐惧",
-    "名词，保护",
-    "名词，兴奋"
+    "名词，成就",
+    "名词，距离",
+    "名词，比赛；竞争",
+    "名词，进步"
    ],
    "answer": [
-    0
+    2
    ],
-   "explain": "competition：活动。例：The competition (compete) in the market is fierce.",
+   "explain": "competition：名词，比赛；竞争。例：The competition (compete) in the market is fierce.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -1329,12 +1329,12 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「consumer」在「Day7 经济与商业」中的词性与含义是（　）",
+   "stem": "「consumer」的词性与含义是（　）",
    "options": [
-    "名词，偏好",
+    "名词，邀请",
     "名词，消费者",
-    "形容词，不可预测的",
-    "政治、社会"
+    "名词，晋升",
+    "名词，营养"
    ],
    "answer": [
     1
@@ -1356,15 +1356,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「employment」在「Day7 经济与商业」中的词性与含义是（　）",
+   "stem": "「employment」的词性与含义是（　）",
    "options": [
-    "名词，到达",
-    "名词，就业",
-    "名词，安全",
-    "形容词，胜利的"
+    "名词，多样性",
+    "名词，成就",
+    "放弃",
+    "名词，就业"
    ],
    "answer": [
-    1
+    3
    ],
    "explain": "employment：名词，就业。例：They are discussing employment (employ) opportunities.",
    "source": {
@@ -1383,15 +1383,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「growth」在「Day7 经济与商业」中的词性与含义是（　）",
+   "stem": "「growth」的词性与含义是（　）",
    "options": [
-    "名词，决定",
-    "名词，记忆",
-    "如心理治疗师",
-    "名词，增长"
+    "名词，增长",
+    "名词，社会",
+    "名词，侵蚀",
+    "名词，进步"
    ],
    "answer": [
-    3
+    0
    ],
    "explain": "growth：名词，增长。例：The company's growth (grow) has been steady.",
    "source": {
@@ -1410,12 +1410,12 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「increase」在「Day7 经济与商业」中的词性与含义是（　）",
+   "stem": "「increase」的词性与含义是（　）",
    "options": [
-    "名词，意识",
+    "名词，数据",
     "名词，增加",
-    "名词，性格",
-    "不是 dangerish"
+    "名词，保护",
+    "副词，清晰地"
    ],
    "answer": [
     1
@@ -1437,15 +1437,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「investment」在「Day7 经济与商业」中的词性与含义是（　）",
+   "stem": "「investment」的词性与含义是（　）",
    "options": [
+    "名词，安全",
     "名词，投资",
-    "名词，合作",
-    "名词，善良",
-    "名词，侵蚀"
+    "名词，稳定性",
+    "名词，通货膨胀"
    ],
    "answer": [
-    0
+    1
    ],
    "explain": "investment：名词，投资。例：They made a investment (invest) in new technology.",
    "source": {
@@ -1464,17 +1464,17 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「management」在「Day7 经济与商业」中的词性与含义是（　）",
+   "stem": "「management」的词性与含义是（　）",
    "options": [
-    "名词，决定",
-    "行为",
-    "名词，广播",
-    "名词复数，价值观"
+    "名词，庆祝",
+    "名词，研究者",
+    "名词，管理",
+    "名词，改进"
    ],
    "answer": [
-    1
+    2
    ],
-   "explain": "management：行为。例：The management (manage) team made the decision.",
+   "explain": "management：名词，管理。例：The management (manage) team made the decision.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -1491,17 +1491,17 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「production」在「Day7 经济与商业」中的词性与含义是（　）",
+   "stem": "「production」的词性与含义是（　）",
    "options": [
-    "戏剧、电影等的",
-    "名词，工程师",
-    "名词，旅游业",
-    "形容词，教育的"
+    "名词，破坏",
+    "名词，生产；制作",
+    "名词，成功",
+    "名词，广播"
    ],
    "answer": [
-    0
+    1
    ],
-   "explain": "production：戏剧、电影等的。例：We need to reduce production (produce) costs.",
+   "explain": "production：名词，生产；制作。例：We need to reduce production (produce) costs.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -1518,15 +1518,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「stability」在「Day7 经济与商业」中的词性与含义是（　）",
+   "stem": "「stability」的词性与含义是（　）",
    "options": [
-    "题",
-    "名词，介绍",
-    "名词，发明",
-    "名词，稳定性"
+    "名词，稳定性",
+    "想出",
+    "形容词，民主的",
+    "名词，准确性"
    ],
    "answer": [
-    3
+    0
    ],
    "explain": "stability：名词，稳定性。例：Financial stability (stable) is important for growth.",
    "source": {
@@ -1545,15 +1545,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「advances」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "stem": "「advances」的词性与含义是（　）",
    "options": [
-    "工作",
-    "形容词，不可预测的",
     "名词，进步",
-    "名词，挑战"
+    "名词复数，事件",
+    "名词，继续",
+    "形容词，危险的"
    ],
    "answer": [
-    2
+    0
    ],
    "explain": "advances：名词，进步。例：Medical advances (advance) have saved many lives.",
    "source": {
@@ -1572,15 +1572,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「diagnosis」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "stem": "「diagnosis」的词性与含义是（　）",
    "options": [
-    "名词，储存",
-    "名词，毕业",
-    "名词，行为",
-    "名词，诊断"
+    "名词，理解；谅解",
+    "名词，失望",
+    "名词，诊断",
+    "名词，比赛；竞争"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "diagnosis：名词，诊断。例：The doctor made a diagnosis (diagnose) quickly.",
    "source": {
@@ -1599,15 +1599,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「health」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "stem": "「health」的词性与含义是（　）",
    "options": [
-    "动词，考虑",
-    "名词，健康",
-    "名词，一致性",
-    "名词，成就"
+    "形容词，终身的",
+    "名词，研究者",
+    "名词，工程师",
+    "名词，健康"
    ],
    "answer": [
-    1
+    3
    ],
    "explain": "health：名词，健康。例：Regular exercise improves health (healthy).",
    "source": {
@@ -1626,15 +1626,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「nutrition」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "stem": "「nutrition」的词性与含义是（　）",
    "options": [
-    "非正式的",
-    "名词，营养",
-    "名词，录取",
-    "活动"
+    "形容词，有营养的",
+    "动词，适应",
+    "形容词，政治的",
+    "名词，营养"
    ],
    "answer": [
-    1
+    3
    ],
    "explain": "nutrition：名词，营养。例：Proper nutrition (nutritious) is essential.",
    "source": {
@@ -1653,17 +1653,17 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「patients」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "stem": "「patients」的词性与含义是（　）",
    "options": [
-    "复数",
-    "副词，负责任地",
-    "名词，训练",
-    "名词，离开"
+    "名词，进步",
+    "名词，消费者",
+    "名词，面试",
+    "名词，病人（复数）"
    ],
    "answer": [
-    0
+    3
    ],
-   "explain": "patients：复数。例：The patients (patient) waited to see the doctor.",
+   "explain": "patients：名词，病人（复数）。例：The patients (patient) waited to see the doctor.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -1680,15 +1680,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「recovery」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "stem": "「recovery」的词性与含义是（　）",
    "options": [
+    "名词，交换；交流",
     "名词，恢复",
-    "结果",
-    "名词复数，标准",
-    "名词，恐惧"
+    "名词，连接",
+    "名词，热情"
    ],
    "answer": [
-    0
+    1
    ],
    "explain": "recovery：名词，恢复。例：She made a full recovery (recover) from the illness.",
    "source": {
@@ -1707,15 +1707,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「researchers」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "stem": "「researchers」的词性与含义是（　）",
    "options": [
-    "名词，影响",
+    "名词，准备",
+    "名词，记忆",
     "名词，研究者",
-    "名词，长度",
-    "名词，保护"
+    "名词，发现"
    ],
    "answer": [
-    1
+    2
    ],
    "explain": "researchers：名词，研究者。例：The researchers (research) found promising results.",
    "source": {
@@ -1734,15 +1734,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「treatment」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "stem": "「treatment」的词性与含义是（　）",
    "options": [
+    "名词，创新",
+    "形容词，有营养的",
     "名词，治疗",
-    "名词，经理",
-    "名词，灵活性",
-    "政治、社会"
+    "动词，演变"
    ],
    "answer": [
-    0
+    2
    ],
    "explain": "treatment：名词，治疗。例：Prevention is better than treatment (treat).",
    "source": {
@@ -1761,17 +1761,17 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「application」在「Day9 科技与创新」中的词性与含义是（　）",
+   "stem": "「application」的词性与含义是（　）",
    "options": [
-    "药 膏等",
-    "名词，扩张",
-    "名词复数，文物",
-    "名词，麻烦"
+    "名词，增加",
+    "名词，申请；应用",
+    "名词，纯净度",
+    "名词，建筑学；建筑风格"
    ],
    "answer": [
-    0
+    1
    ],
-   "explain": "application：药 膏等。例：The application (apply) of AI is expanding rapidly.",
+   "explain": "application：名词，申请；应用。例：The application (apply) of AI is expanding rapidly.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -1788,15 +1788,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「creative」在「Day9 科技与创新」中的词性与含义是（　）",
+   "stem": "「creative」的词性与含义是（　）",
    "options": [
-    "形容词，富有想象力的",
     "形容词，有创造力的",
-    "愿望、责任等的",
-    "名词，短缺"
+    "名词，庆祝",
+    "名词，偏好",
+    "形容词，民主的"
    ],
    "answer": [
-    1
+    0
    ],
    "explain": "creative：形容词，有创造力的。例：His creative (create) solution solved the problem.",
    "source": {
@@ -1815,15 +1815,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「innovations」在「Day9 科技与创新」中的词性与含义是（　）",
+   "stem": "「innovations」的词性与含义是（　）",
    "options": [
-    "名词，到达",
-    "名词，创新",
-    "名词，一致性",
-    "名词，善良"
+    "名词，距离",
+    "名词，动力",
+    "名词，完成",
+    "名词，创新"
    ],
    "answer": [
-    1
+    3
    ],
    "explain": "innovations：名词，创新。例：There have been many innovations (innovate) in technology.",
    "source": {
@@ -1842,15 +1842,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「invention」在「Day9 科技与创新」中的词性与含义是（　）",
+   "stem": "「invention」的词性与含义是（　）",
    "options": [
-    "名词复数，习俗",
-    "名词，发明",
-    "名词，发现",
-    "名词，挑战"
+    "名词，编辑",
+    "名词，行为",
+    "调查",
+    "名词，发明"
    ],
    "answer": [
-    1
+    3
    ],
    "explain": "invention：名词，发明。例：The invention (invent) of the telephone changed communication.",
    "source": {
@@ -1869,15 +1869,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「research」在「Day9 科技与创新」中的词性与含义是（　）",
+   "stem": "「research」的词性与含义是（　）",
    "options": [
-    "名词，进步",
-    "名词，信息",
-    "名词，传递",
-    "名词，研究"
+    "名词，探索",
+    "名词，研究",
+    "名词，建造；建筑",
+    "名词，耐心"
    ],
    "answer": [
-    3
+    1
    ],
    "explain": "research：名词，研究。例：We need more research (research) in this area.",
    "source": {
@@ -1896,11 +1896,11 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「support」在「Day9 科技与创新」中的词性与含义是（　）",
+   "stem": "「support」的词性与含义是（　）",
    "options": [
-    "副词，快乐地",
-    "对语言、艺术、法律等的",
-    "名词，面试",
+    "名词，发展",
+    "名词，好奇心",
+    "名词复数，问题",
     "名词，支持"
    ],
    "answer": [
@@ -1923,12 +1923,12 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「transformation」在「Day9 科技与创新」中的词性与含义是（　）",
+   "stem": "「transformation」的词性与含义是（　）",
    "options": [
     "名词，转变",
-    "名词，恢复",
-    "名词，兴奋",
-    "名词，发现"
+    "形容词，政治的",
+    "名词复数，变化",
+    "名词，运动；移动"
    ],
    "answer": [
     0
@@ -1950,15 +1950,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「updates」在「Day9 科技与创新」中的词性与含义是（　）",
+   "stem": "「updates」的词性与含义是（　）",
    "options": [
-    "名词，数量",
-    "名词，意识",
-    "名词，调查",
-    "名词，更新"
+    "名词，晋升",
+    "名词，覆盖",
+    "名词，更新",
+    "名词，建筑学；建筑风格"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "updates：名词，更新。例：The software needs updates (update) regularly.",
    "source": {
@@ -1977,15 +1977,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「beauty」在「Day10 环境与自然」中的词性与含义是（　）",
+   "stem": "「beauty」的词性与含义是（　）",
    "options": [
-    "名词，挑战",
-    "行为",
-    "形容词，明智的",
-    "名词，美丽"
+    "名词，麻烦",
+    "名词，美丽",
+    "名词复数，标准",
+    "名词复数，变化"
    ],
    "answer": [
-    3
+    1
    ],
    "explain": "beauty：名词，美丽。例：The beauty (beautiful) of nature inspires artists.",
    "source": {
@@ -2004,15 +2004,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「change」在「Day10 环境与自然」中的词性与含义是（　）",
+   "stem": "「change」的词性与含义是（　）",
    "options": [
-    "名词，覆盖",
-    "名词，晋升",
-    "名词，变化",
-    "行为"
+    "名词，野生动物",
+    "名词，饮食",
+    "形容词，获胜的",
+    "名词，变化"
    ],
    "answer": [
-    2
+    3
    ],
    "explain": "change：名词，变化。例：Climate change (change) is a global concern.",
    "source": {
@@ -2031,15 +2031,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「Conservation」在「Day10 环境与自然」中的词性与含义是（　）",
+   "stem": "「Conservation」的词性与含义是（　）",
    "options": [
-    "名词复数，特征",
+    "形容词，胜利的",
+    "名词，研究者",
     "名词，保护",
-    "名词，建议",
-    "名词，结束"
+    "名词，预测"
    ],
    "answer": [
-    1
+    2
    ],
    "explain": "Conservation：名词，保护。例：Conservation (conserve) of resources is important.",
    "source": {
@@ -2058,12 +2058,12 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「destruction」在「Day10 环境与自然」中的词性与含义是（　）",
+   "stem": "「destruction」的词性与含义是（　）",
    "options": [
-    "名词，协议",
+    "名词，创新",
     "名词，破坏",
-    "名词，准确性",
-    "政治、社会"
+    "名词，饮食",
+    "填写（表格）"
    ],
    "answer": [
     1
@@ -2085,12 +2085,12 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「efficiency」在「Day10 环境与自然」中的词性与含义是（　）",
+   "stem": "「efficiency」的词性与含义是（　）",
    "options": [
     "名词，效率",
-    "名词，发展",
-    "名词，描述",
-    "名词，发明"
+    "名词复数，变化",
+    "名词，翻译",
+    "名词，宽度"
    ],
    "answer": [
     0
@@ -2112,15 +2112,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「pollution」在「Day10 环境与自然」中的词性与含义是（　）",
+   "stem": "「pollution」的词性与含义是（　）",
    "options": [
+    "名词，困难（复数）",
     "名词，污染",
-    "名词，自信",
-    "名词，安全",
-    "名词，结束"
+    "名词，工程师",
+    "名词，基础"
    ],
    "answer": [
-    0
+    1
    ],
    "explain": "pollution：名词，污染。例：Air pollution (pollute) is a serious problem.",
    "source": {
@@ -2139,15 +2139,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「protection」在「Day10 环境与自然」中的词性与含义是（　）",
+   "stem": "「protection」的词性与含义是（　）",
    "options": [
-    "名词，热情",
-    "名词，变化",
-    "活动",
-    "名词，保护"
+    "名词，表达；表情",
+    "名词，观察",
+    "名词，保护",
+    "名词复数，问题"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "protection：名词，保护。例：Environmental protection (protect) is everyone's responsibility.",
    "source": {
@@ -2166,17 +2166,17 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「Recycling」在「Day10 环境与自然」中的词性与含义是（　）",
+   "stem": "「Recycling」的词性与含义是（　）",
    "options": [
-    "形容词，富有想象力的",
-    "状态",
-    "行为或过程",
-    "名词，一致性"
+    "名词，智力",
+    "名词，回收利用",
+    "名词，到达",
+    "名词，安排"
    ],
    "answer": [
-    2
+    1
    ],
-   "explain": "Recycling：行为或过程。例：Recycling (recycle) helps reduce waste.",
+   "explain": "Recycling：名词，回收利用。例：Recycling (recycle) helps reduce waste.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -2193,15 +2193,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「shortage」在「Day10 环境与自然」中的词性与含义是（　）",
+   "stem": "「shortage」的词性与含义是（　）",
    "options": [
-    "名词，短缺",
-    "名词，创新",
-    "名词，参与",
-    "形容词，有创造力的"
+    "名词复数，文物",
+    "形容词，有创造力的",
+    "名词，领导力",
+    "名词，短缺"
    ],
    "answer": [
-    0
+    3
    ],
    "explain": "shortage：名词，短缺。例：Water shortage (short) can be a problem in dry areas.",
    "source": {
@@ -2220,15 +2220,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「behavior」在「Day11 社会与文化」中的词性与含义是（　）",
+   "stem": "「behavior」的词性与含义是（　）",
    "options": [
-    "名词，增加",
-    "名词，耐用性",
-    "名词，行为",
-    "保留末尾的“e”"
+    "名词，文明（复数）",
+    "形容词，有效的",
+    "名词，变化",
+    "名词，行为"
    ],
    "answer": [
-    2
+    3
    ],
    "explain": "behavior：名词，行为。例：His behavior (behave) at the event was appropriate.",
    "source": {
@@ -2247,17 +2247,17 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「celebration」在「Day11 社会与文化」中的词性与含义是（　）",
+   "stem": "「celebration」的词性与含义是（　）",
    "options": [
-    "名词，高度",
-    "名词，多样性",
-    "行为或过程",
-    "行为"
+    "名词，调查",
+    "形容词，传统的",
+    "名词，庆祝",
+    "名词，传递"
    ],
    "answer": [
-    3
+    2
    ],
-   "explain": "celebration：行为。例：The celebration (celebrate) lasted for three days.",
+   "explain": "celebration：名词，庆祝。例：The celebration (celebrate) lasted for three days.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -2274,11 +2274,11 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「changes」在「Day11 社会与文化」中的词性与含义是（　）",
+   "stem": "「changes」的词性与含义是（　）",
    "options": [
-    "名词，介绍",
-    "名词，安全",
-    "不是 anxiousness",
+    "动词，实现",
+    "形容词，民主的",
+    "名词，锻炼；练习",
     "名词复数，变化"
    ],
    "answer": [
@@ -2301,15 +2301,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「customs」在「Day11 社会与文化」中的词性与含义是（　）",
+   "stem": "「customs」的词性与含义是（　）",
    "options": [
-    "名词，安排",
-    "名词复数，标准",
+    "形容词，可持续的",
     "名词复数，习俗",
-    "活动"
+    "想出",
+    "忍受"
    ],
    "answer": [
-    2
+    1
    ],
    "explain": "customs：名词复数，习俗。例：The customs (custom) of the region are unique.",
    "source": {
@@ -2328,15 +2328,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「diversity」在「Day11 社会与文化」中的词性与含义是（　）",
+   "stem": "「diversity」的词性与含义是（　）",
    "options": [
-    "名词，更新",
-    "名词，钦佩",
-    "名词，消费者",
-    "名词，多样性"
+    "名词，多样性",
+    "名词，比赛；竞争",
+    "形容词，教育的",
+    "名词，解释；理解"
    ],
    "answer": [
-    3
+    0
    ],
    "explain": "diversity：名词，多样性。例：Cultural diversity (diverse) enriches society.",
    "source": {
@@ -2355,12 +2355,12 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「evolves」在「Day11 社会与文化」中的词性与含义是（　）",
+   "stem": "「evolves」的词性与含义是（　）",
    "options": [
-    "行为",
+    "名词，计划",
     "动词，演变",
-    "一幅",
-    "名词，植被"
+    "名词，野生动物",
+    "名词，文明（复数）"
    ],
    "answer": [
     1
@@ -2382,15 +2382,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「involvement」在「Day11 社会与文化」中的词性与含义是（　）",
+   "stem": "「involvement」的词性与含义是（　）",
    "options": [
-    "名词，探索",
-    "名词，参与",
-    "状态",
-    "形容词，传统的"
+    "名词，维护",
+    "长得像；性格像",
+    "名词，创造力",
+    "名词，参与"
    ],
    "answer": [
-    1
+    3
    ],
    "explain": "involvement：名词，参与。例：Community involvement (involve) is important for social cohesion.",
    "source": {
@@ -2409,15 +2409,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「society」在「Day11 社会与文化」中的词性与含义是（　）",
+   "stem": "「society」的词性与含义是（　）",
    "options": [
-    "行为",
-    "名词，翻译",
     "名词，社会",
-    "名词复数，文物"
+    "名词复数，问题",
+    "名词，连接",
+    "名词，治疗"
    ],
    "answer": [
-    2
+    0
    ],
    "explain": "society：名词，社会。例：Modern society (society) faces many challenges.",
    "source": {
@@ -2436,15 +2436,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「traditional」在「Day11 社会与文化」中的词性与含义是（　）",
+   "stem": "「traditional」的词性与含义是（　）",
    "options": [
+    "名词，面试",
+    "名词，装饰",
     "形容词，传统的",
-    "名词，修正案",
-    "名词，发现",
-    "名词，研究者"
+    "名词，植被"
    ],
    "answer": [
-    0
+    2
    ],
    "explain": "traditional：形容词，传统的。例：The traditional (tradition) festival is celebrated every year.",
    "source": {
@@ -2463,15 +2463,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「values」在「Day11 社会与文化」中的词性与含义是（　）",
+   "stem": "「values」的词性与含义是（　）",
    "options": [
-    "名词复数，价值观",
-    "名词，录取",
-    "名词，数量",
-    "名词，连接"
+    "名词，恢复",
+    "名词，可靠性",
+    "名词，准确性",
+    "名词复数，价值观"
    ],
    "answer": [
-    0
+    3
    ],
    "explain": "values：名词复数，价值观。例：The values (value) of a society are reflected in its laws.",
    "source": {
@@ -2490,15 +2490,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「amendments」在「Day12 政治与法律」中的词性与含义是（　）",
+   "stem": "「amendments」的词性与含义是（　）",
    "options": [
-    "名词，离开",
     "名词，修正案",
-    "愿望、责任等的",
-    "名词，进步"
+    "名词，传递",
+    "名词，病人（复数）",
+    "名词，数量"
    ],
    "answer": [
-    1
+    0
    ],
    "explain": "amendments：名词，修正案。例：The amendments (elect) will be held next month.",
    "source": {
@@ -2517,15 +2517,15 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「decision」在「Day12 政治与法律」中的词性与含义是（　）",
+   "stem": "「decision」的词性与含义是（　）",
    "options": [
-    "名词，智力",
-    "名词，调查",
-    "名词，面试",
-    "名词，决定"
+    "调查",
+    "名词，完成",
+    "名词，决定",
+    "名词，退休"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "decision：名词，决定。例：The decision (decide) was made after careful consideration.",
    "source": {
@@ -2544,12 +2544,12 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「Democratic」在「Day12 政治与法律」中的词性与含义是（　）",
+   "stem": "「Democratic」的词性与含义是（　）",
    "options": [
-    "行为",
+    "名词，毅力；坚持",
     "形容词，民主的",
-    "名词，连接",
-    "名词，调查"
+    "副词，高效地",
+    "名词，支持"
    ],
    "answer": [
     1
@@ -2571,12 +2571,12 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「legal」在「Day12 政治与法律」中的词性与含义是（　）",
+   "stem": "「legal」的词性与含义是（　）",
    "options": [
-    "名词，结构",
-    "名词，增长",
+    "名词，描述",
+    "忍受",
     "形容词，法律的",
-    "名词，消费者"
+    "名词，质量；品质"
    ],
    "answer": [
     2
@@ -2598,11 +2598,11 @@
    "subject": "english",
    "chapter": "E02",
    "type": "single",
-   "stem": "「political」在「Day12 政治与法律」中的词性与含义是（　）",
+   "stem": "「political」的词性与含义是（　）",
    "options": [
-    "名词，影响",
-    "不是 dangerish",
-    "名词，保护",
+    "长得像；性格像",
+    "名词，发现",
+    "名词，短缺",
     "形容词，政治的"
    ],
    "answer": [
@@ -2625,11 +2625,11 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「achievements」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "stem": "「achievements」的词性与含义是（　）",
    "options": [
-    "名词，教练",
-    "行为",
-    "名词，失望",
+    "名词，翻译",
+    "长得像；性格像",
+    "名词，运动；移动",
     "名词，成就"
    ],
    "answer": [
@@ -2652,15 +2652,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「artifacts」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "stem": "「artifacts」的词性与含义是（　）",
    "options": [
+    "形容词，获胜的",
+    "名词，信息",
     "名词复数，文物",
-    "保留末尾的“e”",
-    "名词，更新",
-    "名词，修正案"
+    "名词，转变"
    ],
    "answer": [
-    0
+    2
    ],
    "explain": "artifacts：名词复数，文物。例：The museum displays historical artifacts (artifact).",
    "source": {
@@ -2679,11 +2679,11 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「creativity」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "stem": "「creativity」的词性与含义是（　）",
    "options": [
-    "名词，关系",
-    "名词，侵蚀",
-    "形容词，有效的",
+    "形容词，心理的",
+    "名词，饮食",
+    "名词，力量",
     "名词，创造力"
    ],
    "answer": [
@@ -2706,15 +2706,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「description」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "stem": "「description」的词性与含义是（　）",
    "options": [
-    "不是 anxiousness",
-    "名词复数，资源",
-    "名词，描述",
-    "名词，兴奋"
+    "名词，动力",
+    "副词，准确地",
+    "形容词，传统的",
+    "名词，描述"
    ],
    "answer": [
-    2
+    3
    ],
    "explain": "description：名词，描述。例：The description (describe) in the novel is vivid.",
    "source": {
@@ -2733,17 +2733,17 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「expression」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "stem": "「expression」的词性与含义是（　）",
    "options": [
-    "保留末尾的“e”",
-    "名词，设备",
-    "方式",
-    "名词，结构"
+    "名词复数，标准",
+    "名词，治疗师",
+    "名词，钦佩",
+    "名词，表达；表情"
    ],
    "answer": [
-    2
+    3
    ],
-   "explain": "expression：方式。例：Poetic expression (express) requires skill.",
+   "explain": "expression：名词，表达；表情。例：Poetic expression (express) requires skill.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -2760,15 +2760,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「imaginative」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "stem": "「imaginative」的词性与含义是（　）",
    "options": [
-    "形容词，富有想象力的",
-    "保留末尾的“e”",
-    "题",
-    "名词复数，变化"
+    "名词，麻烦",
+    "形容词，胜利的",
+    "名词，关系",
+    "形容词，富有想象力的"
    ],
    "answer": [
-    0
+    3
    ],
    "explain": "imaginative：形容词，富有想象力的。例：His imaginative (imagine) stories captivate readers.",
    "source": {
@@ -2787,17 +2787,17 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「painting」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "stem": "「painting」的词性与含义是（　）",
    "options": [
-    "活动",
-    "名词，健康",
-    "一幅",
-    "形容词，社会的"
+    "名词，测量",
+    "名词，描述",
+    "名词，绘画；画作",
+    "名词，影响"
    ],
    "answer": [
     2
    ],
-   "explain": "painting：一幅。例：The painting (paint) was sold for a high price.",
+   "explain": "painting：名词，绘画；画作。例：The painting (paint) was sold for a high price.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -2814,15 +2814,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「performance」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "stem": "「performance」的词性与含义是（　）",
    "options": [
-    "不是 dangerish",
-    "行为",
     "名词，表演",
-    "集 合名词"
+    "名词，诊断",
+    "名词，兴奋",
+    "回顾；检查"
    ],
    "answer": [
-    2
+    0
    ],
    "explain": "performance：名词，表演。例：The performance (perform) received a standing ovation.",
    "source": {
@@ -2841,12 +2841,12 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「talent」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "stem": "「talent」的词性与含义是（　）",
    "options": [
     "名词，天赋",
-    "名词，麻烦",
-    "名词，效率",
-    "副词，负责任地"
+    "名词，建筑物；建造",
+    "名词，短缺",
+    "副词，有创造力地"
    ],
    "answer": [
     0
@@ -2868,15 +2868,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「arrangements」在「Day14 交通与旅行」中的词性与含义是（　）",
+   "stem": "「arrangements」的词性与含义是（　）",
    "options": [
-    "名词复数，特征",
-    "名词，安排",
-    "名词，记忆",
-    "名词，污染"
+    "名词，协议",
+    "名词，诊断",
+    "形容词，金融的",
+    "名词，安排"
    ],
    "answer": [
-    1
+    3
    ],
    "explain": "arrangements：名词，安排。例：We need to make travel arrangements (arrange).",
    "source": {
@@ -2895,11 +2895,11 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「arrival」在「Day14 交通与旅行」中的词性与含义是（　）",
+   "stem": "「arrival」的词性与含义是（　）",
    "options": [
-    "名词，保护",
-    "名词，解决",
-    "名词，晋升",
+    "名词，麻烦",
+    "名词，进步",
+    "名词，测量",
     "名词，到达"
    ],
    "answer": [
@@ -2922,15 +2922,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「connection」在「Day14 交通与旅行」中的词性与含义是（　）",
+   "stem": "「connection」的词性与含义是（　）",
    "options": [
-    "名词，纯净度",
-    "名词，就业",
-    "名词，连接",
-    "名词，结构"
+    "名词，决定",
+    "名词，破坏",
+    "动词，演变",
+    "名词，连接"
    ],
    "answer": [
-    2
+    3
    ],
    "explain": "connection：名词，连接。例：The connection (connect) between cities is good.",
    "source": {
@@ -2949,17 +2949,17 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「construction」在「Day14 交通与旅行」中的词性与含义是（　）",
+   "stem": "「construction」的词性与含义是（　）",
    "options": [
-    "名词，成就",
-    "不可数",
-    "行为",
-    "活动"
+    "名词，建造；建筑",
+    "名词，经理",
+    "名词，工程师",
+    "名词，完成"
    ],
    "answer": [
-    2
+    0
    ],
-   "explain": "construction：行为。例：Road construction (construct) causes traffic delays.",
+   "explain": "construction：名词，建造；建筑。例：Road construction (construct) causes traffic delays.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -2976,12 +2976,12 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「exploration」在「Day14 交通与旅行」中的词性与含义是（　）",
+   "stem": "「exploration」的词性与含义是（　）",
    "options": [
     "名词，探索",
-    "名词，准确性",
-    "集 合名词",
-    "形容词，运动的"
+    "调查",
+    "名词，工程师",
+    "名词复数，事件"
    ],
    "answer": [
     0
@@ -3003,17 +3003,17 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「movement」在「Day14 交通与旅行」中的词性与含义是（　）",
+   "stem": "「movement」的词性与含义是（　）",
    "options": [
-    "名词，安排",
-    "政治、社会",
-    "名词，发现",
-    "动词，考虑"
+    "名词，运动；移动",
+    "名词，高度",
+    "形容词，不可预测的",
+    "名词，效率"
    ],
    "answer": [
-    1
+    0
    ],
-   "explain": "movement：政治、社会。例：The movement (move) of goods is efficient.",
+   "explain": "movement：名词，运动；移动。例：The movement (move) of goods is efficient.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -3030,15 +3030,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「Tourism」在「Day14 交通与旅行」中的词性与含义是（　）",
+   "stem": "「Tourism」的词性与含义是（　）",
    "options": [
-    "行为",
-    "名词，满足",
-    "形容词，实践的",
-    "名词，旅游业"
+    "名词，困难（复数）",
+    "名词，一致性",
+    "名词，旅游业",
+    "名词，高度"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "Tourism：名词，旅游业。例：Tourism (tour) contributes to the local economy.",
    "source": {
@@ -3057,15 +3057,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「discoveries」在「Day15 科学与研究」中的词性与含义是（　）",
+   "stem": "「discoveries」的词性与含义是（　）",
    "options": [
-    "名词，侵蚀",
     "名词，发现",
-    "名词，准确性",
-    "名词，专注"
+    "名词，合作",
+    "名词，保护",
+    "副词，高效地"
    ],
    "answer": [
-    1
+    0
    ],
    "explain": "discoveries：名词，发现。例：Scientific discoveries (discover) often lead to new technologies.",
    "source": {
@@ -3084,12 +3084,12 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「equipment」在「Day15 科学与研究」中的词性与含义是（　）",
+   "stem": "「equipment」的词性与含义是（　）",
    "options": [
-    "形容词，有创造力的",
+    "名词，性格",
     "名词，设备",
-    "名词，指导",
-    "形容词，有效的"
+    "名词，美丽",
+    "名词，合作"
    ],
    "answer": [
     1
@@ -3111,17 +3111,17 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「experiment」在「Day15 科学与研究」中的词性与含义是（　）",
+   "stem": "「experiment」的词性与含义是（　）",
    "options": [
-    "方法",
-    "名词，研究",
-    "名词，稳定性",
-    "名词，谈判"
+    "名词，实验",
+    "名词，描述",
+    "名词，兴奋",
+    "名词，创造力"
    ],
    "answer": [
     0
    ],
-   "explain": "experiment：方法。例：The experiment (experiment) produced interesting results.",
+   "explain": "experiment：名词，实验。例：The experiment (experiment) produced interesting results.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -3138,17 +3138,17 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「innovation」在「Day15 科学与研究」中的词性与含义是（　）",
+   "stem": "「innovation」的词性与含义是（　）",
    "options": [
-    "形容词，获胜的",
-    "名词，退休",
-    "行为",
-    "名词，训练"
+    "名词，就业",
+    "名词，创新",
+    "名词，创造力",
+    "形容词，获胜的"
    ],
    "answer": [
-    2
+    1
    ],
-   "explain": "innovation：行为。例：Technological innovation (innovate) drives development.",
+   "explain": "innovation：名词，创新。例：Technological innovation (innovate) drives development.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -3165,17 +3165,17 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「observation」在「Day15 科学与研究」中的词性与含义是（　）",
+   "stem": "「observation」的词性与含义是（　）",
    "options": [
-    "行为",
-    "性",
-    "名词，指导",
-    "名词，钦佩"
+    "名词，离开",
+    "名词，治疗师",
+    "名词，观察",
+    "名词，兴奋"
    ],
    "answer": [
-    0
+    2
    ],
-   "explain": "observation：行为。例：The observation (observe) was recorded carefully.",
+   "explain": "observation：名词，观察。例：The observation (observe) was recorded carefully.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -3192,12 +3192,12 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「athletic」在「Day16 运动与健身」中的词性与含义是（　）",
+   "stem": "「athletic」的词性与含义是（　）",
    "options": [
-    "名词，成就",
+    "名词，支持",
     "形容词，运动的",
-    "名词，解释",
-    "动词，实现"
+    "名词，责任",
+    "名词，到达"
    ],
    "answer": [
     1
@@ -3219,15 +3219,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「coach」在「Day16 运动与健身」中的词性与含义是（　）",
+   "stem": "「coach」的词性与含义是（　）",
    "options": [
+    "形容词，政治的",
+    "名词，短缺",
     "名词，教练",
-    "非正式的",
-    "使其维持原状",
-    "名词，数量"
+    "名词，自信"
    ],
    "answer": [
-    0
+    2
    ],
    "explain": "coach：名词，教练。例：The coach (coach) gave helpful advice.",
    "source": {
@@ -3246,17 +3246,17 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「exercise」在「Day16 运动与健身」中的词性与含义是（　）",
+   "stem": "「exercise」的词性与含义是（　）",
    "options": [
-    "名词，失望",
-    "题",
-    "形容词，法律的",
-    "动词，实现"
+    "名词，参与",
+    "名词，责任",
+    "名词，结束",
+    "名词，锻炼；练习"
    ],
    "answer": [
-    1
+    3
    ],
-   "explain": "exercise：题。例：Regular exercise (exercise) is good for health.",
+   "explain": "exercise：名词，锻炼；练习。例：Regular exercise (exercise) is good for health.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -3273,12 +3273,12 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「fitness」在「Day16 运动与健身」中的词性与含义是（　）",
+   "stem": "「fitness」的词性与含义是（　）",
    "options": [
     "名词，健康",
-    "名词，进步",
-    "形容词，有创造力的",
-    "名词，野生动物"
+    "解决；实现",
+    "名词，扩张",
+    "名词，探索"
    ],
    "answer": [
     0
@@ -3300,15 +3300,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「Participation」在「Day16 运动与健身」中的词性与含义是（　）",
+   "stem": "「Participation」的词性与含义是（　）",
    "options": [
-    "名词，传递",
-    "名词，参与",
-    "名词，退休",
-    "行为"
+    "名词，文明（复数）",
+    "名词，困难（复数）",
+    "名词，晋升",
+    "名词，参与"
    ],
    "answer": [
-    1
+    3
    ],
    "explain": "Participation：名词，参与。例：Participation (participate) in sports teaches teamwork.",
    "source": {
@@ -3327,15 +3327,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「strength」在「Day16 运动与健身」中的词性与含义是（　）",
+   "stem": "「strength」的词性与含义是（　）",
    "options": [
-    "形容词，心理的",
-    "名词，旅游业",
-    "名词，力量",
-    "名词，探索"
+    "名词，恢复",
+    "形容词，可持续的",
+    "名词，管理",
+    "名词，力量"
    ],
    "answer": [
-    2
+    3
    ],
    "explain": "strength：名词，力量。例：Mental strength (strong) is as important as physical strength.",
    "source": {
@@ -3354,15 +3354,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「training」在「Day16 运动与健身」中的词性与含义是（　）",
+   "stem": "「training」的词性与含义是（　）",
    "options": [
-    "名词，解决方案",
     "名词，训练",
-    "名词复数，文物",
-    "结果"
+    "名词复数，资源",
+    "形容词，民主的",
+    "举行；发生"
    ],
    "answer": [
-    1
+    0
    ],
    "explain": "training：名词，训练。例：The training (train) program is rigorous.",
    "source": {
@@ -3381,15 +3381,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「winning」在「Day16 运动与健身」中的词性与含义是（　）",
+   "stem": "「winning」的词性与含义是（　）",
    "options": [
-    "形容词，获胜的",
-    "动词，演变",
-    "名词，侵蚀",
-    "使"
+    "名词复数，习俗",
+    "名词复数，标准",
+    "名词，参与",
+    "形容词，获胜的"
    ],
    "answer": [
-    0
+    3
    ],
    "explain": "winning：形容词，获胜的。例：The winning (win) team celebrated their victory.",
    "source": {
@@ -3408,17 +3408,17 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「cooking」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "stem": "「cooking」的词性与含义是（　）",
    "options": [
-    "名词，维护",
-    "活动或技艺",
-    "名词，多样性",
-    "副词，清晰地"
+    "副词，快乐地",
+    "名词，烹饪",
+    "名词，成就",
+    "动词，讨论"
    ],
    "answer": [
     1
    ],
-   "explain": "cooking：活动或技艺。例：Traditional cooking (cook) methods are still used.",
+   "explain": "cooking：名词，烹饪。例：Traditional cooking (cook) methods are still used.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -3435,15 +3435,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「eating」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "stem": "「eating」的词性与含义是（　）",
    "options": [
+    "名词，决定",
+    "名词，进步",
     "名词，饮食",
-    "形容词，传统的",
-    "名词，记忆",
-    "动词，实现"
+    "名词，调查"
    ],
    "answer": [
-    0
+    2
    ],
    "explain": "eating：名词，饮食。例：Healthy eating (eat) habits are important.",
    "source": {
@@ -3462,17 +3462,17 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「nutritional」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "stem": "「nutritional」的词性与含义是（　）",
    "options": [
-    "形容词，有创造力的",
-    "食物本身",
-    "名词，健康",
-    "名词，更新"
+    "名词，设计",
+    "名词，发现",
+    "名词，建筑学；建筑风格",
+    "形容词，有营养的"
    ],
    "answer": [
-    1
+    3
    ],
-   "explain": "nutritional：食物本身。例：The nutritional (nutritious) value of this meal is high.",
+   "explain": "nutritional：形容词，有营养的。例：The nutritional (nutritious) value of this meal is high.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -3489,17 +3489,17 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「planning」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "stem": "「planning」的词性与含义是（　）",
    "options": [
-    "名词，探索",
-    "名词，可靠性",
-    "名词，污染",
-    "活动"
+    "名词，理解；谅解",
+    "名词，动力",
+    "名词，短缺",
+    "名词，计划"
    ],
    "answer": [
     3
    ],
-   "explain": "planning：活动。例：Meal planning (plan) helps with budgeting.",
+   "explain": "planning：名词，计划。例：Meal planning (plan) helps with budgeting.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -3516,15 +3516,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「preference」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "stem": "「preference」的词性与含义是（　）",
    "options": [
-    "名词，偏好",
-    "名词，纯净度",
-    "名词，扩张",
-    "名词，表演"
+    "副词，快乐地",
+    "名词，灵活性",
+    "名词，储存",
+    "名词，偏好"
    ],
    "answer": [
-    0
+    3
    ],
    "explain": "preference：名词，偏好。例：His preference (prefer) is for spicy food.",
    "source": {
@@ -3543,17 +3543,17 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「preparation」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "stem": "「preparation」的词性与含义是（　）",
    "options": [
-    "政治、社会",
-    "名词，面试",
-    "状态",
-    "如心理治疗师"
+    "名词，成就",
+    "名词，形成",
+    "名词，社会",
+    "名词，准备"
    ],
    "answer": [
-    2
+    3
    ],
-   "explain": "preparation：状态。例：Food preparation (prepare) takes time.",
+   "explain": "preparation：名词，准备。例：Food preparation (prepare) takes time.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -3570,12 +3570,12 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「safety」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "stem": "「safety」的词性与含义是（　）",
    "options": [
-    "形容词，实践的",
-    "过程",
+    "名词，增长",
+    "名词，完成",
     "名词，安全",
-    "名词，发明"
+    "副词，清晰地"
    ],
    "answer": [
     2
@@ -3597,11 +3597,11 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「Storage」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "stem": "「Storage」的词性与含义是（　）",
    "options": [
-    "名词，失望",
-    "名词，长度",
-    "名词复数，文物",
+    "长得像；性格像",
+    "名词，覆盖",
+    "形容词，获胜的",
     "名词，储存"
    ],
    "answer": [
@@ -3624,15 +3624,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「guidance」在「Day18 家庭与关系」中的词性与含义是（　）",
+   "stem": "「guidance」的词性与含义是（　）",
    "options": [
-    "名词，挑战",
-    "名词，指导",
-    "名词，教练",
-    "保留末尾的“e”"
+    "名词，报道",
+    "名词，发现",
+    "名词复数，问题",
+    "名词，指导"
    ],
    "answer": [
-    1
+    3
    ],
    "explain": "guidance：名词，指导。例：Parental guidance (guide) is valuable.",
    "source": {
@@ -3651,17 +3651,17 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「marriage」在「Day18 家庭与关系」中的词性与含义是（　）",
+   "stem": "「marriage」的词性与含义是（　）",
    "options": [
-    "状态",
-    "名词，进步",
-    "形容词，运动的",
-    "名词，设备"
+    "填写（表格）",
+    "名词，婚姻",
+    "名词，研究",
+    "名词，创造力"
    ],
    "answer": [
-    0
+    1
    ],
-   "explain": "marriage：状态。例：The marriage (marry) ceremony was beautiful.",
+   "explain": "marriage：名词，婚姻。例：The marriage (marry) ceremony was beautiful.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -3678,15 +3678,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「memories」在「Day18 家庭与关系」中的词性与含义是（　）",
+   "stem": "「memories」的词性与含义是（　）",
    "options": [
+    "名词，研究者",
     "名词，记忆",
-    "一幅",
-    "名词，健康",
-    "活动"
+    "名词，侵蚀",
+    "调查"
    ],
    "answer": [
-    0
+    1
    ],
    "explain": "memories：名词，记忆。例：His childhood memories (memorize) are happy.",
    "source": {
@@ -3705,15 +3705,15 @@
    "subject": "english",
    "chapter": "E03",
    "type": "single",
-   "stem": "「relationships」在「Day18 家庭与关系」中的词性与含义是（　）",
+   "stem": "「relationships」的词性与含义是（　）",
    "options": [
-    "副词，负责任地",
-    "形容词，获胜的",
-    "形容词，金融的",
-    "名词，关系"
+    "名词，建造；建筑",
+    "名词，关系",
+    "名词复数，资源",
+    "名词，指导"
    ],
    "answer": [
-    3
+    1
    ],
    "explain": "relationships：名词，关系。例：Family relationships (relate) are important.",
    "source": {
@@ -3732,15 +3732,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「awareness」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "stem": "「awareness」的词性与含义是（　）",
    "options": [
+    "名词，发展",
     "名词，意识",
-    "形容词，传统的",
-    "动词，讨论",
-    "如心理治疗师"
+    "名词，比赛；竞争",
+    "名词，指导"
    ],
    "answer": [
-    0
+    1
    ],
    "explain": "awareness：名词，意识。例：Public awareness (aware) of the issue has increased.",
    "source": {
@@ -3759,15 +3759,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「broadcast」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "stem": "「broadcast」的词性与含义是（　）",
    "options": [
-    "形容词，不可预测的",
-    "名词，热情",
-    "名词，麻烦",
-    "名词，广播"
+    "名词，成就",
+    "名词，保护",
+    "名词，广播",
+    "名词，天赋"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "broadcast：名词，广播。例：The broadcast (broadcast) reached millions of viewers.",
    "source": {
@@ -3786,15 +3786,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「coverage」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "stem": "「coverage」的词性与含义是（　）",
    "options": [
-    "名词，覆盖",
-    "使其维持原状",
-    "名词，银行业",
-    "名词，变化"
+    "名词，退休",
+    "名词，偏好",
+    "形容词，危险的",
+    "名词，覆盖"
    ],
    "answer": [
-    0
+    3
    ],
    "explain": "coverage：名词，覆盖。例：Media coverage (cover) of the issue was extensive.",
    "source": {
@@ -3813,12 +3813,12 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「delivery」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "stem": "「delivery」的词性与含义是（　）",
    "options": [
-    "形容词，运动的",
+    "名词，表达；表情",
     "名词，传递",
-    "名词，退休",
-    "食物本身"
+    "名词，一致性",
+    "名词复数，习俗"
    ],
    "answer": [
     1
@@ -3840,17 +3840,17 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「editing」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "stem": "「editing」的词性与含义是（　）",
    "options": [
-    "名词，教练",
-    "名词，植被",
-    "工作",
-    "复数"
+    "名词，设计",
+    "放弃",
+    "名词，转变",
+    "名词，编辑"
    ],
    "answer": [
-    2
+    3
    ],
-   "explain": "editing：工作。例：The editing (edit) of the article improved it.",
+   "explain": "editing：名词，编辑。例：The editing (edit) of the article improved it.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -3867,15 +3867,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「influence」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "stem": "「influence」的词性与含义是（　）",
    "options": [
-    "名词，纯净度",
-    "名词，表演",
+    "形容词，金融的",
     "名词，影响",
-    "名词，准确性"
+    "名词，数量",
+    "名词，成功"
    ],
    "answer": [
-    2
+    1
    ],
    "explain": "influence：名词，影响。例：Social media influence (influence) is powerful.",
    "source": {
@@ -3894,15 +3894,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「Information」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "stem": "「Information」的词性与含义是（　）",
    "options": [
+    "名词，钦佩",
+    "名词，管理",
     "名词，信息",
-    "名词，热情",
-    "名词，创造力",
-    "名词，高度"
+    "名词，意识"
    ],
    "answer": [
-    0
+    2
    ],
    "explain": "Information：名词，信息。例：Information (inform) spreads quickly online.",
    "source": {
@@ -3921,17 +3921,17 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「publication」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "stem": "「publication」的词性与含义是（　）",
    "options": [
-    "形容词，金融的",
-    "行为",
-    "名词，兴奋",
-    "名词，广播"
+    "名词，形成",
+    "名词，侵蚀",
+    "名词，发现",
+    "名词，出版；出版物"
    ],
    "answer": [
-    1
+    3
    ],
-   "explain": "publication：行为。例：The publication (publish) of the book was successful.",
+   "explain": "publication：名词，出版；出版物。例：The publication (publish) of the book was successful.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -3948,15 +3948,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「report」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "stem": "「report」的词性与含义是（　）",
    "options": [
-    "形容词，明智的",
-    "复数",
-    "名词，失望",
-    "名词，报道"
+    "名词，好奇心",
+    "名词，领导力",
+    "名词，报道",
+    "名词，效率"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "report：名词，报道。例：The report (report) covered the event thoroughly.",
    "source": {
@@ -3975,17 +3975,17 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「architecture」在「Day20 建筑与设计」中的词性与含义是（　）",
+   "stem": "「architecture」的词性与含义是（　）",
    "options": [
-    "名词，合作",
-    "名词，支持",
-    "名词，诊断",
-    "总称"
+    "名词，比赛；竞争",
+    "回顾；检查",
+    "名词，建筑学；建筑风格",
+    "名词，面试"
    ],
    "answer": [
-    3
+    2
    ],
-   "explain": "architecture：总称。例：Modern architecture (architect) often uses new materials.",
+   "explain": "architecture：名词，建筑学；建筑风格。例：Modern architecture (architect) often uses new materials.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -4002,17 +4002,17 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「building」在「Day20 建筑与设计」中的词性与含义是（　）",
+   "stem": "「building」的词性与含义是（　）",
    "options": [
-    "行为",
-    "名词复数，标准",
-    "名词，灵活性",
-    "名词，准确性"
+    "名词，意识",
+    "名词，交换；交流",
+    "形容词，不可预测的",
+    "名词，建筑物；建造"
    ],
    "answer": [
-    0
+    3
    ],
-   "explain": "building：行为。例：Sustainable building (build) practices are encouraged.",
+   "explain": "building：名词，建筑物；建造。例：Sustainable building (build) practices are encouraged.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -4029,17 +4029,17 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「decoration」在「Day20 建筑与设计」中的词性与含义是（　）",
+   "stem": "「decoration」的词性与含义是（　）",
    "options": [
-    "形容词，获胜的",
-    "名词，完成",
-    "名词，深度",
-    "行为"
+    "形容词，法律的",
+    "名词，健康",
+    "名词，装饰",
+    "名词，解决"
    ],
    "answer": [
-    3
+    2
    ],
-   "explain": "decoration：行为。例：Interior decoration (decorate) enhances living spaces.",
+   "explain": "decoration：名词，装饰。例：Interior decoration (decorate) enhances living spaces.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -4056,17 +4056,17 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「design」在「Day20 建筑与设计」中的词性与含义是（　）",
+   "stem": "「design」的词性与含义是（　）",
    "options": [
-    "形容词，教育的",
-    "名词，设备",
-    "名词，扩张",
-    "方案、过程"
+    "名词，设计",
+    "副词，负责任地",
+    "名词，工程师",
+    "名词，出版；出版物"
    ],
    "answer": [
-    3
+    0
    ],
-   "explain": "design：方案、过程。例：Architectural design (design) requires creativity.",
+   "explain": "design：名词，设计。例：Architectural design (design) requires creativity.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -4083,12 +4083,12 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「engineer」在「Day20 建筑与设计」中的词性与含义是（　）",
+   "stem": "「engineer」的词性与含义是（　）",
    "options": [
     "名词，工程师",
-    "名词复数，标准",
-    "名词，可靠性",
-    "名词，贸易"
+    "名词，数据",
+    "名词，长度",
+    "名词，婚姻"
    ],
    "answer": [
     0
@@ -4110,15 +4110,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「maintenance」在「Day20 建筑与设计」中的词性与含义是（　）",
+   "stem": "「maintenance」的词性与含义是（　）",
    "options": [
-    "名词，关系",
-    "名词复数，资源",
-    "名词，成就",
-    "名词，维护"
+    "名词，维护",
+    "名词，结构",
+    "名词，天赋",
+    "副词，有创造力地"
    ],
    "answer": [
-    3
+    0
    ],
    "explain": "maintenance：名词，维护。例：The maintenance (maintain) of historical buildings is costly.",
    "source": {
@@ -4137,15 +4137,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「structure」在「Day20 建筑与设计」中的词性与含义是（　）",
+   "stem": "「structure」的词性与含义是（　）",
    "options": [
-    "名词，继续",
-    "名词，设备",
-    "名词，保护",
-    "名词，结构"
+    "名词复数，问题",
+    "名词，形成",
+    "名词，结构",
+    "形容词，终身的"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "structure：名词，结构。例：The structure (structure) is strong and stable.",
    "source": {
@@ -4164,15 +4164,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「collaboration」在「Day21 职业与工作」中的词性与含义是（　）",
+   "stem": "「collaboration」的词性与含义是（　）",
    "options": [
-    "集 合名词",
-    "形容词，明智的",
+    "名词，稳定性",
     "名词，合作",
-    "名词，通货膨胀"
+    "名词，保护；保存",
+    "填写（表格）"
    ],
    "answer": [
-    2
+    1
    ],
    "explain": "collaboration：名词，合作。例：Workplace collaboration (collaborate) improves productivity.",
    "source": {
@@ -4191,15 +4191,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「interview」在「Day21 职业与工作」中的词性与含义是（　）",
+   "stem": "「interview」的词性与含义是（　）",
    "options": [
-    "名词，参与",
-    "名词，健康",
+    "长得像；性格像",
     "名词，面试",
-    "名词，通货膨胀"
+    "名词，病人（复数）",
+    "形容词，心理的"
    ],
    "answer": [
-    2
+    1
    ],
    "explain": "interview：名词，面试。例：The interview (interview) went well.",
    "source": {
@@ -4218,17 +4218,17 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「Leadership」在「Day21 职业与工作」中的词性与含义是（　）",
+   "stem": "「Leadership」的词性与含义是（　）",
    "options": [
-    "方法",
-    "名词，传递",
-    "动词，考虑",
-    "集 合名词"
+    "名词，创新",
+    "名词，安排",
+    "名词，领导力",
+    "副词，负责任地"
    ],
    "answer": [
-    3
+    2
    ],
-   "explain": "Leadership：集 合名词。例：Leadership (lead) skills can be learned.",
+   "explain": "Leadership：名词，领导力。例：Leadership (lead) skills can be learned.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -4245,12 +4245,12 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「manager」在「Day21 职业与工作」中的词性与含义是（　）",
+   "stem": "「manager」的词性与含义是（　）",
    "options": [
     "名词，经理",
-    "名词，开始",
-    "名词，专注",
-    "名词，保护"
+    "名词，面试",
+    "名词，效率",
+    "副词，准确地"
    ],
    "answer": [
     0
@@ -4272,15 +4272,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「Promotion」在「Day21 职业与工作」中的词性与含义是（　）",
+   "stem": "「Promotion」的词性与含义是（　）",
    "options": [
-    "形容词，有效的",
-    "总称",
-    "名词，参与",
-    "名词，晋升"
+    "名词，晋升",
+    "名词复数，文物",
+    "名词，出版；出版物",
+    "名词，好奇心"
    ],
    "answer": [
-    3
+    0
    ],
    "explain": "Promotion：名词，晋升。例：Promotion (promote) is based on performance.",
    "source": {
@@ -4299,15 +4299,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「retirement」在「Day21 职业与工作」中的词性与含义是（　）",
+   "stem": "「retirement」的词性与含义是（　）",
    "options": [
-    "总称",
-    "名词，贸易",
-    "形容词，民主的",
-    "名词，退休"
+    "名词，申请；应用",
+    "名词，装饰",
+    "名词，退休",
+    "名词，结构"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "retirement：名词，退休。例：The retirement (retire) age is 65 in many countries.",
    "source": {
@@ -4326,12 +4326,12 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「banking」在「Day22 金融与经济」中的词性与含义是（　）",
+   "stem": "「banking」的词性与含义是（　）",
    "options": [
-    "名词，污染",
-    "形容词，心理的",
+    "名词，建造；建筑",
+    "名词，病人（复数）",
     "名词，银行业",
-    "名词，恢复"
+    "名词，创造力"
    ],
    "answer": [
     2
@@ -4353,15 +4353,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「financial」在「Day22 金融与经济」中的词性与含义是（　）",
+   "stem": "「financial」的词性与含义是（　）",
    "options": [
-    "名词，晋升",
-    "名词，诊断",
-    "名词，研究",
-    "形容词，金融的"
+    "形容词，金融的",
+    "名词，邀请",
+    "名词，准备",
+    "名词，解决"
    ],
    "answer": [
-    3
+    0
    ],
    "explain": "financial：形容词，金融的。例：The financial (finance) report was positive.",
    "source": {
@@ -4380,15 +4380,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「inflation」在「Day22 金融与经济」中的词性与含义是（　）",
+   "stem": "「inflation」的词性与含义是（　）",
    "options": [
-    "名词，植被",
-    "活动",
-    "名词，自信",
-    "名词，通货膨胀"
+    "名词，健康",
+    "名词，通货膨胀",
+    "形容词，胜利的",
+    "名词，距离"
    ],
    "answer": [
-    3
+    1
    ],
    "explain": "inflation：名词，通货膨胀。例：Price inflation (inflate) affects purchasing power.",
    "source": {
@@ -4407,12 +4407,12 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「predictions」在「Day22 金融与经济」中的词性与含义是（　）",
+   "stem": "「predictions」的词性与含义是（　）",
    "options": [
-    "名词，扩张",
+    "名词，离开",
     "名词，预测",
-    "名词，变化",
-    "名词，专注"
+    "放弃",
+    "动词，讨论"
    ],
    "answer": [
     1
@@ -4434,12 +4434,12 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「Trade」在「Day22 金融与经济」中的词性与含义是（　）",
+   "stem": "「Trade」的词性与含义是（　）",
    "options": [
     "名词，贸易",
-    "名词，分析",
-    "名词，饮食",
-    "名词，工程师"
+    "名词，训练",
+    "名词，交换；交流",
+    "名词，传递"
    ],
    "answer": [
     0
@@ -4461,15 +4461,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「confidence」在「Day23 心理与性格」中的词性与含义是（　）",
+   "stem": "「confidence」的词性与含义是（　）",
    "options": [
-    "名词，天赋",
-    "名词，预测",
-    "名词，覆盖",
-    "名词，自信"
+    "形容词，相互的",
+    "形容词，心理的",
+    "名词，自信",
+    "名词，社会"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "confidence：名词，自信。例：Self-confidence (confident) comes with experience.",
    "source": {
@@ -4488,15 +4488,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「intelligence」在「Day23 心理与性格」中的词性与含义是（　）",
+   "stem": "「intelligence」的词性与含义是（　）",
    "options": [
-    "名词，短缺",
+    "名词，完成",
+    "名词，天赋",
     "名词，智力",
-    "名词，记忆",
-    "名词，保护"
+    "名词，合作"
    ],
    "answer": [
-    1
+    2
    ],
    "explain": "intelligence：名词，智力。例：Emotional intelligence (intelligent) is important for relationships.",
    "source": {
@@ -4515,15 +4515,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「Motivation」在「Day23 心理与性格」中的词性与含义是（　）",
+   "stem": "「Motivation」的词性与含义是（　）",
    "options": [
-    "名词，进步",
-    "名词，晋升",
+    "名词，生产；制作",
     "名词，动力",
-    "不是 dangerish"
+    "名词，复习",
+    "名词，解释；理解"
    ],
    "answer": [
-    2
+    1
    ],
    "explain": "Motivation：名词，动力。例：Motivation (motive) drives people to achieve.",
    "source": {
@@ -4542,15 +4542,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「optimism」在「Day23 心理与性格」中的词性与含义是（　）",
+   "stem": "「optimism」的词性与含义是（　）",
    "options": [
-    "名词，乐观",
-    "名词，植被",
-    "名词，稳定性",
-    "行为"
+    "名词，传递",
+    "名词，准备",
+    "名词，翻译",
+    "名词，乐观"
    ],
    "answer": [
-    0
+    3
    ],
    "explain": "optimism：名词，乐观。例：His optimism (optimistic) is inspiring.",
    "source": {
@@ -4569,15 +4569,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「personality」在「Day23 心理与性格」中的词性与含义是（　）",
+   "stem": "「personality」的词性与含义是（　）",
    "options": [
-    "形容词，金融的",
-    "名词，高度",
-    "名词，偏好",
-    "名词，性格"
+    "名词，增加",
+    "名词，性格",
+    "名词，营养",
+    "名词，治疗"
    ],
    "answer": [
-    3
+    1
    ],
    "explain": "personality：名词，性格。例：Her personality (personal) is very friendly.",
    "source": {
@@ -4596,12 +4596,12 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「psychological」在「Day23 心理与性格」中的词性与含义是（　）",
+   "stem": "「psychological」的词性与含义是（　）",
    "options": [
-    "名词，影响",
-    "名词，修正案",
+    "名词，偏好",
+    "名词，管理",
     "形容词，心理的",
-    "名词，晋升"
+    "名词，毕业"
    ],
    "answer": [
     2
@@ -4623,17 +4623,17 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「therapist」在「Day23 心理与性格」中的词性与含义是（　）",
+   "stem": "「therapist」的词性与含义是（　）",
    "options": [
-    "如心理治疗师",
-    "名词，失望",
-    "名词，进步",
-    "名词，继续"
+    "调查",
+    "名词，建筑学；建筑风格",
+    "名词，治疗师",
+    "名词复数，变化"
    ],
    "answer": [
-    0
+    2
    ],
-   "explain": "therapist：如心理治疗师。例：The therapist (therapist) gave helpful advice.",
+   "explain": "therapist：名词，治疗师。例：The therapist (therapist) gave helpful advice.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -4650,15 +4650,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「depth」在「Day24 自然与地理」中的词性与含义是（　）",
+   "stem": "「depth」的词性与含义是（　）",
    "options": [
     "名词，耐用性",
-    "名词，诊断",
-    "名词，深度",
-    "名词，短缺"
+    "蔓延；传播",
+    "名词，困难（复数）",
+    "名词，深度"
    ],
    "answer": [
-    2
+    3
    ],
    "explain": "depth：名词，深度。例：The depth (depth) of the ocean is incredible.",
    "source": {
@@ -4677,12 +4677,12 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「erosion」在「Day24 自然与地理」中的词性与含义是（　）",
+   "stem": "「erosion」的词性与含义是（　）",
    "options": [
-    "名词，距离",
+    "名词，维护",
     "名词，侵蚀",
-    "名词，传递",
-    "名词，结束"
+    "副词，有创造力地",
+    "名词，婚姻"
    ],
    "answer": [
     1
@@ -4704,15 +4704,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「features」在「Day24 自然与地理」中的词性与含义是（　）",
+   "stem": "「features」的词性与含义是（　）",
    "options": [
-    "形容词，民主的",
-    "名词，教练",
-    "名词复数，资源",
-    "名词复数，特征"
+    "回顾；检查",
+    "名词复数，特征",
+    "名词，焦虑",
+    "名词，解释；理解"
    ],
    "answer": [
-    3
+    1
    ],
    "explain": "features：名词复数，特征。例：Geographical features (feature) affect climate.",
    "source": {
@@ -4731,17 +4731,17 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「formation」在「Day24 自然与地理」中的词性与含义是（　）",
+   "stem": "「formation」的词性与含义是（　）",
    "options": [
-    "名词，合作",
-    "名词，保护",
-    "过程",
-    "方案、过程"
+    "名词，形成",
+    "名词，信息",
+    "举行；发生",
+    "名词，出版；出版物"
    ],
    "answer": [
-    2
+    0
    ],
-   "explain": "formation：过程。例：The formation (form) of mountains takes millions of years.",
+   "explain": "formation：名词，形成。例：The formation (form) of mountains takes millions of years.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -4758,17 +4758,17 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「preservation」在「Day24 自然与地理」中的词性与含义是（　）",
+   "stem": "「preservation」的词性与含义是（　）",
    "options": [
-    "名词，稳定性",
-    "不可数",
-    "使其维持原状",
-    "副词，清晰地"
+    "名词，保护；保存",
+    "名词，设备",
+    "名词，交流；沟通",
+    "名词，研究者"
    ],
    "answer": [
-    2
+    0
    ],
-   "explain": "preservation：使其维持原状。例：The preservation (preserve) of forests is necessary.",
+   "explain": "preservation：名词，保护；保存。例：The preservation (preserve) of forests is necessary.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -4785,15 +4785,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「resources」在「Day24 自然与地理」中的词性与含义是（　）",
+   "stem": "「resources」的词性与含义是（　）",
    "options": [
+    "名词，解决",
+    "名词，创造力",
     "名词复数，资源",
-    "形容词，胜利的",
-    "动词，改进",
-    "名词，破坏"
+    "副词，清晰地"
    ],
    "answer": [
-    0
+    2
    ],
    "explain": "resources：名词复数，资源。例：Natural resources (resource) must be conserved.",
    "source": {
@@ -4812,15 +4812,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「Vegetation」在「Day24 自然与地理」中的词性与含义是（　）",
+   "stem": "「Vegetation」的词性与含义是（　）",
    "options": [
-    "名词，满足",
-    "名词，结构",
-    "名词复数，标准",
-    "名词，植被"
+    "名词，短缺",
+    "名词，植被",
+    "名词，消费者",
+    "名词，计划"
    ],
    "answer": [
-    3
+    1
    ],
    "explain": "Vegetation：名词，植被。例：Vegetation (vegetation) in the area is diverse.",
    "source": {
@@ -4839,15 +4839,15 @@
    "subject": "english",
    "chapter": "E04",
    "type": "single",
-   "stem": "「Wildlife」在「Day24 自然与地理」中的词性与含义是（　）",
+   "stem": "「Wildlife」的词性与含义是（　）",
    "options": [
-    "形容词，民主的",
-    "名词，晋升",
-    "名词，野生动物",
-    "名词，力量"
+    "名词，热情",
+    "名词，烹饪",
+    "名词复数，资源",
+    "名词，野生动物"
    ],
    "answer": [
-    2
+    3
    ],
    "explain": "Wildlife：名词，野生动物。例：Wildlife (wildlife) protection is important.",
    "source": {
@@ -4866,15 +4866,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「beginning」在「Day25 时间与历史」中的词性与含义是（　）",
+   "stem": "「beginning」的词性与含义是（　）",
    "options": [
-    "名词，耐用性",
-    "名词，解决",
-    "名词，合作",
-    "名词，开始"
+    "名词复数，资源",
+    "名词，开始",
+    "名词，长度",
+    "名词，距离"
    ],
    "answer": [
-    3
+    1
    ],
    "explain": "beginning：名词，开始。例：The beginning (begin) of the project was delayed.",
    "source": {
@@ -4893,17 +4893,17 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「civilizations」在「Day25 时间与历史」中的词性与含义是（　）",
+   "stem": "「civilizations」的词性与含义是（　）",
    "options": [
-    "状态",
-    "名词，信息",
-    "使其维持原状",
-    "不是 dangerish"
+    "名词，参与",
+    "形容词，心理的",
+    "名词，文明（复数）",
+    "名词，自信"
    ],
    "answer": [
-    0
+    2
    ],
-   "explain": "civilizations：状态。例：Ancient civilizations (civilize) left behind many artifacts.",
+   "explain": "civilizations：名词，文明（复数）。例：Ancient civilizations (civilize) left behind many artifacts.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -4920,15 +4920,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「continuation」在「Day25 时间与历史」中的词性与含义是（　）",
+   "stem": "「continuation」的词性与含义是（　）",
    "options": [
+    "名词，旅游业",
+    "名词，解决",
     "名词，继续",
-    "行为",
-    "名词，投资",
-    "非正式的"
+    "形容词，金融的"
    ],
    "answer": [
-    0
+    2
    ],
    "explain": "continuation：名词，继续。例：The continuation (continue) of the tradition is important.",
    "source": {
@@ -4947,15 +4947,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「end」在「Day25 时间与历史」中的词性与含义是（　）",
+   "stem": "「end」的词性与含义是（　）",
    "options": [
-    "方法",
-    "名词，距离",
-    "不可数",
-    "名词，结束"
+    "形容词，民主的",
+    "名词，结束",
+    "名词，短缺",
+    "名词，准确性"
    ],
    "answer": [
-    3
+    1
    ],
    "explain": "end：名词，结束。例：The end (end) of the war brought peace.",
    "source": {
@@ -4974,15 +4974,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「events」在「Day25 时间与历史」中的词性与含义是（　）",
+   "stem": "「events」的词性与含义是（　）",
    "options": [
-    "名词，恐惧",
-    "不是 anxiousness",
-    "名词，预测",
-    "名词复数，事件"
+    "名词复数，事件",
+    "名词，一致性",
+    "名词，晋升",
+    "名词，婚姻"
    ],
    "answer": [
-    3
+    0
    ],
    "explain": "events：名词复数，事件。例：Historical events (event) shape the present.",
    "source": {
@@ -5001,15 +5001,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「length」在「Day25 时间与历史」中的词性与含义是（　）",
+   "stem": "「length」的词性与含义是（　）",
    "options": [
-    "保留末尾的“e”",
-    "名词，更新",
+    "名词，参与",
     "名词，长度",
-    "名词，消费者"
+    "形容词，全球的",
+    "名词，完成"
    ],
    "answer": [
-    2
+    1
    ],
    "explain": "length：名词，长度。例：The length (long) of the meeting was two hours.",
    "source": {
@@ -5028,15 +5028,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「progress」在「Day25 时间与历史」中的词性与含义是（　）",
+   "stem": "「progress」的词性与含义是（　）",
    "options": [
-    "形容词，不可预测的",
-    "形容词，传统的",
-    "名词，进步",
-    "名词，植被"
+    "名词，解决方案",
+    "名词，理解；谅解",
+    "名词，建议",
+    "名词，进步"
    ],
    "answer": [
-    2
+    3
    ],
    "explain": "progress：名词，进步。例：The progress (progress) of technology is rapid.",
    "source": {
@@ -5055,15 +5055,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「amount」在「Day26 数量与度量」中的词性与含义是（　）",
+   "stem": "「amount」的词性与含义是（　）",
    "options": [
-    "形容词，金融的",
-    "名词，决定",
     "名词，数量",
-    "名词复数，价值观"
+    "名词，改进",
+    "形容词，全球的",
+    "名词，焦虑"
    ],
    "answer": [
-    2
+    0
    ],
    "explain": "amount：名词，数量。例：The amount (amount) of rainfall was recorded.",
    "source": {
@@ -5082,17 +5082,17 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「data」在「Day26 数量与度量」中的词性与含义是（　）",
+   "stem": "「data」的词性与含义是（　）",
    "options": [
-    "形容词，不可预测的",
-    "名词，创造力",
-    "其单数为 datum",
-    "名词，信息"
+    "名词，解决",
+    "名词，准确性",
+    "名词，数据",
+    "形容词，明智的"
    ],
    "answer": [
     2
    ],
-   "explain": "data：其单数为 datum。例：Numerical data (data) supports the theory.",
+   "explain": "data：名词，数据。例：Numerical data (data) supports the theory.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -5109,15 +5109,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「distance」在「Day26 数量与度量」中的词性与含义是（　）",
+   "stem": "「distance」的词性与含义是（　）",
    "options": [
-    "方法",
-    "名词，纯净度",
-    "副词，负责任地",
-    "名词，距离"
+    "名词，距离",
+    "名词，病人（复数）",
+    "副词，清晰地",
+    "名词，离开"
    ],
    "answer": [
-    3
+    0
    ],
    "explain": "distance：名词，距离。例：The distance (distance) between cities is long.",
    "source": {
@@ -5136,15 +5136,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「height」在「Day26 数量与度量」中的词性与含义是（　）",
+   "stem": "「height」的词性与含义是（　）",
    "options": [
+    "形容词，民主的",
     "名词，高度",
-    "名词，纯净度",
-    "名词，可靠性",
-    "名词，广播"
+    "名词，覆盖",
+    "名词，恢复"
    ],
    "answer": [
-    0
+    1
    ],
    "explain": "height：名词，高度。例：The height (high) of the building is impressive.",
    "source": {
@@ -5163,17 +5163,17 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「Measurement」在「Day26 数量与度量」中的词性与含义是（　）",
+   "stem": "「Measurement」的词性与含义是（　）",
    "options": [
-    "名词复数，习俗",
-    "行为",
-    "名词复数，变化",
-    "名词，预测"
+    "名词，离开",
+    "名词，测量",
+    "名词，修正案",
+    "名词，结束"
    ],
    "answer": [
     1
    ],
-   "explain": "Measurement：行为。例：Measurement (measure) must be accurate in science.",
+   "explain": "Measurement：名词，测量。例：Measurement (measure) must be accurate in science.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -5190,15 +5190,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「quantity」在「Day26 数量与度量」中的词性与含义是（　）",
+   "stem": "「quantity」的词性与含义是（　）",
    "options": [
+    "名词，创新",
+    "形容词，传统的",
     "名词，数量",
-    "名词，意识",
-    "名词，破坏",
-    "名词，建议"
+    "名词，完成"
    ],
    "answer": [
-    0
+    2
    ],
    "explain": "quantity：名词，数量。例：The quantity (quantify) of the material is sufficient.",
    "source": {
@@ -5217,15 +5217,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「width」在「Day26 数量与度量」中的词性与含义是（　）",
+   "stem": "「width」的词性与含义是（　）",
    "options": [
-    "名词，宽度",
-    "副词，快乐地",
     "名词，创造力",
-    "非正式的"
+    "名词，宽度",
+    "名词，连接",
+    "名词，进步"
    ],
    "answer": [
-    0
+    1
    ],
    "explain": "width：名词，宽度。例：The width (wide) of the river varies.",
    "source": {
@@ -5244,12 +5244,12 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「Accuracy」在「Day27 质量与品质」中的词性与含义是（　）",
+   "stem": "「Accuracy」的词性与含义是（　）",
    "options": [
     "名词，准确性",
-    "名词，维护",
-    "名词，增长",
-    "名词，深度"
+    "名词，传递",
+    "名词，训练",
+    "名词，治疗"
    ],
    "answer": [
     0
@@ -5271,15 +5271,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「Consistency」在「Day27 质量与品质」中的词性与含义是（　）",
+   "stem": "「Consistency」的词性与含义是（　）",
    "options": [
-    "名词，乐观",
-    "名词，发现",
-    "形容词，获胜的",
-    "名词，一致性"
+    "名词，一致性",
+    "名词，解决",
+    "名词复数，文物",
+    "名词，距离"
    ],
    "answer": [
-    3
+    0
    ],
    "explain": "Consistency：名词，一致性。例：Consistency (consistent) in quality builds trust.",
    "source": {
@@ -5298,12 +5298,12 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「durability」在「Day27 质量与品质」中的词性与含义是（　）",
+   "stem": "「durability」的词性与含义是（　）",
    "options": [
-    "名词，恢复",
+    "名词，指导",
     "名词，耐用性",
-    "名词，覆盖",
-    "过程"
+    "名词，理解；谅解",
+    "形容词，有效的"
    ],
    "answer": [
     1
@@ -5325,15 +5325,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「flexibility」在「Day27 质量与品质」中的词性与含义是（　）",
+   "stem": "「flexibility」的词性与含义是（　）",
    "options": [
-    "名词，翻译",
-    "名词，性格",
-    "名词，创造力",
-    "名词，灵活性"
+    "名词，设备",
+    "名词，灵活性",
+    "名词，建造；建筑",
+    "名词，开始"
    ],
    "answer": [
-    3
+    1
    ],
    "explain": "flexibility：名词，灵活性。例：The flexibility (flexible) of the schedule helped.",
    "source": {
@@ -5352,15 +5352,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「purity」在「Day27 质量与品质」中的词性与含义是（　）",
+   "stem": "「purity」的词性与含义是（　）",
    "options": [
-    "名词，决定",
-    "名词，纯净度",
-    "形容词，有效的",
-    "名词，稳定性"
+    "名词，工程师",
+    "形容词，有创造力的",
+    "副词，高效地",
+    "名词，纯净度"
    ],
    "answer": [
-    1
+    3
    ],
    "explain": "purity：名词，纯净度。例：The purity (pure) of the water was confirmed.",
    "source": {
@@ -5379,17 +5379,17 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「quality」在「Day27 质量与品质」中的词性与含义是（　）",
+   "stem": "「quality」的词性与含义是（　）",
    "options": [
-    "名词，性格",
-    "形容词，传统的",
-    "使",
-    "名词，指导"
+    "名词，编辑",
+    "名词，质量；品质",
+    "名词，智力",
+    "形容词，政治的"
    ],
    "answer": [
-    2
+    1
    ],
-   "explain": "quality：使。例：The quality (qualify) of the product is excellent.",
+   "explain": "quality：名词，质量；品质。例：The quality (qualify) of the product is excellent.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -5406,15 +5406,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「Reliability」在「Day27 质量与品质」中的词性与含义是（　）",
+   "stem": "「Reliability」的词性与含义是（　）",
    "options": [
-    "不是 curiousity",
     "名词，可靠性",
-    "名词，诊断",
-    "名词，成就"
+    "动词，讨论",
+    "名词，天赋",
+    "形容词，终身的"
    ],
    "answer": [
-    1
+    0
    ],
    "explain": "Reliability：名词，可靠性。例：Reliability (reliable) is important for equipment.",
    "source": {
@@ -5433,15 +5433,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「standards」在「Day27 质量与品质」中的词性与含义是（　）",
+   "stem": "「standards」的词性与含义是（　）",
    "options": [
-    "名词，侵蚀",
+    "名词，开始",
+    "想出",
     "名词复数，标准",
-    "集 合名词",
-    "方案、过程"
+    "名词，建造；建筑"
    ],
    "answer": [
-    1
+    2
    ],
    "explain": "standards：名词复数，标准。例：High standards (standard) are expected.",
    "source": {
@@ -5460,15 +5460,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「Accomplishment」在「Day28 成功与成就」中的词性与含义是（　）",
+   "stem": "「Accomplishment」的词性与含义是（　）",
    "options": [
-    "名词复数，资源",
     "名词，成就",
-    "其单数为 datum",
-    "名词，解决"
+    "名词，污染",
+    "形容词，心理的",
+    "形容词，可持续的"
    ],
    "answer": [
-    1
+    0
    ],
    "explain": "Accomplishment：名词，成就。例：Accomplishment (accomplish) gives a sense of satisfaction.",
    "source": {
@@ -5487,15 +5487,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「achievement」在「Day28 成功与成就」中的词性与含义是（　）",
+   "stem": "「achievement」的词性与含义是（　）",
    "options": [
-    "名词，毕业",
-    "名词，兴奋",
-    "名词，影响",
-    "名词，成就"
+    "名词，保护；保存",
+    "举行；发生",
+    "名词，成就",
+    "名词，调查"
    ],
    "answer": [
-    3
+    2
    ],
    "explain": "achievement：名词，成就。例：The achievement (achieve) was celebrated by all.",
    "source": {
@@ -5514,11 +5514,11 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「advancement」在「Day28 成功与成就」中的词性与含义是（　）",
+   "stem": "「advancement」的词性与含义是（　）",
    "options": [
-    "名词，变化",
-    "名词，关系",
-    "名词，安全",
+    "形容词，终身的",
+    "名词复数，标准",
+    "名词，准备",
     "名词，晋升"
    ],
    "answer": [
@@ -5541,15 +5541,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「completion」在「Day28 成功与成就」中的词性与含义是（　）",
+   "stem": "「completion」的词性与含义是（　）",
    "options": [
-    "如心理治疗师",
-    "行为",
+    "名词，社会",
     "名词，完成",
-    "名词，天赋"
+    "名词，健康",
+    "形容词，富有想象力的"
    ],
    "answer": [
-    2
+    1
    ],
    "explain": "completion：名词，完成。例：The completion (complete) of the task was timely.",
    "source": {
@@ -5568,17 +5568,17 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「fulfillment」在「Day28 成功与成就」中的词性与含义是（　）",
+   "stem": "「fulfillment」的词性与含义是（　）",
    "options": [
-    "方式或信息",
-    "名词，经理",
-    "愿望、责任等的",
-    "形容词，获胜的"
+    "名词，实现；满足",
+    "形容词，不可预测的",
+    "名词，描述",
+    "形容词，明智的"
    ],
    "answer": [
-    2
+    0
    ],
-   "explain": "fulfillment：愿望、责任等的。例：The fulfillment (fulfill) of the dream took years.",
+   "explain": "fulfillment：名词，实现；满足。例：The fulfillment (fulfill) of the dream took years.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -5595,17 +5595,17 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「Improvement」在「Day28 成功与成就」中的词性与含义是（　）",
+   "stem": "「Improvement」的词性与含义是（　）",
    "options": [
-    "行为",
-    "形容词，心理的",
-    "非正式的",
-    "名词，营养"
+    "名词，预测",
+    "名词，纯净度",
+    "名词，银行业",
+    "名词，改进"
    ],
    "answer": [
-    0
+    3
    ],
-   "explain": "Improvement：行为。例：Improvement (improve) is visible in his work.",
+   "explain": "Improvement：名词，改进。例：Improvement (improve) is visible in his work.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -5622,17 +5622,17 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「success」在「Day28 成功与成就」中的词性与含义是（　）",
+   "stem": "「success」的词性与含义是（　）",
    "options": [
-    "行为",
-    "名词，进步",
-    "形容词，富有想象力的",
-    "结果"
+    "形容词，有营养的",
+    "名词，成功",
+    "形容词，社会的",
+    "名词，长度"
    ],
    "answer": [
-    3
+    1
    ],
-   "explain": "success：结果。例：His success (succeed) was well deserved.",
+   "explain": "success：名词，成功。例：His success (succeed) was well deserved.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -5649,15 +5649,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「victorious」在「Day28 成功与成就」中的词性与含义是（　）",
+   "stem": "「victorious」的词性与含义是（　）",
    "options": [
-    "形容词，胜利的",
-    "名词，钦佩",
-    "名词，污染",
-    "名词，报道"
+    "名词，翻译",
+    "名词，成就",
+    "名词，理解；谅解",
+    "形容词，胜利的"
    ],
    "answer": [
-    0
+    3
    ],
    "explain": "victorious：形容词，胜利的。例：The victorious (victory) team was happy.",
    "source": {
@@ -5676,12 +5676,12 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「challenge」在「Day29 问题与解决」中的词性与含义是（　）",
+   "stem": "「challenge」的词性与含义是（　）",
    "options": [
-    "形容词，不可预测的",
-    "名词，退休",
+    "名词，烹饪",
+    "副词，清晰地",
     "名词，挑战",
-    "名词，训练"
+    "名词，宽度"
    ],
    "answer": [
     2
@@ -5703,17 +5703,17 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「Difficulties」在「Day29 问题与解决」中的词性与含义是（　）",
+   "stem": "「Difficulties」的词性与含义是（　）",
    "options": [
-    "名词，饮食",
-    "形容词，心理的",
-    "性",
-    "动词，改进"
+    "名词，困难（复数）",
+    "名词，焦虑",
+    "忍受",
+    "名词，饮食"
    ],
    "answer": [
-    2
+    0
    ],
-   "explain": "Difficulties：性。例：Difficulties (difficult) can be overcome with effort.",
+   "explain": "Difficulties：名词，困难（复数）。例：Difficulties (difficult) can be overcome with effort.",
    "source": {
     "file": "高中英语核心高频词汇30天系统练习.pdf",
     "page": 1
@@ -5730,15 +5730,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「investigation」在「Day29 问题与解决」中的词性与含义是（　）",
+   "stem": "「investigation」的词性与含义是（　）",
    "options": [
-    "形容词，心理的",
     "名词，调查",
-    "行为",
-    "名词，发现"
+    "名词，描述",
+    "名词，维护",
+    "名词，保护；保存"
    ],
    "answer": [
-    1
+    0
    ],
    "explain": "investigation：名词，调查。例：The investigation (investigate) revealed new facts.",
    "source": {
@@ -5757,12 +5757,12 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「issues」在「Day29 问题与解决」中的词性与含义是（　）",
+   "stem": "「issues」的词性与含义是（　）",
    "options": [
-    "形容词，民主的",
+    "名词，发现",
     "名词复数，问题",
-    "名词，退休",
-    "形容词，运动的"
+    "名词，转变",
+    "名词，健康"
    ],
    "answer": [
     1
@@ -5784,15 +5784,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「resolution」在「Day29 问题与解决」中的词性与含义是（　）",
+   "stem": "「resolution」的词性与含义是（　）",
    "options": [
+    "名词，兴奋",
+    "名词，运动；移动",
     "名词，解决",
-    "名词，耐用性",
-    "名词，谈判",
-    "名词，发明"
+    "动词，实现"
    ],
    "answer": [
-    0
+    2
    ],
    "explain": "resolution：名词，解决。例：The resolution (resolve) of the conflict took time.",
    "source": {
@@ -5811,15 +5811,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「solution」在「Day29 问题与解决」中的词性与含义是（　）",
+   "stem": "「solution」的词性与含义是（　）",
    "options": [
-    "名词，创造力",
-    "名词，发现",
     "名词，解决方案",
-    "名词，解决"
+    "名词，广播",
+    "名词，动力",
+    "形容词，政治的"
    ],
    "answer": [
-    2
+    0
    ],
    "explain": "solution：名词，解决方案。例：The solution (solve) to the problem was simple.",
    "source": {
@@ -5838,12 +5838,12 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「solving」在「Day29 问题与解决」中的词性与含义是（　）",
+   "stem": "「solving」的词性与含义是（　）",
    "options": [
-    "名词，高度",
-    "名词，偏好",
+    "回顾；检查",
+    "名词，结束",
     "名词，解决",
-    "名词，退休"
+    "名词，破坏"
    ],
    "answer": [
     2
@@ -5865,15 +5865,15 @@
    "subject": "english",
    "chapter": "E05",
    "type": "single",
-   "stem": "「Trouble」在「Day29 问题与解决」中的词性与含义是（　）",
+   "stem": "「Trouble」的词性与含义是（　）",
    "options": [
-    "名词，面试",
-    "名词，变化",
     "名词，麻烦",
-    "名词，结束"
+    "形容词，传统的",
+    "名词，信息",
+    "名词，基础"
    ],
    "answer": [
-    2
+    0
    ],
    "explain": "Trouble：名词，麻烦。例：Trouble (trouble) often leads to innovation.",
    "source": {
@@ -5885,6 +5885,492 @@
    "tags": [
     "词汇",
     "Day29"
+   ]
+  },
+  {
+   "id": "Q-V-0219",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「fill in」的词性与含义是（　）",
+   "options": [
+    "名词，效率",
+    "填写（表格）",
+    "名词，继续",
+    "名词，离开"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "fill in：填写（表格）。例：Please fill in this form.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day3"
+   ]
+  },
+  {
+   "id": "Q-V-0220",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「take place」的词性与含义是（　）",
+   "options": [
+    "举行；发生",
+    "名词，建造；建筑",
+    "动词，演变",
+    "名词复数，价值观"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "take place：举行；发生。例：The meeting will take place at 3 PM.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day3"
+   ]
+  },
+  {
+   "id": "Q-V-0221",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「give up」的词性与含义是（　）",
+   "options": [
+    "放弃",
+    "名词，装饰",
+    "名词，准确性",
+    "名词，锻炼；练习"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "give up：放弃。例：He decided to give up smoking.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day3"
+   ]
+  },
+  {
+   "id": "Q-V-0222",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「look into」的词性与含义是（　）",
+   "options": [
+    "调查",
+    "名词，保护",
+    "名词，交换；交流",
+    "名词，介绍"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "look into：调查。例：We need to look into the problem.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day3"
+   ]
+  },
+  {
+   "id": "Q-V-0223",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「take after」的词性与含义是（　）",
+   "options": [
+    "名词，保护",
+    "长得像；性格像",
+    "名词，纯净度",
+    "名词，工程师"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "take after：长得像；性格像。例：She takes after her mother.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day3"
+   ]
+  },
+  {
+   "id": "Q-V-0224",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「work out」的词性与含义是（　）",
+   "options": [
+    "形容词，可持续的",
+    "解决；实现",
+    "名词，研究者",
+    "名词，表演"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "work out：解决；实现。例：The plan did not work out as expected.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day3"
+   ]
+  },
+  {
+   "id": "Q-V-0225",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「go over」的词性与含义是（　）",
+   "options": [
+    "回顾；检查",
+    "形容词，危险的",
+    "名词，婚姻",
+    "名词，介绍"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "go over：回顾；检查。例：Let us go over the main points.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day3"
+   ]
+  },
+  {
+   "id": "Q-V-0226",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「come up with」的词性与含义是（　）",
+   "options": [
+    "名词，社会",
+    "名词，美丽",
+    "副词，准确地",
+    "想出"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "come up with：想出。例：He came up with a good idea.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day3"
+   ]
+  },
+  {
+   "id": "Q-V-0227",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「spread」的词性与含义是（　）",
+   "options": [
+    "名词，可靠性",
+    "形容词，可持续的",
+    "名词复数，标准",
+    "蔓延；传播"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "spread：蔓延；传播。例：The fire quickly spread.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day3"
+   ]
+  },
+  {
+   "id": "Q-V-0228",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「put up with」的词性与含义是（　）",
+   "options": [
+    "忍受",
+    "名词，安排",
+    "名词，恢复",
+    "名词复数，价值观"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "put up with：忍受。例：I cannot put up with the noise.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day3"
+   ]
+  },
+  {
+   "id": "Q-V-0229",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「perseverance」的词性与含义是（　）",
+   "options": [
+    "名词，发明",
+    "名词，预测",
+    "名词，毅力；坚持",
+    "名词，解决方案"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "perseverance：名词，毅力；坚持。例：Perseverance is the key to long-term success.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day30"
+   ]
+  },
+  {
+   "id": "Q-V-0230",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「responsibility」的词性与含义是（　）",
+   "options": [
+    "名词，责任",
+    "形容词，运动的",
+    "名词，成功",
+    "形容词，传统的"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "responsibility：名词，责任。例：Environmental protection is a shared responsibility.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day30"
+   ]
+  },
+  {
+   "id": "Q-V-0231",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「foundation」的词性与含义是（　）",
+   "options": [
+    "名词，记忆",
+    "填写（表格）",
+    "名词，数量",
+    "名词，基础"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "foundation：名词，基础。例：Education provides the foundation for personal growth.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day30"
+   ]
+  },
+  {
+   "id": "Q-V-0232",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「global」的词性与含义是（　）",
+   "options": [
+    "名词，建筑物；建造",
+    "名词，解决方案",
+    "形容词，金融的",
+    "形容词，全球的"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "global：形容词，全球的。例：International cooperation solves global problems.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day30"
+   ]
+  },
+  {
+   "id": "Q-V-0233",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「lifelong」的词性与含义是（　）",
+   "options": [
+    "形容词，终身的",
+    "副词，准确地",
+    "名词，专注",
+    "名词，数据"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "lifelong：形容词，终身的。例：Personal development is a lifelong process.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day30"
+   ]
+  },
+  {
+   "id": "Q-V-0234",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「sustainable」的词性与含义是（　）",
+   "options": [
+    "名词，失望",
+    "名词，发现",
+    "名词复数，变化",
+    "形容词，可持续的"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "sustainable：形容词，可持续的。例：We need sustainable development.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day30"
+   ]
+  },
+  {
+   "id": "Q-V-0235",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「adapt」的词性与含义是（　）",
+   "options": [
+    "动词，适应",
+    "回顾；检查",
+    "名词，谈判",
+    "名词，宽度"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "adapt：动词，适应。例：Companies must adapt to new technologies.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day30"
+   ]
+  },
+  {
+   "id": "Q-V-0236",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「mutual」的词性与含义是（　）",
+   "options": [
+    "形容词，不可预测的",
+    "形容词，相互的",
+    "名词，钦佩",
+    "名词，改进"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "mutual：形容词，相互的。例：Mutual respect strengthens teamwork.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day30"
    ]
   }
  ]

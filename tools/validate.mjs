@@ -25,6 +25,7 @@ const qs = list('questions').flatMap((o) => o.items || []);
 const formulas = read(join(DATA, 'formulas.json')).items;
 const equations = read(join(DATA, 'chem_equations.json')).items;
 const vocab = read(join(DATA, 'vocab.json')).items;
+const scenes = read(join(DATA, 'scenes.json')).items;
 const sources = read(join(DATA, 'sources.json')).items;
 
 const issues = [];
@@ -78,7 +79,10 @@ const shorts = qs.filter((q) => q.stem && q.stem.length < 6);
 if (shorts.length) notes.push(`${shorts.length} 道题题干短于 6 字`);
 
 /* 数据覆盖 */
-notes.push(`知识卡 ${kps.length} · 题目 ${qs.length} · 公式 ${formulas.length} · 方程式 ${equations.length} · 单词 ${vocab.length}`);
+notes.push(`知识卡 ${kps.length} · 题目 ${qs.length} · 公式 ${formulas.length} · 方程式 ${equations.length} · 单词 ${vocab.length} · 情景 ${scenes.length}`);
+const sceneWords = new Set(scenes.map((x) => String(x.word).toLowerCase()));
+const missingScene = vocab.filter((v) => !sceneWords.has(String(v.word).toLowerCase()));
+if (missingScene.length) notes.push(`${missingScene.length} 个单词还没有情景短句：${missingScene.slice(0, 8).map((v) => v.word).join('、')}`);
 notes.push(`来源 PDF ${sources.length} 份；有卡片的来源 ${new Set(kps.map((k) => k.source?.file)).size} 份`);
 
 /* 章节均衡 */

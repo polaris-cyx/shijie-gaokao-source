@@ -11,6 +11,7 @@ data/plan.json              30 天计划
 data/formulas.json          公式 / 结论速查
 data/chem_equations.json    化学方程式速查
 data/vocab.json             英语单词
+data/scenes.json            校园情景短句
 data/methods.json           方法卡
 data/kp/*.json              知识卡
 data/questions/*.json       题库
@@ -245,7 +246,33 @@ data/questions/*.json       题库
 
 - 按资料原 30 天分组（`day` 1–30）；
 - `pos` 用于卡片上的小标签；
-- `related` 是相关词形，不一定是词根。
+- `related` 是相关词形，不一定是词根；
+- 构建时会把 `scenes.json` 中同名单词的 `scene/sceneCn/sceneTag` 合并进来，页面直接读取。
+
+## 6.5 情景短句 `data/scenes.json`
+
+```json
+{
+  "items": [
+    {
+      "id": "SC-0001",
+      "word": "achieve",
+      "en": "Our robotics team worked hard to achieve first place in the school contest.",
+      "cn": "我们机器人队努力训练，终于在学校比赛中拿下第一名。",
+      "tag": "校园·科技"
+    }
+  ]
+}
+```
+
+| 字段 | 说明 |
+|---|---|
+| `word` | 与 `vocab.json` 的 `word` 一致，大小写不敏感 |
+| `en` | 情景英文短句，尽量贴近高中生日常（校园、科技、运动、心理、环境等） |
+| `cn` | 中文翻译 |
+| `tag` | 展示用标签，如「校园·科技」「考试·作息」 |
+
+每个单词一条；构建时会自动合并，单词卡显示「情景」区块，并带朗读按钮。
 
 ## 7. 方法卡 `data/methods.json`
 

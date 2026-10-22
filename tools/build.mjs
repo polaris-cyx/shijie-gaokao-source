@@ -44,6 +44,7 @@ const methods = existsSync(join(DATA, 'methods.json')) ? readJSON(join(DATA, 'me
 const formulas = existsSync(join(DATA, 'formulas.json')) ? readJSON(join(DATA, 'formulas.json')) : { items: [] };
 const equations = existsSync(join(DATA, 'chem_equations.json')) ? readJSON(join(DATA, 'chem_equations.json')) : { items: [] };
 const vocab = existsSync(join(DATA, 'vocab.json')) ? readJSON(join(DATA, 'vocab.json')) : { items: [] };
+const scenes = existsSync(join(DATA, 'scenes.json')) ? readJSON(join(DATA, 'scenes.json')) : { items: [] };
 
 const CH = new Map(chapters.map((c) => [c.id, c]));
 const sourceNames = new Set(sources.map((s) => s.file));
@@ -136,12 +137,21 @@ for (const e of equations.items) {
   if (!CH.has(e.chapter)) fail(`方程式 ${e.id}：chapter 非法`);
   if (!e.name || !e.equation) fail(`方程式 ${e.id}：缺 name/equation`);
 }
+const sceneByWord = new Map(scenes.items.map((s) => [String(s.word).toLowerCase(), s]));
 const seenV = new Set();
 for (const v of vocab.items) {
   if (!v.id || seenV.has(v.id)) { fail(`单词 ${v.id || '(无 id)'}：id 缺失或重复`); continue; }
   seenV.add(v.id);
   if (!CH.has(v.chapter)) fail(`单词 ${v.id}：chapter 非法`);
   if (!v.word) fail(`单词 ${v.id}：缺 word`);
+  v.example = String(v.example || '').replace(/\s*\([A-Za-z][A-Za-z'\- ]*\)/g, '').replace(/\s+/g, ' ').trim();
+  const sc = sceneByWord.get(String(v.word || '').toLowerCase());
+  if (sc) {
+    v.scene = sc.en;
+    v.sceneCn = sc.cn;
+    v.sceneTag = sc.tag;
+    v.sceneId = sc.id;
+  }
 }
 
 /* ------------------------------- 统计 ------------------------------- */
@@ -164,7 +174,7 @@ for (const q of questions) byType[q.type]++;
 const stats = {
   kp: kps.length, questions: questions.length,
   formulas: formulas.items.length, equations: equations.items.length,
-  vocab: vocab.items.length, methods: methods.items.length,
+  vocab: vocab.items.length, scenes: scenes.items.length, methods: methods.items.length,
   sources: sources.length, chapters: chapters.length,
   bySubject, byChapter, byType,
   builtAt: new Date().toISOString()
@@ -172,7 +182,7 @@ const stats = {
 
 const payload = {
   meta, chapters, sources, plan: plan.items, methods: methods.items,
-  formulas: formulas.items, equations: equations.items, vocab: vocab.items,
+  formulas: formulas.items, equations: equations.items, vocab: vocab.items, scenes: scenes.items,
   kps, questions, stats
 };
 
@@ -186,7 +196,7 @@ const line = '─'.repeat(68);
 console.log(line);
 console.log(`${meta.name || '拾阶'} · 数据构建`);
 console.log(line);
-console.log(`知识卡 ${kps.length} · 题目 ${questions.length} · 公式 ${formulas.items.length} · 方程式 ${equations.items.length} · 单词 ${vocab.items.length} · 方法 ${methods.items.length}`);
+console.log(`知识卡 ${kps.length} · 题目 ${questions.length} · 公式 ${formulas.items.length} · 方程式 ${equations.items.length} · 单词 ${vocab.items.length} · 情景 ${scenes.items.length} · 方法 ${methods.items.length}`);
 console.log(`题型：单选 ${byType.single} / 多选 ${byType.multi} / 判断 ${byType.judge} / 填空 ${byType.fill}`);
 {
   const sd = [0, 0, 0, 0];
