@@ -1,0 +1,2192 @@
+{
+ "block": "FORMULA",
+ "items": [
+  {
+   "id": "Q-F-0001",
+   "subject": "math",
+   "chapter": "M01",
+   "type": "single",
+   "stem": "「子集个数」对应的公式或结论是（　）",
+   "options": [
+    "(e^x)' = e^x，(ln x)' = frac{1}{x}",
+    "(x-a)^2+(y-b)^2 = r^2",
+    "含 n 个元素的集合有 2^n 个子集，2^n - 1 个真子集",
+    "frac{x^2}{a^2}+frac{y^2}{b^2}=1，c^2=a^2-b^2，e=frac{c}{a}"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "子集个数：含 n 个元素的集合有 2^n 个子集，2^n - 1 个真子集。非空真子集为 2^n - 2",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M01"
+   ]
+  },
+  {
+   "id": "Q-F-0002",
+   "subject": "math",
+   "chapter": "M01",
+   "type": "single",
+   "stem": "「容斥原理」对应的公式或结论是（　）",
+   "options": [
+    "x = frac{-b ± sqrt{b^2-4ac}}{2a}",
+    "card(A∪B) = card(A) + card(B) - card(A∩B)",
+    "S = frac{1}{2}ab sin C",
+    "frac{a}{sin A} = frac{b}{sin B} = frac{c}{sin C} = 2R"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "容斥原理：card(A∪B) = card(A) + card(B) - card(A∩B)。三个集合类似展开",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M01"
+   ]
+  },
+  {
+   "id": "Q-F-0003",
+   "subject": "math",
+   "chapter": "M01",
+   "type": "single",
+   "stem": "「充分必要」对应的公式或结论是（　）",
+   "options": [
+    "P ⊆ Q ⇔ p 是 q 的充分条件",
+    "frac{x^2}{a^2}+frac{y^2}{b^2}=1，c^2=a^2-b^2，e=frac{c}{a}",
+    "sin(α±β)=sin α cos β ± cos α sin β",
+    "S_n = frac{a_1(1-q^n)}{1-q}（q≠1）"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "充分必要：P ⊆ Q ⇔ p 是 q 的充分条件。小范围推大范围",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M01"
+   ]
+  },
+  {
+   "id": "Q-F-0004",
+   "subject": "math",
+   "chapter": "M02",
+   "type": "single",
+   "stem": "「基本不等式」对应的公式或结论是（　）",
+   "options": [
+    "C_n^m = frac{n!}{m!(n-m)!}",
+    "a + b ≥ 2sqrt{ab}（a>0，b>0）",
+    "ax^2+bx+c>0（a>0），Δ>0 时解集在两根之外",
+    "cos θ = frac{abs{a·b}}{abs{a}abs{b}}"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "基本不等式：a + b ≥ 2sqrt{ab}（a>0，b>0）。当且仅当 a=b 时取等",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M02"
+   ]
+  },
+  {
+   "id": "Q-F-0005",
+   "subject": "math",
+   "chapter": "M02",
+   "type": "single",
+   "stem": "「积定和最小」对应的公式或结论是（　）",
+   "options": [
+    "S = 4πR^2",
+    "ab ≤ frac{(a+b)^2}{4}",
+    "S = frac{1}{2}ab sin C",
+    "[f(g(x))]' = f'(g(x))·g'(x)"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "积定和最小：ab ≤ frac{(a+b)^2}{4}。和定积最大",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M02"
+   ]
+  },
+  {
+   "id": "Q-F-0006",
+   "subject": "math",
+   "chapter": "M02",
+   "type": "single",
+   "stem": "「均值不等式链」对应的公式或结论是（　）",
+   "options": [
+    "a ∥ b，b ⊂ α，a ⊄ α ⇒ a ∥ α",
+    "P(B|A) = frac{P(AB)}{P(A)}",
+    "frac{2}{frac{1}{a}+frac{1}{b}} ≤ sqrt{ab} ≤ frac{a+b}{2} ≤ sqrt{frac{a^2+b^2}{2}}",
+    "a sin x + b cos x = sqrt{a^2+b^2} sin(x+φ)"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "均值不等式链：frac{2}{frac{1}{a}+frac{1}{b}} ≤ sqrt{ab} ≤ frac{a+b}{2} ≤ sqrt{frac{a^2+b^2}{2}}。a,b>0，等号同时成立",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M02"
+   ]
+  },
+  {
+   "id": "Q-F-0007",
+   "subject": "math",
+   "chapter": "M02",
+   "type": "single",
+   "stem": "「一元二次不等式」对应的公式或结论是（　）",
+   "options": [
+    "a_n = a_1 + (n-1)d",
+    "a_n = a_1 q^{n-1}",
+    "sin 2α = 2sin α cos α，cos 2α = 2cos^2α - 1",
+    "ax^2+bx+c>0（a>0），Δ>0 时解集在两根之外"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "一元二次不等式：ax^2+bx+c>0（a>0），Δ>0 时解集在两根之外。大于取两边，小于取中间",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M02"
+   ]
+  },
+  {
+   "id": "Q-F-0008",
+   "subject": "math",
+   "chapter": "M02",
+   "type": "single",
+   "stem": "「求根公式」对应的公式或结论是（　）",
+   "options": [
+    "ab ≤ frac{(a+b)^2}{4}",
+    "log_a b = frac{log_c b}{log_c a}",
+    "card(A∪B) = card(A) + card(B) - card(A∩B)",
+    "x = frac{-b ± sqrt{b^2-4ac}}{2a}"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "求根公式：x = frac{-b ± sqrt{b^2-4ac}}{2a}。Δ = b²-4ac",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M02"
+   ]
+  },
+  {
+   "id": "Q-F-0009",
+   "subject": "math",
+   "chapter": "M03",
+   "type": "single",
+   "stem": "「二次函数顶点」对应的公式或结论是（　）",
+   "options": [
+    "frac{2}{frac{1}{a}+frac{1}{b}} ≤ sqrt{ab} ≤ frac{a+b}{2} ≤ sqrt{frac{a^2+b^2}{2}}",
+    "(-frac{b}{2a}, frac{4ac-b^2}{4a})",
+    "l ⊥ a，l ⊥ b，a∩b=P ⇒ l ⊥ α",
+    "abs{z} = sqrt{a^2+b^2}，z·bar{z}=abs{z}^2"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "二次函数顶点：(-frac{b}{2a}, frac{4ac-b^2}{4a})。对称轴 x = -b/2a",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M03"
+   ]
+  },
+  {
+   "id": "Q-F-0010",
+   "subject": "math",
+   "chapter": "M03",
+   "type": "single",
+   "stem": "「韦达定理」对应的公式或结论是（　）",
+   "options": [
+    "frac{a+bi}{c+di} = frac{(a+bi)(c-di)}{c^2+d^2}",
+    "d = frac{abs{C_1-C_2}}{sqrt{A^2+B^2}}",
+    "x_1+x_2 = -frac{b}{a}，x_1x_2 = frac{c}{a}",
+    "P ⊆ Q ⇔ p 是 q 的充分条件"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "韦达定理：x_1+x_2 = -frac{b}{a}，x_1x_2 = frac{c}{a}。方程 ax²+bx+c=0",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M03"
+   ]
+  },
+  {
+   "id": "Q-F-0011",
+   "subject": "math",
+   "chapter": "M03",
+   "type": "single",
+   "stem": "「指数运算法则」对应的公式或结论是（　）",
+   "options": [
+    "S_n = frac{n(a_1+a_n)}{2} = na_1 + frac{n(n-1)}{2}d",
+    "a^m·a^n = a^{m+n}，(a^m)^n = a^{mn}，a^{-n} = frac{1}{a^n}",
+    "l = 2sqrt{r^2-d^2}",
+    "P(B|A) = frac{P(AB)}{P(A)}"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "指数运算法则：a^m·a^n = a^{m+n}，(a^m)^n = a^{mn}，a^{-n} = frac{1}{a^n}。a>0",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M03"
+   ]
+  },
+  {
+   "id": "Q-F-0012",
+   "subject": "math",
+   "chapter": "M03",
+   "type": "single",
+   "stem": "「对数运算法则」对应的公式或结论是（　）",
+   "options": [
+    "log_a(MN) = log_a M + log_a N",
+    "l ⊥ a，l ⊥ b，a∩b=P ⇒ l ⊥ α",
+    "f'(x_0) = lim_{Δx→0} frac{f(x_0+Δx)-f(x_0)}{Δx}",
+    "d = frac{abs{AP·n}}{abs{n}}"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "对数运算法则：log_a(MN) = log_a M + log_a N。真数大于 0",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M03"
+   ]
+  },
+  {
+   "id": "Q-F-0013",
+   "subject": "math",
+   "chapter": "M03",
+   "type": "single",
+   "stem": "「换底公式」对应的公式或结论是（　）",
+   "options": [
+    "log_a b = frac{log_c b}{log_c a}",
+    "frac{a+bi}{c+di} = frac{(a+bi)(c-di)}{c^2+d^2}",
+    "(-frac{b}{2a}, frac{4ac-b^2}{4a})",
+    "card(A∪B) = card(A) + card(B) - card(A∩B)"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "换底公式：log_a b = frac{log_c b}{log_c a}。c>0 且 c≠1",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M03"
+   ]
+  },
+  {
+   "id": "Q-F-0014",
+   "subject": "math",
+   "chapter": "M03",
+   "type": "single",
+   "stem": "「零点存在定理」对应的公式或结论是（　）",
+   "options": [
+    "f'(x_0) = lim_{Δx→0} frac{f(x_0+Δx)-f(x_0)}{Δx}",
+    "y^2 = 2px，焦点 (frac{p}{2},0)",
+    "f(a)f(b) < 0 且 f 连续 ⇒ 存在 x_0∈(a,b)，f(x_0)=0",
+    "x_1+x_2 = -frac{b}{a}，x_1x_2 = frac{c}{a}"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "零点存在定理：f(a)f(b) < 0 且 f 连续 ⇒ 存在 x_0∈(a,b)，f(x_0)=0。连续 + 单调可保证唯一",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M03"
+   ]
+  },
+  {
+   "id": "Q-F-0015",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "「导数定义」对应的公式或结论是（　）",
+   "options": [
+    "y - f(x_0) = f'(x_0)(x - x_0)",
+    "a^2 = b^2 + c^2 - 2bc cos A",
+    "f'(x_0) = lim_{Δx→0} frac{f(x_0+Δx)-f(x_0)}{Δx}",
+    "[f(g(x))]' = f'(g(x))·g'(x)"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "导数定义：f'(x_0) = lim_{Δx→0} frac{f(x_0+Δx)-f(x_0)}{Δx}。瞬时变化率",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M04"
+   ]
+  },
+  {
+   "id": "Q-F-0016",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "「幂函数求导」对应的公式或结论是（　）",
+   "options": [
+    "frac{1}{n(n+1)} = frac{1}{n} - frac{1}{n+1}",
+    "ax^2+bx+c>0（a>0），Δ>0 时解集在两根之外",
+    "a^m·a^n = a^{m+n}，(a^m)^n = a^{mn}，a^{-n} = frac{1}{a^n}",
+    "(x^n)' = nx^{n-1}"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "幂函数求导：(x^n)' = nx^{n-1}。n 为实数",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M04"
+   ]
+  },
+  {
+   "id": "Q-F-0017",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "「指数对数求导」对应的公式或结论是（　）",
+   "options": [
+    "(uv)' = u'v + uv'，(frac{u}{v})' = frac{u'v-uv'}{v^2}",
+    "frac{a+bi}{c+di} = frac{(a+bi)(c-di)}{c^2+d^2}",
+    "a^m·a^n = a^{m+n}，(a^m)^n = a^{mn}，a^{-n} = frac{1}{a^n}",
+    "(e^x)' = e^x，(ln x)' = frac{1}{x}"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "指数对数求导：(e^x)' = e^x，(ln x)' = frac{1}{x}。(a^x)' = a^x ln a",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M04"
+   ]
+  },
+  {
+   "id": "Q-F-0018",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "「乘积与商求导」对应的公式或结论是（　）",
+   "options": [
+    "x = frac{-b ± sqrt{b^2-4ac}}{2a}",
+    "d = frac{abs{Ax_0+By_0+C}}{sqrt{A^2+B^2}}",
+    "(uv)' = u'v + uv'，(frac{u}{v})' = frac{u'v-uv'}{v^2}",
+    "a ∥ b，b ⊂ α，a ⊄ α ⇒ a ∥ α"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "乘积与商求导：(uv)' = u'v + uv'，(frac{u}{v})' = frac{u'v-uv'}{v^2}。商的分子顺序不能反",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M04"
+   ]
+  },
+  {
+   "id": "Q-F-0019",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "「链式法则」对应的公式或结论是（　）",
+   "options": [
+    "frac{2}{frac{1}{a}+frac{1}{b}} ≤ sqrt{ab} ≤ frac{a+b}{2} ≤ sqrt{frac{a^2+b^2}{2}}",
+    "S = 4πR^2",
+    "[f(g(x))]' = f'(g(x))·g'(x)",
+    "ax^2+bx+c>0（a>0），Δ>0 时解集在两根之外"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "链式法则：[f(g(x))]' = f'(g(x))·g'(x)。由外向内逐层求导",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M04"
+   ]
+  },
+  {
+   "id": "Q-F-0020",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "「切线方程」对应的公式或结论是（　）",
+   "options": [
+    "y - f(x_0) = f'(x_0)(x - x_0)",
+    "log_a(MN) = log_a M + log_a N",
+    "l ⊥ a，l ⊥ b，a∩b=P ⇒ l ⊥ α",
+    "含 n 个元素的集合有 2^n 个子集，2^n - 1 个真子集"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "切线方程：y - f(x_0) = f'(x_0)(x - x_0)。在点 (x₀,f(x₀)) 处",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M04"
+   ]
+  },
+  {
+   "id": "Q-F-0021",
+   "subject": "math",
+   "chapter": "M05",
+   "type": "single",
+   "stem": "「弧度与角度」对应的公式或结论是（　）",
+   "options": [
+    "180° = π，l = abs{α}r，S = frac{1}{2}abs{α}r^2",
+    "k = tan α = frac{y_2-y_1}{x_2-x_1}",
+    "S = 4πR^2",
+    "P(A) = frac{n(A)}{n(Ω)}"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "弧度与角度：180° = π，l = abs{α}r，S = frac{1}{2}abs{α}r^2。α 用弧度",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M05"
+   ]
+  },
+  {
+   "id": "Q-F-0022",
+   "subject": "math",
+   "chapter": "M05",
+   "type": "single",
+   "stem": "「同角关系」对应的公式或结论是（　）",
+   "options": [
+    "sin^2α + cos^2α = 1，tan α = frac{sin α}{cos α}",
+    "frac{x^2}{a^2}+frac{y^2}{b^2}=1，c^2=a^2-b^2，e=frac{c}{a}",
+    "a^2 = b^2 + c^2 - 2bc cos A",
+    "(x-a)^2+(y-b)^2 = r^2"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "同角关系：sin^2α + cos^2α = 1，tan α = frac{sin α}{cos α}。开方看象限",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M05"
+   ]
+  },
+  {
+   "id": "Q-F-0023",
+   "subject": "math",
+   "chapter": "M05",
+   "type": "single",
+   "stem": "「诱导公式」对应的公式或结论是（　）",
+   "options": [
+    "log_a b = frac{log_c b}{log_c a}",
+    "sin(π-α)=sin α，cos(π-α)=-cos α",
+    "frac{x^2}{a^2}+frac{y^2}{b^2}=1，c^2=a^2-b^2，e=frac{c}{a}",
+    "a_n = a_1 q^{n-1}"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "诱导公式：sin(π-α)=sin α，cos(π-α)=-cos α。奇变偶不变，符号看象限",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M05"
+   ]
+  },
+  {
+   "id": "Q-F-0024",
+   "subject": "math",
+   "chapter": "M05",
+   "type": "single",
+   "stem": "「两角和差」对应的公式或结论是（　）",
+   "options": [
+    "sin(α±β)=sin α cos β ± cos α sin β",
+    "f(a)f(b) < 0 且 f 连续 ⇒ 存在 x_0∈(a,b)，f(x_0)=0",
+    "sin 2α = 2sin α cos α，cos 2α = 2cos^2α - 1",
+    "C_n^m = frac{n!}{m!(n-m)!}"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "两角和差：sin(α±β)=sin α cos β ± cos α sin β。余弦中间符号相反",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M05"
+   ]
+  },
+  {
+   "id": "Q-F-0025",
+   "subject": "math",
+   "chapter": "M05",
+   "type": "single",
+   "stem": "「二倍角」对应的公式或结论是（　）",
+   "options": [
+    "(-frac{b}{2a}, frac{4ac-b^2}{4a})",
+    "frac{x^2}{a^2}+frac{y^2}{b^2}=1，c^2=a^2-b^2，e=frac{c}{a}",
+    "l = 2sqrt{r^2-d^2}",
+    "sin 2α = 2sin α cos α，cos 2α = 2cos^2α - 1"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "二倍角：sin 2α = 2sin α cos α，cos 2α = 2cos^2α - 1。降幂：cos²α=(1+cos2α)/2",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M05"
+   ]
+  },
+  {
+   "id": "Q-F-0026",
+   "subject": "math",
+   "chapter": "M05",
+   "type": "single",
+   "stem": "「辅助角」对应的公式或结论是（　）",
+   "options": [
+    "a sin x + b cos x = sqrt{a^2+b^2} sin(x+φ)",
+    "d = frac{abs{Ax_0+By_0+C}}{sqrt{A^2+B^2}}",
+    "S = frac{1}{2}ab sin C",
+    "[f(g(x))]' = f'(g(x))·g'(x)"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "辅助角：a sin x + b cos x = sqrt{a^2+b^2} sin(x+φ)。tan φ = b/a",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M05"
+   ]
+  },
+  {
+   "id": "Q-F-0027",
+   "subject": "math",
+   "chapter": "M05",
+   "type": "single",
+   "stem": "「正弦定理」对应的公式或结论是（　）",
+   "options": [
+    "frac{a}{sin A} = frac{b}{sin B} = frac{c}{sin C} = 2R",
+    "d = frac{abs{Ax_0+By_0+C}}{sqrt{A^2+B^2}}",
+    "y - f(x_0) = f'(x_0)(x - x_0)",
+    "ab ≤ frac{(a+b)^2}{4}"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "正弦定理：frac{a}{sin A} = frac{b}{sin B} = frac{c}{sin C} = 2R。边角互化",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M05"
+   ]
+  },
+  {
+   "id": "Q-F-0028",
+   "subject": "math",
+   "chapter": "M05",
+   "type": "single",
+   "stem": "「余弦定理」对应的公式或结论是（　）",
+   "options": [
+    "sin 2α = 2sin α cos α，cos 2α = 2cos^2α - 1",
+    "frac{x^2}{a^2}+frac{y^2}{b^2}=1，c^2=a^2-b^2，e=frac{c}{a}",
+    "a^2 = b^2 + c^2 - 2bc cos A",
+    "a sin x + b cos x = sqrt{a^2+b^2} sin(x+φ)"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "余弦定理：a^2 = b^2 + c^2 - 2bc cos A。已知三边求角",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M05"
+   ]
+  },
+  {
+   "id": "Q-F-0029",
+   "subject": "math",
+   "chapter": "M05",
+   "type": "single",
+   "stem": "「三角形面积」对应的公式或结论是（　）",
+   "options": [
+    "(uv)' = u'v + uv'，(frac{u}{v})' = frac{u'v-uv'}{v^2}",
+    "A_n^m = frac{n!}{(n-m)!}",
+    "S = frac{1}{2}ab sin C",
+    "P(B|A) = frac{P(AB)}{P(A)}"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "三角形面积：S = frac{1}{2}ab sin C。三组边角任选",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M05"
+   ]
+  },
+  {
+   "id": "Q-F-0030",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "「等差数列通项」对应的公式或结论是（　）",
+   "options": [
+    "(e^x)' = e^x，(ln x)' = frac{1}{x}",
+    "cos θ = frac{abs{a·b}}{abs{a}abs{b}}",
+    "frac{1}{n(n+1)} = frac{1}{n} - frac{1}{n+1}",
+    "a_n = a_1 + (n-1)d"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "等差数列通项：a_n = a_1 + (n-1)d。关于 n 的一次函数",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M06"
+   ]
+  },
+  {
+   "id": "Q-F-0031",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "「等差数列求和」对应的公式或结论是（　）",
+   "options": [
+    "abs{AB} = sqrt{1+k^2} abs{x_1-x_2}",
+    "S_n = frac{n(a_1+a_n)}{2} = na_1 + frac{n(n-1)}{2}d",
+    "[f(g(x))]' = f'(g(x))·g'(x)",
+    "a sin x + b cos x = sqrt{a^2+b^2} sin(x+φ)"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "等差数列求和：S_n = frac{n(a_1+a_n)}{2} = na_1 + frac{n(n-1)}{2}d。常数项为 0 的二次函数",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M06"
+   ]
+  },
+  {
+   "id": "Q-F-0032",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "「等比数列通项」对应的公式或结论是（　）",
+   "options": [
+    "a_n = a_1 q^{n-1}",
+    "sin(α±β)=sin α cos β ± cos α sin β",
+    "frac{2}{frac{1}{a}+frac{1}{b}} ≤ sqrt{ab} ≤ frac{a+b}{2} ≤ sqrt{frac{a^2+b^2}{2}}",
+    "ab ≤ frac{(a+b)^2}{4}"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "等比数列通项：a_n = a_1 q^{n-1}。q≠0",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M06"
+   ]
+  },
+  {
+   "id": "Q-F-0033",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "「等比数列求和」对应的公式或结论是（　）",
+   "options": [
+    "C_n^m = frac{n!}{m!(n-m)!}",
+    "k = tan α = frac{y_2-y_1}{x_2-x_1}",
+    "S_n = frac{a_1(1-q^n)}{1-q}（q≠1）",
+    "a·b = abs{a}abs{b}cos θ = x_1x_2+y_1y_2"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "等比数列求和：S_n = frac{a_1(1-q^n)}{1-q}（q≠1）。q=1 时 Sₙ=na₁",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M06"
+   ]
+  },
+  {
+   "id": "Q-F-0034",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "「裂项相消」对应的公式或结论是（　）",
+   "options": [
+    "E(X)=Σx_ip_i，D(X)=Σ(x_i-E(X))^2p_i",
+    "log_a(MN) = log_a M + log_a N",
+    "S = 4πR^2",
+    "frac{1}{n(n+1)} = frac{1}{n} - frac{1}{n+1}"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "裂项相消：frac{1}{n(n+1)} = frac{1}{n} - frac{1}{n+1}。注意系数",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M06"
+   ]
+  },
+  {
+   "id": "Q-F-0035",
+   "subject": "math",
+   "chapter": "M07",
+   "type": "single",
+   "stem": "「柱锥台球体积」对应的公式或结论是（　）",
+   "options": [
+    "sin^2α + cos^2α = 1，tan α = frac{sin α}{cos α}",
+    "sin(π-α)=sin α，cos(π-α)=-cos α",
+    "f'(x_0) = lim_{Δx→0} frac{f(x_0+Δx)-f(x_0)}{Δx}",
+    "V_{柱}=Sh，V_{锥}=frac{1}{3}Sh，V_{球}=frac{4}{3}πR^3"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "柱锥台球体积：V_{柱}=Sh，V_{锥}=frac{1}{3}Sh，V_{球}=frac{4}{3}πR^3。台体 1/3 h(S₁+√(S₁S₂)+S₂)",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M07"
+   ]
+  },
+  {
+   "id": "Q-F-0036",
+   "subject": "math",
+   "chapter": "M07",
+   "type": "single",
+   "stem": "「球的表面积」对应的公式或结论是（　）",
+   "options": [
+    "P ⊆ Q ⇔ p 是 q 的充分条件",
+    "x = frac{-b ± sqrt{b^2-4ac}}{2a}",
+    "S = 4πR^2",
+    "frac{1}{n(n+1)} = frac{1}{n} - frac{1}{n+1}"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "球的表面积：S = 4πR^2。与体积区分",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M07"
+   ]
+  },
+  {
+   "id": "Q-F-0037",
+   "subject": "math",
+   "chapter": "M07",
+   "type": "single",
+   "stem": "「线面平行判定」对应的公式或结论是（　）",
+   "options": [
+    "[f(g(x))]' = f'(g(x))·g'(x)",
+    "a ∥ b，b ⊂ α，a ⊄ α ⇒ a ∥ α",
+    "S = frac{1}{2}ab sin C",
+    "d = frac{abs{Ax_0+By_0+C}}{sqrt{A^2+B^2}}"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "线面平行判定：a ∥ b，b ⊂ α，a ⊄ α ⇒ a ∥ α。平面内找平行线",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M07"
+   ]
+  },
+  {
+   "id": "Q-F-0038",
+   "subject": "math",
+   "chapter": "M07",
+   "type": "single",
+   "stem": "「线面垂直判定」对应的公式或结论是（　）",
+   "options": [
+    "C_n^m = frac{n!}{m!(n-m)!}",
+    "log_a(MN) = log_a M + log_a N",
+    "(x^n)' = nx^{n-1}",
+    "l ⊥ a，l ⊥ b，a∩b=P ⇒ l ⊥ α"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "线面垂直判定：l ⊥ a，l ⊥ b，a∩b=P ⇒ l ⊥ α。两条相交直线",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M07"
+   ]
+  },
+  {
+   "id": "Q-F-0039",
+   "subject": "math",
+   "chapter": "M07",
+   "type": "single",
+   "stem": "「线线角公式」对应的公式或结论是（　）",
+   "options": [
+    "sin θ = frac{abs{a·n}}{abs{a}abs{n}}",
+    "cos θ = frac{abs{a·b}}{abs{a}abs{b}}",
+    "ax^2+bx+c>0（a>0），Δ>0 时解集在两根之外",
+    "a^m·a^n = a^{m+n}，(a^m)^n = a^{mn}，a^{-n} = frac{1}{a^n}"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "线线角公式：cos θ = frac{abs{a·b}}{abs{a}abs{b}}。范围 [0,π/2]",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M07"
+   ]
+  },
+  {
+   "id": "Q-F-0040",
+   "subject": "math",
+   "chapter": "M07",
+   "type": "single",
+   "stem": "「线面角公式」对应的公式或结论是（　）",
+   "options": [
+    "abs{AB} = sqrt{1+k^2} abs{x_1-x_2}",
+    "P(B|A) = frac{P(AB)}{P(A)}",
+    "x = frac{-b ± sqrt{b^2-4ac}}{2a}",
+    "sin θ = frac{abs{a·n}}{abs{a}abs{n}}"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "线面角公式：sin θ = frac{abs{a·n}}{abs{a}abs{n}}。不是余弦",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M07"
+   ]
+  },
+  {
+   "id": "Q-F-0041",
+   "subject": "math",
+   "chapter": "M07",
+   "type": "single",
+   "stem": "「点面距」对应的公式或结论是（　）",
+   "options": [
+    "card(A∪B) = card(A) + card(B) - card(A∩B)",
+    "k = tan α = frac{y_2-y_1}{x_2-x_1}",
+    "d = frac{abs{AP·n}}{abs{n}}",
+    "a sin x + b cos x = sqrt{a^2+b^2} sin(x+φ)"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "点面距：d = frac{abs{AP·n}}{abs{n}}。n 为平面法向量",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M07"
+   ]
+  },
+  {
+   "id": "Q-F-0042",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "「斜率」对应的公式或结论是（　）",
+   "options": [
+    "k = tan α = frac{y_2-y_1}{x_2-x_1}",
+    "a + b ≥ 2sqrt{ab}（a>0，b>0）",
+    "(e^x)' = e^x，(ln x)' = frac{1}{x}",
+    "(-frac{b}{2a}, frac{4ac-b^2}{4a})"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "斜率：k = tan α = frac{y_2-y_1}{x_2-x_1}。α≠90°",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M08"
+   ]
+  },
+  {
+   "id": "Q-F-0043",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "「点线距」对应的公式或结论是（　）",
+   "options": [
+    "d = frac{abs{Ax_0+By_0+C}}{sqrt{A^2+B^2}}",
+    "l ⊥ a，l ⊥ b，a∩b=P ⇒ l ⊥ α",
+    "y - f(x_0) = f'(x_0)(x - x_0)",
+    "sin(α±β)=sin α cos β ± cos α sin β"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "点线距：d = frac{abs{Ax_0+By_0+C}}{sqrt{A^2+B^2}}。直线 Ax+By+C=0",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M08"
+   ]
+  },
+  {
+   "id": "Q-F-0044",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "「平行线距」对应的公式或结论是（　）",
+   "options": [
+    "d = frac{abs{C_1-C_2}}{sqrt{A^2+B^2}}",
+    "frac{1}{n(n+1)} = frac{1}{n} - frac{1}{n+1}",
+    "cos θ = frac{abs{a·b}}{abs{a}abs{b}}",
+    "ax^2+bx+c>0（a>0），Δ>0 时解集在两根之外"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "平行线距：d = frac{abs{C_1-C_2}}{sqrt{A^2+B^2}}。系数需一致",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M08"
+   ]
+  },
+  {
+   "id": "Q-F-0045",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "「圆的方程」对应的公式或结论是（　）",
+   "options": [
+    "frac{a}{sin A} = frac{b}{sin B} = frac{c}{sin C} = 2R",
+    "cos θ = frac{abs{a·b}}{abs{a}abs{b}}",
+    "(x-a)^2+(y-b)^2 = r^2",
+    "abs{z} = sqrt{a^2+b^2}，z·bar{z}=abs{z}^2"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "圆的方程：(x-a)^2+(y-b)^2 = r^2。一般式先配方",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M08"
+   ]
+  },
+  {
+   "id": "Q-F-0046",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "「弦长公式」对应的公式或结论是（　）",
+   "options": [
+    "l = 2sqrt{r^2-d^2}",
+    "sin θ = frac{abs{a·n}}{abs{a}abs{n}}",
+    "ax^2+bx+c>0（a>0），Δ>0 时解集在两根之外",
+    "180° = π，l = abs{α}r，S = frac{1}{2}abs{α}r^2"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "弦长公式：l = 2sqrt{r^2-d^2}。直线与圆",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M08"
+   ]
+  },
+  {
+   "id": "Q-F-0047",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "「椭圆」对应的公式或结论是（　）",
+   "options": [
+    "frac{x^2}{a^2}+frac{y^2}{b^2}=1，c^2=a^2-b^2，e=frac{c}{a}",
+    "k = tan α = frac{y_2-y_1}{x_2-x_1}",
+    "y^2 = 2px，焦点 (frac{p}{2},0)",
+    "S = frac{1}{2}ab sin C"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "椭圆：frac{x^2}{a^2}+frac{y^2}{b^2}=1，c^2=a^2-b^2，e=frac{c}{a}。a>b>0",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M08"
+   ]
+  },
+  {
+   "id": "Q-F-0048",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "「双曲线」对应的公式或结论是（　）",
+   "options": [
+    "sin(α±β)=sin α cos β ± cos α sin β",
+    "frac{a+bi}{c+di} = frac{(a+bi)(c-di)}{c^2+d^2}",
+    "frac{x^2}{a^2}-frac{y^2}{b^2}=1，c^2=a^2+b^2",
+    "S_n = frac{n(a_1+a_n)}{2} = na_1 + frac{n(n-1)}{2}d"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "双曲线：frac{x^2}{a^2}-frac{y^2}{b^2}=1，c^2=a^2+b^2。渐近线 y=±(b/a)x",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M08"
+   ]
+  },
+  {
+   "id": "Q-F-0049",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "「抛物线」对应的公式或结论是（　）",
+   "options": [
+    "T_{k+1} = C_n^k a^{n-k}b^k",
+    "E(X)=Σx_ip_i，D(X)=Σ(x_i-E(X))^2p_i",
+    "y^2 = 2px，焦点 (frac{p}{2},0)",
+    "f'(x_0) = lim_{Δx→0} frac{f(x_0+Δx)-f(x_0)}{Δx}"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "抛物线：y^2 = 2px，焦点 (frac{p}{2},0)。准线 x=-p/2",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M08"
+   ]
+  },
+  {
+   "id": "Q-F-0050",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "「椭圆弦长」对应的公式或结论是（　）",
+   "options": [
+    "abs{AB} = sqrt{1+k^2} abs{x_1-x_2}",
+    "log_a(MN) = log_a M + log_a N",
+    "ax^2+bx+c>0（a>0），Δ>0 时解集在两根之外",
+    "A_n^m = frac{n!}{(n-m)!}"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "椭圆弦长：abs{AB} = sqrt{1+k^2} abs{x_1-x_2}。联立后用韦达定理",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M08"
+   ]
+  },
+  {
+   "id": "Q-F-0051",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "「排列数」对应的公式或结论是（　）",
+   "options": [
+    "frac{x^2}{a^2}+frac{y^2}{b^2}=1，c^2=a^2-b^2，e=frac{c}{a}",
+    "sin 2α = 2sin α cos α，cos 2α = 2cos^2α - 1",
+    "l = 2sqrt{r^2-d^2}",
+    "A_n^m = frac{n!}{(n-m)!}"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "排列数：A_n^m = frac{n!}{(n-m)!}。有序",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M09"
+   ]
+  },
+  {
+   "id": "Q-F-0052",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "「组合数」对应的公式或结论是（　）",
+   "options": [
+    "C_n^m = frac{n!}{m!(n-m)!}",
+    "l ⊥ a，l ⊥ b，a∩b=P ⇒ l ⊥ α",
+    "T_{k+1} = C_n^k a^{n-k}b^k",
+    "a sin x + b cos x = sqrt{a^2+b^2} sin(x+φ)"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "组合数：C_n^m = frac{n!}{m!(n-m)!}。无序",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M09"
+   ]
+  },
+  {
+   "id": "Q-F-0053",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "「二项式通项」对应的公式或结论是（　）",
+   "options": [
+    "d = frac{abs{AP·n}}{abs{n}}",
+    "S_n = frac{a_1(1-q^n)}{1-q}（q≠1）",
+    "(x-a)^2+(y-b)^2 = r^2",
+    "T_{k+1} = C_n^k a^{n-k}b^k"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "二项式通项：T_{k+1} = C_n^k a^{n-k}b^k。k 从 0 开始",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M09"
+   ]
+  },
+  {
+   "id": "Q-F-0054",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "「古典概型」对应的公式或结论是（　）",
+   "options": [
+    "S = frac{1}{2}ab sin C",
+    "d = frac{abs{Ax_0+By_0+C}}{sqrt{A^2+B^2}}",
+    "P(A) = frac{n(A)}{n(Ω)}",
+    "frac{2}{frac{1}{a}+frac{1}{b}} ≤ sqrt{ab} ≤ frac{a+b}{2} ≤ sqrt{frac{a^2+b^2}{2}}"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "古典概型：P(A) = frac{n(A)}{n(Ω)}。有限等可能",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M09"
+   ]
+  },
+  {
+   "id": "Q-F-0055",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "「条件概率」对应的公式或结论是（　）",
+   "options": [
+    "frac{x^2}{a^2}+frac{y^2}{b^2}=1，c^2=a^2-b^2，e=frac{c}{a}",
+    "sin^2α + cos^2α = 1，tan α = frac{sin α}{cos α}",
+    "P(B|A) = frac{P(AB)}{P(A)}",
+    "sin(π-α)=sin α，cos(π-α)=-cos α"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "条件概率：P(B|A) = frac{P(AB)}{P(A)}。独立时 P(AB)=P(A)P(B)",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M09"
+   ]
+  },
+  {
+   "id": "Q-F-0056",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "「期望与方差」对应的公式或结论是（　）",
+   "options": [
+    "f(a)f(b) < 0 且 f 连续 ⇒ 存在 x_0∈(a,b)，f(x_0)=0",
+    "E(X)=Σx_ip_i，D(X)=Σ(x_i-E(X))^2p_i",
+    "a·b = abs{a}abs{b}cos θ = x_1x_2+y_1y_2",
+    "ab ≤ frac{(a+b)^2}{4}"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "期望与方差：E(X)=Σx_ip_i，D(X)=Σ(x_i-E(X))^2p_i。二项分布 E=np，D=np(1-p)",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M09"
+   ]
+  },
+  {
+   "id": "Q-F-0057",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "「方差」对应的公式或结论是（　）",
+   "options": [
+    "abs{AB} = sqrt{1+k^2} abs{x_1-x_2}",
+    "s^2 = frac{1}{n}Σ(x_i-bar{x})^2",
+    "a^m·a^n = a^{m+n}，(a^m)^n = a^{mn}，a^{-n} = frac{1}{a^n}",
+    "frac{1}{n(n+1)} = frac{1}{n} - frac{1}{n+1}"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "方差：s^2 = frac{1}{n}Σ(x_i-bar{x})^2。标准差为其算术平方根",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M09"
+   ]
+  },
+  {
+   "id": "Q-F-0058",
+   "subject": "math",
+   "chapter": "M10",
+   "type": "single",
+   "stem": "「复数模」对应的公式或结论是（　）",
+   "options": [
+    "abs{z} = sqrt{a^2+b^2}，z·bar{z}=abs{z}^2",
+    "l = 2sqrt{r^2-d^2}",
+    "f'(x_0) = lim_{Δx→0} frac{f(x_0+Δx)-f(x_0)}{Δx}",
+    "a·b = abs{a}abs{b}cos θ = x_1x_2+y_1y_2"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "复数模：abs{z} = sqrt{a^2+b^2}，z·bar{z}=abs{z}^2。z=a+bi",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M10"
+   ]
+  },
+  {
+   "id": "Q-F-0059",
+   "subject": "math",
+   "chapter": "M10",
+   "type": "single",
+   "stem": "「复数除法」对应的公式或结论是（　）",
+   "options": [
+    "sin(α±β)=sin α cos β ± cos α sin β",
+    "(x^n)' = nx^{n-1}",
+    "含 n 个元素的集合有 2^n 个子集，2^n - 1 个真子集",
+    "frac{a+bi}{c+di} = frac{(a+bi)(c-di)}{c^2+d^2}"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "复数除法：frac{a+bi}{c+di} = frac{(a+bi)(c-di)}{c^2+d^2}。分母实数化",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M10"
+   ]
+  },
+  {
+   "id": "Q-F-0060",
+   "subject": "math",
+   "chapter": "M10",
+   "type": "single",
+   "stem": "「数量积」对应的公式或结论是（　）",
+   "options": [
+    "x_1+x_2 = -frac{b}{a}，x_1x_2 = frac{c}{a}",
+    "a·b = abs{a}abs{b}cos θ = x_1x_2+y_1y_2",
+    "l ⊥ a，l ⊥ b，a∩b=P ⇒ l ⊥ α",
+    "y^2 = 2px，焦点 (frac{p}{2},0)"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "数量积：a·b = abs{a}abs{b}cos θ = x_1x_2+y_1y_2。结果是实数",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M10"
+   ]
+  },
+  {
+   "id": "Q-F-0061",
+   "subject": "math",
+   "chapter": "M10",
+   "type": "single",
+   "stem": "「平行与垂直」对应的公式或结论是（　）",
+   "options": [
+    "a∥b ⇔ x_1y_2-x_2y_1=0；a⊥b ⇔ x_1x_2+y_1y_2=0",
+    "d = frac{abs{Ax_0+By_0+C}}{sqrt{A^2+B^2}}",
+    "T_{k+1} = C_n^k a^{n-k}b^k",
+    "E(X)=Σx_ip_i，D(X)=Σ(x_i-E(X))^2p_i"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "平行与垂直：a∥b ⇔ x_1y_2-x_2y_1=0；a⊥b ⇔ x_1x_2+y_1y_2=0。坐标判定",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "M10"
+   ]
+  },
+  {
+   "id": "Q-F-0062",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "「平均速度」对应的公式或结论是（　）",
+   "options": [
+    "v^2 - v_0^2 = 2ax",
+    "v_{x/2} = sqrt{frac{v_0^2+v^2}{2}}",
+    "x = v_0t + frac{1}{2}at^2",
+    "bar{v} = frac{Δx}{Δt}"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "平均速度：bar{v} = frac{Δx}{Δt}。位移/时间，矢量",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P01"
+   ]
+  },
+  {
+   "id": "Q-F-0063",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "「加速度」对应的公式或结论是（　）",
+   "options": [
+    "v_1:v_2:v_3=1:2:3，x_1:x_2:x_3=1:4:9",
+    "a = frac{Δv}{Δt} = frac{v-v_0}{t}",
+    "斜率 = v",
+    "v^2 - v_0^2 = 2ax"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "加速度：a = frac{Δv}{Δt} = frac{v-v_0}{t}。方向与 Δv 相同",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P01"
+   ]
+  },
+  {
+   "id": "Q-F-0064",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "「速度公式」对应的公式或结论是（　）",
+   "options": [
+    "斜率 = a，面积 = Δx",
+    "v = v_0 + at",
+    "v_1:v_2:v_3=1:2:3，x_1:x_2:x_3=1:4:9",
+    "bar{v} = frac{Δx}{Δt}"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "速度公式：v = v_0 + at。匀变速直线运动",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P01"
+   ]
+  },
+  {
+   "id": "Q-F-0065",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "「位移公式」对应的公式或结论是（　）",
+   "options": [
+    "v_{x/2} = sqrt{frac{v_0^2+v^2}{2}}",
+    "H = frac{v_0^2}{2g}，t_{上} = frac{v_0}{g}",
+    "x = v_0t + frac{1}{2}at^2",
+    "v=gt，h=frac{1}{2}gt^2，v^2=2gh"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "位移公式：x = v_0t + frac{1}{2}at^2。注意正方向",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P01"
+   ]
+  },
+  {
+   "id": "Q-F-0066",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "「速度位移公式」对应的公式或结论是（　）",
+   "options": [
+    "Δx = aT^2",
+    "v^2 - v_0^2 = 2ax",
+    "H = frac{v_0^2}{2g}，t_{上} = frac{v_0}{g}",
+    "斜率 = 2a"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "速度位移公式：v^2 - v_0^2 = 2ax。不含时间",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P01"
+   ]
+  },
+  {
+   "id": "Q-F-0067",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "「中间时刻速度」对应的公式或结论是（　）",
+   "options": [
+    "v_n = frac{x_n+x_{n+1}}{2T}",
+    "v_{t/2} = frac{v_0+v}{2} = frac{x}{t}",
+    "v_1:v_2:v_3=1:2:3，x_1:x_2:x_3=1:4:9",
+    "v=gt，h=frac{1}{2}gt^2，v^2=2gh"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "中间时刻速度：v_{t/2} = frac{v_0+v}{2} = frac{x}{t}。等于平均速度",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P01"
+   ]
+  },
+  {
+   "id": "Q-F-0068",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "「中间位置速度」对应的公式或结论是（　）",
+   "options": [
+    "v_1:v_2:v_3=1:2:3，x_1:x_2:x_3=1:4:9",
+    "v^2 - v_0^2 = 2ax",
+    "bar{v} = frac{Δx}{Δt}",
+    "v_{x/2} = sqrt{frac{v_0^2+v^2}{2}}"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "中间位置速度：v_{x/2} = sqrt{frac{v_0^2+v^2}{2}}。大于中间时刻速度",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P01"
+   ]
+  },
+  {
+   "id": "Q-F-0069",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "「逐差公式」对应的公式或结论是（　）",
+   "options": [
+    "Δx = aT^2",
+    "v^2 - v_0^2 = 2ax",
+    "v=gt，h=frac{1}{2}gt^2，v^2=2gh",
+    "bar{v} = frac{Δx}{Δt}"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "逐差公式：Δx = aT^2。连续相等时间",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P01"
+   ]
+  },
+  {
+   "id": "Q-F-0070",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "「自由落体」对应的公式或结论是（　）",
+   "options": [
+    "a = frac{Δv}{Δt} = frac{v-v_0}{t}",
+    "斜率 = 2a",
+    "v=gt，h=frac{1}{2}gt^2，v^2=2gh",
+    "v=v_0-gt，h=v_0t-frac{1}{2}gt^2"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "自由落体：v=gt，h=frac{1}{2}gt^2，v^2=2gh。初速度为 0",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P01"
+   ]
+  },
+  {
+   "id": "Q-F-0071",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "「竖直上抛」对应的公式或结论是（　）",
+   "options": [
+    "a = frac{(x_4+x_5+x_6)-(x_1+x_2+x_3)}{9T^2}",
+    "x = v_0t + frac{1}{2}at^2",
+    "v=v_0-gt，h=v_0t-frac{1}{2}gt^2",
+    "H = frac{v_0^2}{2g}，t_{上} = frac{v_0}{g}"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "竖直上抛：v=v_0-gt，h=v_0t-frac{1}{2}gt^2。向上为正",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P01"
+   ]
+  },
+  {
+   "id": "Q-F-0072",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "「上抛最大高度」对应的公式或结论是（　）",
+   "options": [
+    "H = frac{v_0^2}{2g}，t_{上} = frac{v_0}{g}",
+    "a = frac{Δv}{Δt} = frac{v-v_0}{t}",
+    "v=gt，h=frac{1}{2}gt^2，v^2=2gh",
+    "斜率 = 2a"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "上抛最大高度：H = frac{v_0^2}{2g}，t_{上} = frac{v_0}{g}。最高点速度为零",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P01"
+   ]
+  },
+  {
+   "id": "Q-F-0073",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "「初速为零比例」对应的公式或结论是（　）",
+   "options": [
+    "Δx = aT^2",
+    "v_1:v_2:v_3=1:2:3，x_1:x_2:x_3=1:4:9",
+    "斜率 = a，面积 = Δx",
+    "v = v_0 + at"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "初速为零比例：v_1:v_2:v_3=1:2:3，x_1:x_2:x_3=1:4:9。等分时间",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P01"
+   ]
+  },
+  {
+   "id": "Q-F-0074",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "「连续相等时间位移比」对应的公式或结论是（　）",
+   "options": [
+    "v_1:v_2:v_3=1:2:3，x_1:x_2:x_3=1:4:9",
+    "a = frac{Δv}{Δt} = frac{v-v_0}{t}",
+    "斜率 = 2a",
+    "x_Ⅰ:x_Ⅱ:x_Ⅲ = 1:3:5"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "连续相等时间位移比：x_Ⅰ:x_Ⅱ:x_Ⅲ = 1:3:5。初速度为零",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P01"
+   ]
+  },
+  {
+   "id": "Q-F-0075",
+   "subject": "physics",
+   "chapter": "P02",
+   "type": "single",
+   "stem": "「打点计时器周期」对应的公式或结论是（　）",
+   "options": [
+    "v=v_0-gt，h=v_0t-frac{1}{2}gt^2",
+    "Δx = aT^2",
+    "T = frac{1}{f}，f=50Hz ⇒ T=0.02s",
+    "bar{v} = frac{Δx}{Δt}"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "打点计时器周期：T = frac{1}{f}，f=50Hz ⇒ T=0.02s。每 5 个间隔取计数点 T=0.1s",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P02"
+   ]
+  },
+  {
+   "id": "Q-F-0076",
+   "subject": "physics",
+   "chapter": "P02",
+   "type": "single",
+   "stem": "「纸带瞬时速度」对应的公式或结论是（　）",
+   "options": [
+    "v_{t/2} = frac{v_0+v}{2} = frac{x}{t}",
+    "v^2 - v_0^2 = 2ax",
+    "斜率 = 2a",
+    "v_n = frac{x_n+x_{n+1}}{2T}"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "纸带瞬时速度：v_n = frac{x_n+x_{n+1}}{2T}。中间时刻速度",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P02"
+   ]
+  },
+  {
+   "id": "Q-F-0077",
+   "subject": "physics",
+   "chapter": "P02",
+   "type": "single",
+   "stem": "「逐差法求加速度」对应的公式或结论是（　）",
+   "options": [
+    "a = frac{(x_4+x_5+x_6)-(x_1+x_2+x_3)}{9T^2}",
+    "v_1:v_2:v_3=1:2:3，x_1:x_2:x_3=1:4:9",
+    "v_n = frac{x_n+x_{n+1}}{2T}",
+    "H = frac{v_0^2}{2g}，t_{上} = frac{v_0}{g}"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "逐差法求加速度：a = frac{(x_4+x_5+x_6)-(x_1+x_2+x_3)}{9T^2}。六段纸带",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P02"
+   ]
+  },
+  {
+   "id": "Q-F-0078",
+   "subject": "physics",
+   "chapter": "P02",
+   "type": "single",
+   "stem": "「光电门测速」对应的公式或结论是（　）",
+   "options": [
+    "v=gt，h=frac{1}{2}gt^2，v^2=2gh",
+    "v = frac{d}{Δt}",
+    "v_1:v_2:v_3=1:2:3，x_1:x_2:x_3=1:4:9",
+    "v=v_0-gt，h=v_0t-frac{1}{2}gt^2"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "光电门测速：v = frac{d}{Δt}。d 为遮光条宽度",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P02"
+   ]
+  },
+  {
+   "id": "Q-F-0079",
+   "subject": "physics",
+   "chapter": "P02",
+   "type": "single",
+   "stem": "「v-t 图像」对应的公式或结论是（　）",
+   "options": [
+    "H = frac{v_0^2}{2g}，t_{上} = frac{v_0}{g}",
+    "斜率 = a，面积 = Δx",
+    "bar{v} = frac{Δx}{Δt}",
+    "v=gt，h=frac{1}{2}gt^2，v^2=2gh"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "v-t 图像：斜率 = a，面积 = Δx。交点表示速度相同",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P02"
+   ]
+  },
+  {
+   "id": "Q-F-0080",
+   "subject": "physics",
+   "chapter": "P02",
+   "type": "single",
+   "stem": "「x-t 图像」对应的公式或结论是（　）",
+   "options": [
+    "x = v_0t + frac{1}{2}at^2",
+    "斜率 = v",
+    "x_Ⅰ:x_Ⅱ:x_Ⅲ = 1:3:5",
+    "斜率 = a，面积 = Δx"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "x-t 图像：斜率 = v。交点表示相遇",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P02"
+   ]
+  },
+  {
+   "id": "Q-F-0081",
+   "subject": "physics",
+   "chapter": "P02",
+   "type": "single",
+   "stem": "「v²-x 图像」对应的公式或结论是（　）",
+   "options": [
+    "斜率 = 2a",
+    "v = frac{d}{Δt}",
+    "v = v_0 + at",
+    "H = frac{v_0^2}{2g}，t_{上} = frac{v_0}{g}"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "v²-x 图像：斜率 = 2a。由 v²-v₀²=2ax",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "公式",
+    "P02"
+   ]
+  }
+ ]
+}

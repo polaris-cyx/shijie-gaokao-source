@@ -1,0 +1,5891 @@
+{
+ "block": "VOCAB",
+ "items": [
+  {
+   "id": "Q-V-0001",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「achieve」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "options": [
+    "名词，合作",
+    "方法",
+    "形容词，金融的",
+    "动词，实现"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "achieve：动词，实现。例：He hopes to achieve (achievement) his goal this year.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day1"
+   ]
+  },
+  {
+   "id": "Q-V-0002",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「consider」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "options": [
+    "名词，结构",
+    "名词，性格",
+    "名词，完成",
+    "动词，考虑"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "consider：动词，考虑。例：The manager will consider (consideration) your proposal.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day1"
+   ]
+  },
+  {
+   "id": "Q-V-0003",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「departure」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "options": [
+    "形容词，政治的",
+    "结果",
+    "行为",
+    "名词，离开"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "departure：名词，离开。例：His sudden departure (depart) surprised everyone.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day1"
+   ]
+  },
+  {
+   "id": "Q-V-0004",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「development」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "options": [
+    "名词，宽度",
+    "名词，连接",
+    "名词，表演",
+    "名词，发展"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "development：名词，发展。例：The development (develop) of technology is rapid.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day1"
+   ]
+  },
+  {
+   "id": "Q-V-0005",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「discovery」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "options": [
+    "名词，成就",
+    "药 膏等",
+    "行为",
+    "名词，发现"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "discovery：名词，发现。例：She made an important discovery (discover) in her research.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day1"
+   ]
+  },
+  {
+   "id": "Q-V-0006",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「discuss」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "options": [
+    "性",
+    "过程",
+    "状态",
+    "动词，讨论"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "discuss：动词，讨论。例：They will discuss (discussion) the issue tomorrow.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day1"
+   ]
+  },
+  {
+   "id": "Q-V-0007",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「expansion」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "options": [
+    "名词，诊断",
+    "名词，扩张",
+    "名词，就业",
+    "对语言、艺术、法律等的"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "expansion：名词，扩张。例：The company announced its expansion (expand) plan.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day1"
+   ]
+  },
+  {
+   "id": "Q-V-0008",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「explanation」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "options": [
+    "名词，关系",
+    "名词，解释",
+    "愿望、责任等的",
+    "名词，扩张"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "explanation：名词，解释。例：Her explanation (explain) was clear and helpful.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day1"
+   ]
+  },
+  {
+   "id": "Q-V-0009",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「improve」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "options": [
+    "名词，一致性",
+    "名词，健康",
+    "动词，改进",
+    "名词，治疗"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "improve：动词，改进。例：We need to improve (improvement) our service quality.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day1"
+   ]
+  },
+  {
+   "id": "Q-V-0010",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「suggestion」在「Day1 基础动词与名词转换」中的词性与含义是（　）",
+   "options": [
+    "名词，就业",
+    "名词，翻译",
+    "名词，成就",
+    "名词，建议"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "suggestion：名词，建议。例：Please give me your suggestion (suggest).",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day1"
+   ]
+  },
+  {
+   "id": "Q-V-0011",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「accurately」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "options": [
+    "不是 anxiousness",
+    "行为",
+    "名词，更新",
+    "保留末尾的“e”"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "accurately：保留末尾的“e”。例：She answered accurately (accurate) all the questions.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day2"
+   ]
+  },
+  {
+   "id": "Q-V-0012",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「clearly」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "options": [
+    "名词，保护",
+    "名词，训练",
+    "副词，清晰地",
+    "名词，善良"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "clearly：副词，清晰地。例：She spoke clearly (clear) so everyone could understand.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day2"
+   ]
+  },
+  {
+   "id": "Q-V-0013",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「creatively」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "options": [
+    "副词，有创造力地",
+    "对语言、艺术、法律等的",
+    "名词，分析",
+    "名词，治疗"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "creatively：副词，有创造力地。例：He solved the problem creatively (creative).",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day2"
+   ]
+  },
+  {
+   "id": "Q-V-0014",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「dangerous」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "options": [
+    "形容词，富有想象力的",
+    "不是 dangerish",
+    "名词，创造力",
+    "名词，诊断"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "dangerous：不是 dangerish。例：This is a dangerous (danger) area after dark.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day2"
+   ]
+  },
+  {
+   "id": "Q-V-0015",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「effective」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "options": [
+    "形容词，政治的",
+    "形容词，有效的",
+    "政治、社会",
+    "名词，扩张"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "effective：形容词，有效的。例：This medicine is effective (effect) for headaches.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day2"
+   ]
+  },
+  {
+   "id": "Q-V-0016",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「efficiently」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "options": [
+    "名词，诊断",
+    "名词，恢复",
+    "名词复数，事件",
+    "副词，高效地"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "efficiently：副词，高效地。例：The system works efficiently (efficient).",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day2"
+   ]
+  },
+  {
+   "id": "Q-V-0017",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「happily」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "options": [
+    "名词复数，事件",
+    "名词，破坏",
+    "副词，快乐地",
+    "一幅"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "happily：副词，快乐地。例：The child smiled happily (happy).",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day2"
+   ]
+  },
+  {
+   "id": "Q-V-0018",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「responsibly」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "options": [
+    "名词，经理",
+    "名词，训练",
+    "副词，负责任地",
+    "名词，行为"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "responsibly：副词，负责任地。例：He behaved responsibly (responsible) throughout the project.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day2"
+   ]
+  },
+  {
+   "id": "Q-V-0019",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「unpredictable」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "options": [
+    "名词，距离",
+    "形容词，不可预测的",
+    "活动或技艺",
+    "名词，性格"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "unpredictable：形容词，不可预测的。例：The weather was unpredictable (predict) that day.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day2"
+   ]
+  },
+  {
+   "id": "Q-V-0020",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「wise」在「Day2 形容词与副词转换」中的词性与含义是（　）",
+   "options": [
+    "名词，社会",
+    "名词，设备",
+    "如心理治疗师",
+    "形容词，明智的"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "wise：形容词，明智的。例：Her decision was wise (wisdom) under the circumstances.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day2"
+   ]
+  },
+  {
+   "id": "Q-V-0021",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「admiration」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "options": [
+    "名词，宽度",
+    "名词，钦佩",
+    "名词复数，事件",
+    "名词，多样性"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "admiration：名词，钦佩。例：We were filled with admiration (admire) for her courage.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day4"
+   ]
+  },
+  {
+   "id": "Q-V-0022",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「anxiety」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "options": [
+    "副词，快乐地",
+    "名词，美丽",
+    "不是 anxiousness",
+    "名词，发现"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "anxiety：不是 anxiousness。例：Her anxiety (anxious) was obvious before the exam.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day4"
+   ]
+  },
+  {
+   "id": "Q-V-0023",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「curiosity」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "options": [
+    "副词，快乐地",
+    "不是 curiousity",
+    "名词，麻烦",
+    "集 合名词"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "curiosity：不是 curiousity。例：His curiosity (curious) led him to explore new things.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day4"
+   ]
+  },
+  {
+   "id": "Q-V-0024",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「disappointment」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "options": [
+    "行为",
+    "名词，失望",
+    "不是 curiousity",
+    "名词，描述"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "disappointment：名词，失望。例：He expressed his disappointment (disappoint) with the result.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day4"
+   ]
+  },
+  {
+   "id": "Q-V-0025",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「enthusiasm」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "options": [
+    "名词，热情",
+    "名词，描述",
+    "名词，发现",
+    "名词，钦佩"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "enthusiasm：名词，热情。例：He spoke with great enthusiasm (enthusiastic).",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day4"
+   ]
+  },
+  {
+   "id": "Q-V-0026",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「excitement」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "options": [
+    "名词，建议",
+    "名词，经理",
+    "性",
+    "名词，兴奋"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "excitement：名词，兴奋。例：The news brought them great excitement (excite).",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day4"
+   ]
+  },
+  {
+   "id": "Q-V-0027",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「fear」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "options": [
+    "名词，污染",
+    "名词，建议",
+    "形容词，政治的",
+    "名词，恐惧"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "fear：名词，恐惧。例：The child showed no fear (fear) of the dark.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day4"
+   ]
+  },
+  {
+   "id": "Q-V-0028",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「kindness」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "options": [
+    "名词，破坏",
+    "名词，善良",
+    "名词，增加",
+    "名词，进步"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "kindness：名词，善良。例：Her kindness (kind) was appreciated by everyone.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day4"
+   ]
+  },
+  {
+   "id": "Q-V-0029",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「patience」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "options": [
+    "名词，行为",
+    "名词，治疗",
+    "名词，耐心",
+    "名词，预测"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "patience：名词，耐心。例：Their patience (patient) was running out.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day4"
+   ]
+  },
+  {
+   "id": "Q-V-0030",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「satisfaction」在「Day4 情感与态度类」中的词性与含义是（　）",
+   "options": [
+    "名词，解决方案",
+    "名词，满足",
+    "名词，治疗",
+    "过程"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "satisfaction：名词，满足。例：She felt deep satisfaction (satisfy) after helping others.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day4"
+   ]
+  },
+  {
+   "id": "Q-V-0031",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「agreement」在「Day5 社交与互动」中的词性与含义是（　）",
+   "options": [
+    "名词，稳定性",
+    "名词，协议",
+    "名词，退休",
+    "名词，指导"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "agreement：名词，协议。例：We reached an agreement (agree) after discussion.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day5"
+   ]
+  },
+  {
+   "id": "Q-V-0032",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「communication」在「Day5 社交与互动」中的词性与含义是（　）",
+   "options": [
+    "使其维持原状",
+    "名词，创新",
+    "名词，耐用性",
+    "方式或信息"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "communication：方式或信息。例：Their communication (communicate) broke down during the argument.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day5"
+   ]
+  },
+  {
+   "id": "Q-V-0033",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「cooperation」在「Day5 社交与互动」中的词性与含义是（　）",
+   "options": [
+    "名词，发明",
+    "名词，距离",
+    "名词，储存",
+    "名词，合作"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "cooperation：名词，合作。例：We need better cooperation (cooperate) between departments.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day5"
+   ]
+  },
+  {
+   "id": "Q-V-0034",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「exchange」在「Day5 社交与互动」中的词性与含义是（　）",
+   "options": [
+    "名词，协议",
+    "不可数",
+    "名词，深度",
+    "名词，动力"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "exchange：不可数。例：Cultural exchange (exchange) programs are valuable.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day5"
+   ]
+  },
+  {
+   "id": "Q-V-0035",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「interpretation」在「Day5 社交与互动」中的词性与含义是（　）",
+   "options": [
+    "名词，调查",
+    "保留末尾的“e”",
+    "对语言、艺术、法律等的",
+    "名词，表演"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "interpretation：对语言、艺术、法律等的。例：There was a misunderstanding in their interpretation (interpret) of the rules.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day5"
+   ]
+  },
+  {
+   "id": "Q-V-0036",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「introduction」在「Day5 社交与互动」中的词性与含义是（　）",
+   "options": [
+    "名词，介绍",
+    "名词，银行业",
+    "名词，行为",
+    "形容词，心理的"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "introduction：名词，介绍。例：The introduction (introduce) of new members was brief.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day5"
+   ]
+  },
+  {
+   "id": "Q-V-0037",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「invitation」在「Day5 社交与互动」中的词性与含义是（　）",
+   "options": [
+    "名词，邀请",
+    "不是 anxiousness",
+    "行为",
+    "状态"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "invitation：名词，邀请。例：The invitation (invite) was sent by email.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day5"
+   ]
+  },
+  {
+   "id": "Q-V-0038",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「negotiation」在「Day5 社交与互动」中的词性与含义是（　）",
+   "options": [
+    "名词，指导",
+    "名词，谈判",
+    "名词，自信",
+    "名词，退休"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "negotiation：名词，谈判。例：The negotiation (negotiate) lasted for three days.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day5"
+   ]
+  },
+  {
+   "id": "Q-V-0039",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「social」在「Day5 社交与互动」中的词性与含义是（　）",
+   "options": [
+    "名词，继续",
+    "方法",
+    "名词，投资",
+    "形容词，社会的"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "social：形容词，社会的。例：She has excellent social (social) skills.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day5"
+   ]
+  },
+  {
+   "id": "Q-V-0040",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「admission」在「Day6 学习与教育」中的词性与含义是（　）",
+   "options": [
+    "名词，录取",
+    "名词，报道",
+    "名词，翻译",
+    "名词，创造力"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "admission：名词，录取。例：She received admission (admit) to the university.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day6"
+   ]
+  },
+  {
+   "id": "Q-V-0041",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「analysis」在「Day6 学习与教育」中的词性与含义是（　）",
+   "options": [
+    "名词，支持",
+    "名词，分析",
+    "不是 dangerish",
+    "名词，恢复"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "analysis：名词，分析。例：His analysis (analyze) of the data was thorough.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day6"
+   ]
+  },
+  {
+   "id": "Q-V-0042",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「concentration」在「Day6 学习与教育」中的词性与含义是（　）",
+   "options": [
+    "名词，野生动物",
+    "名词，关系",
+    "名词复数，变化",
+    "名词，专注"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "concentration：名词，专注。例：Students need concentration (concentrate) when studying.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day6"
+   ]
+  },
+  {
+   "id": "Q-V-0043",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「educational」在「Day6 学习与教育」中的词性与含义是（　）",
+   "options": [
+    "题",
+    "过程",
+    "形容词，教育的",
+    "名词，探索"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "educational：形容词，教育的。例：The educational (educate) system needs improvement.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day6"
+   ]
+  },
+  {
+   "id": "Q-V-0044",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「graduation」在「Day6 学习与教育」中的词性与含义是（　）",
+   "options": [
+    "名词，进步",
+    "名词，信息",
+    "名词，毕业",
+    "形容词，有创造力的"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "graduation：名词，毕业。例：The graduation (graduate) ceremony will be held in June.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day6"
+   ]
+  },
+  {
+   "id": "Q-V-0045",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「practical」在「Day6 学习与教育」中的词性与含义是（　）",
+   "options": [
+    "名词，翻译",
+    "形容词，有创造力的",
+    "名词，保护",
+    "形容词，实践的"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "practical：形容词，实践的。例：We need more practical (practice) exercises.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day6"
+   ]
+  },
+  {
+   "id": "Q-V-0046",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「review」在「Day6 学习与教育」中的词性与含义是（　）",
+   "options": [
+    "名词复数，习俗",
+    "名词，复习",
+    "名词，就业",
+    "名词，继续"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "review：名词，复习。例：Regular review (review) helps memory.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day6"
+   ]
+  },
+  {
+   "id": "Q-V-0047",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「translation」在「Day6 学习与教育」中的词性与含义是（　）",
+   "options": [
+    "状态",
+    "名词，翻译",
+    "动词，讨论",
+    "性"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "translation：名词，翻译。例：The translation (translate) was accurate and fluent.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day6"
+   ]
+  },
+  {
+   "id": "Q-V-0048",
+   "subject": "english",
+   "chapter": "E01",
+   "type": "single",
+   "stem": "「understanding」在「Day6 学习与教育」中的词性与含义是（　）",
+   "options": [
+    "非正式的",
+    "愿望、责任等的",
+    "名词，健康",
+    "名词，继续"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "understanding：非正式的。例：His understanding (understand) of the topic was impressive.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day6"
+   ]
+  },
+  {
+   "id": "Q-V-0049",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「competition」在「Day7 经济与商业」中的词性与含义是（　）",
+   "options": [
+    "活动",
+    "名词，恐惧",
+    "名词，保护",
+    "名词，兴奋"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "competition：活动。例：The competition (compete) in the market is fierce.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day7"
+   ]
+  },
+  {
+   "id": "Q-V-0050",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「consumer」在「Day7 经济与商业」中的词性与含义是（　）",
+   "options": [
+    "名词，偏好",
+    "名词，消费者",
+    "形容词，不可预测的",
+    "政治、社会"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "consumer：名词，消费者。例：The consumer (consume) market is expanding.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day7"
+   ]
+  },
+  {
+   "id": "Q-V-0051",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「employment」在「Day7 经济与商业」中的词性与含义是（　）",
+   "options": [
+    "名词，到达",
+    "名词，就业",
+    "名词，安全",
+    "形容词，胜利的"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "employment：名词，就业。例：They are discussing employment (employ) opportunities.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day7"
+   ]
+  },
+  {
+   "id": "Q-V-0052",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「growth」在「Day7 经济与商业」中的词性与含义是（　）",
+   "options": [
+    "名词，决定",
+    "名词，记忆",
+    "如心理治疗师",
+    "名词，增长"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "growth：名词，增长。例：The company's growth (grow) has been steady.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day7"
+   ]
+  },
+  {
+   "id": "Q-V-0053",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「increase」在「Day7 经济与商业」中的词性与含义是（　）",
+   "options": [
+    "名词，意识",
+    "名词，增加",
+    "名词，性格",
+    "不是 dangerish"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "increase：名词，增加。例：There was a slight increase (increase) in prices.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day7"
+   ]
+  },
+  {
+   "id": "Q-V-0054",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「investment」在「Day7 经济与商业」中的词性与含义是（　）",
+   "options": [
+    "名词，投资",
+    "名词，合作",
+    "名词，善良",
+    "名词，侵蚀"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "investment：名词，投资。例：They made a investment (invest) in new technology.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day7"
+   ]
+  },
+  {
+   "id": "Q-V-0055",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「management」在「Day7 经济与商业」中的词性与含义是（　）",
+   "options": [
+    "名词，决定",
+    "行为",
+    "名词，广播",
+    "名词复数，价值观"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "management：行为。例：The management (manage) team made the decision.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day7"
+   ]
+  },
+  {
+   "id": "Q-V-0056",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「production」在「Day7 经济与商业」中的词性与含义是（　）",
+   "options": [
+    "戏剧、电影等的",
+    "名词，工程师",
+    "名词，旅游业",
+    "形容词，教育的"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "production：戏剧、电影等的。例：We need to reduce production (produce) costs.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day7"
+   ]
+  },
+  {
+   "id": "Q-V-0057",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「stability」在「Day7 经济与商业」中的词性与含义是（　）",
+   "options": [
+    "题",
+    "名词，介绍",
+    "名词，发明",
+    "名词，稳定性"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "stability：名词，稳定性。例：Financial stability (stable) is important for growth.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day7"
+   ]
+  },
+  {
+   "id": "Q-V-0058",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「advances」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "options": [
+    "工作",
+    "形容词，不可预测的",
+    "名词，进步",
+    "名词，挑战"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "advances：名词，进步。例：Medical advances (advance) have saved many lives.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day8"
+   ]
+  },
+  {
+   "id": "Q-V-0059",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「diagnosis」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "options": [
+    "名词，储存",
+    "名词，毕业",
+    "名词，行为",
+    "名词，诊断"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "diagnosis：名词，诊断。例：The doctor made a diagnosis (diagnose) quickly.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day8"
+   ]
+  },
+  {
+   "id": "Q-V-0060",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「health」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "options": [
+    "动词，考虑",
+    "名词，健康",
+    "名词，一致性",
+    "名词，成就"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "health：名词，健康。例：Regular exercise improves health (healthy).",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day8"
+   ]
+  },
+  {
+   "id": "Q-V-0061",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「nutrition」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "options": [
+    "非正式的",
+    "名词，营养",
+    "名词，录取",
+    "活动"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "nutrition：名词，营养。例：Proper nutrition (nutritious) is essential.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day8"
+   ]
+  },
+  {
+   "id": "Q-V-0062",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「patients」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "options": [
+    "复数",
+    "副词，负责任地",
+    "名词，训练",
+    "名词，离开"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "patients：复数。例：The patients (patient) waited to see the doctor.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day8"
+   ]
+  },
+  {
+   "id": "Q-V-0063",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「recovery」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "options": [
+    "名词，恢复",
+    "结果",
+    "名词复数，标准",
+    "名词，恐惧"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "recovery：名词，恢复。例：She made a full recovery (recover) from the illness.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day8"
+   ]
+  },
+  {
+   "id": "Q-V-0064",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「researchers」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "options": [
+    "名词，影响",
+    "名词，研究者",
+    "名词，长度",
+    "名词，保护"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "researchers：名词，研究者。例：The researchers (research) found promising results.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day8"
+   ]
+  },
+  {
+   "id": "Q-V-0065",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「treatment」在「Day8 健康与医疗」中的词性与含义是（　）",
+   "options": [
+    "名词，治疗",
+    "名词，经理",
+    "名词，灵活性",
+    "政治、社会"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "treatment：名词，治疗。例：Prevention is better than treatment (treat).",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day8"
+   ]
+  },
+  {
+   "id": "Q-V-0066",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「application」在「Day9 科技与创新」中的词性与含义是（　）",
+   "options": [
+    "药 膏等",
+    "名词，扩张",
+    "名词复数，文物",
+    "名词，麻烦"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "application：药 膏等。例：The application (apply) of AI is expanding rapidly.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day9"
+   ]
+  },
+  {
+   "id": "Q-V-0067",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「creative」在「Day9 科技与创新」中的词性与含义是（　）",
+   "options": [
+    "形容词，富有想象力的",
+    "形容词，有创造力的",
+    "愿望、责任等的",
+    "名词，短缺"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "creative：形容词，有创造力的。例：His creative (create) solution solved the problem.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day9"
+   ]
+  },
+  {
+   "id": "Q-V-0068",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「innovations」在「Day9 科技与创新」中的词性与含义是（　）",
+   "options": [
+    "名词，到达",
+    "名词，创新",
+    "名词，一致性",
+    "名词，善良"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "innovations：名词，创新。例：There have been many innovations (innovate) in technology.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day9"
+   ]
+  },
+  {
+   "id": "Q-V-0069",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「invention」在「Day9 科技与创新」中的词性与含义是（　）",
+   "options": [
+    "名词复数，习俗",
+    "名词，发明",
+    "名词，发现",
+    "名词，挑战"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "invention：名词，发明。例：The invention (invent) of the telephone changed communication.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day9"
+   ]
+  },
+  {
+   "id": "Q-V-0070",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「research」在「Day9 科技与创新」中的词性与含义是（　）",
+   "options": [
+    "名词，进步",
+    "名词，信息",
+    "名词，传递",
+    "名词，研究"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "research：名词，研究。例：We need more research (research) in this area.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day9"
+   ]
+  },
+  {
+   "id": "Q-V-0071",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「support」在「Day9 科技与创新」中的词性与含义是（　）",
+   "options": [
+    "副词，快乐地",
+    "对语言、艺术、法律等的",
+    "名词，面试",
+    "名词，支持"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "support：名词，支持。例：Technical support (support) is available 24/7.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day9"
+   ]
+  },
+  {
+   "id": "Q-V-0072",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「transformation」在「Day9 科技与创新」中的词性与含义是（　）",
+   "options": [
+    "名词，转变",
+    "名词，恢复",
+    "名词，兴奋",
+    "名词，发现"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "transformation：名词，转变。例：Digital transformation (transform) is happening in many industries.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day9"
+   ]
+  },
+  {
+   "id": "Q-V-0073",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「updates」在「Day9 科技与创新」中的词性与含义是（　）",
+   "options": [
+    "名词，数量",
+    "名词，意识",
+    "名词，调查",
+    "名词，更新"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "updates：名词，更新。例：The software needs updates (update) regularly.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day9"
+   ]
+  },
+  {
+   "id": "Q-V-0074",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「beauty」在「Day10 环境与自然」中的词性与含义是（　）",
+   "options": [
+    "名词，挑战",
+    "行为",
+    "形容词，明智的",
+    "名词，美丽"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "beauty：名词，美丽。例：The beauty (beautiful) of nature inspires artists.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day10"
+   ]
+  },
+  {
+   "id": "Q-V-0075",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「change」在「Day10 环境与自然」中的词性与含义是（　）",
+   "options": [
+    "名词，覆盖",
+    "名词，晋升",
+    "名词，变化",
+    "行为"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "change：名词，变化。例：Climate change (change) is a global concern.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day10"
+   ]
+  },
+  {
+   "id": "Q-V-0076",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「Conservation」在「Day10 环境与自然」中的词性与含义是（　）",
+   "options": [
+    "名词复数，特征",
+    "名词，保护",
+    "名词，建议",
+    "名词，结束"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "Conservation：名词，保护。例：Conservation (conserve) of resources is important.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day10"
+   ]
+  },
+  {
+   "id": "Q-V-0077",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「destruction」在「Day10 环境与自然」中的词性与含义是（　）",
+   "options": [
+    "名词，协议",
+    "名词，破坏",
+    "名词，准确性",
+    "政治、社会"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "destruction：名词，破坏。例：The destruction (destroy) of forests affects wildlife.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day10"
+   ]
+  },
+  {
+   "id": "Q-V-0078",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「efficiency」在「Day10 环境与自然」中的词性与含义是（　）",
+   "options": [
+    "名词，效率",
+    "名词，发展",
+    "名词，描述",
+    "名词，发明"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "efficiency：名词，效率。例：Energy efficiency (efficient) saves money and the environment.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day10"
+   ]
+  },
+  {
+   "id": "Q-V-0079",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「pollution」在「Day10 环境与自然」中的词性与含义是（　）",
+   "options": [
+    "名词，污染",
+    "名词，自信",
+    "名词，安全",
+    "名词，结束"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "pollution：名词，污染。例：Air pollution (pollute) is a serious problem.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day10"
+   ]
+  },
+  {
+   "id": "Q-V-0080",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「protection」在「Day10 环境与自然」中的词性与含义是（　）",
+   "options": [
+    "名词，热情",
+    "名词，变化",
+    "活动",
+    "名词，保护"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "protection：名词，保护。例：Environmental protection (protect) is everyone's responsibility.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day10"
+   ]
+  },
+  {
+   "id": "Q-V-0081",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「Recycling」在「Day10 环境与自然」中的词性与含义是（　）",
+   "options": [
+    "形容词，富有想象力的",
+    "状态",
+    "行为或过程",
+    "名词，一致性"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "Recycling：行为或过程。例：Recycling (recycle) helps reduce waste.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day10"
+   ]
+  },
+  {
+   "id": "Q-V-0082",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「shortage」在「Day10 环境与自然」中的词性与含义是（　）",
+   "options": [
+    "名词，短缺",
+    "名词，创新",
+    "名词，参与",
+    "形容词，有创造力的"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "shortage：名词，短缺。例：Water shortage (short) can be a problem in dry areas.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day10"
+   ]
+  },
+  {
+   "id": "Q-V-0083",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「behavior」在「Day11 社会与文化」中的词性与含义是（　）",
+   "options": [
+    "名词，增加",
+    "名词，耐用性",
+    "名词，行为",
+    "保留末尾的“e”"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "behavior：名词，行为。例：His behavior (behave) at the event was appropriate.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day11"
+   ]
+  },
+  {
+   "id": "Q-V-0084",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「celebration」在「Day11 社会与文化」中的词性与含义是（　）",
+   "options": [
+    "名词，高度",
+    "名词，多样性",
+    "行为或过程",
+    "行为"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "celebration：行为。例：The celebration (celebrate) lasted for three days.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day11"
+   ]
+  },
+  {
+   "id": "Q-V-0085",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「changes」在「Day11 社会与文化」中的词性与含义是（　）",
+   "options": [
+    "名词，介绍",
+    "名词，安全",
+    "不是 anxiousness",
+    "名词复数，变化"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "changes：名词复数，变化。例：There have been significant social changes (change) in recent decades.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day11"
+   ]
+  },
+  {
+   "id": "Q-V-0086",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「customs」在「Day11 社会与文化」中的词性与含义是（　）",
+   "options": [
+    "名词，安排",
+    "名词复数，标准",
+    "名词复数，习俗",
+    "活动"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "customs：名词复数，习俗。例：The customs (custom) of the region are unique.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day11"
+   ]
+  },
+  {
+   "id": "Q-V-0087",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「diversity」在「Day11 社会与文化」中的词性与含义是（　）",
+   "options": [
+    "名词，更新",
+    "名词，钦佩",
+    "名词，消费者",
+    "名词，多样性"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "diversity：名词，多样性。例：Cultural diversity (diverse) enriches society.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day11"
+   ]
+  },
+  {
+   "id": "Q-V-0088",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「evolves」在「Day11 社会与文化」中的词性与含义是（　）",
+   "options": [
+    "行为",
+    "动词，演变",
+    "一幅",
+    "名词，植被"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "evolves：动词，演变。例：Language evolves (evolve) over time.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day11"
+   ]
+  },
+  {
+   "id": "Q-V-0089",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「involvement」在「Day11 社会与文化」中的词性与含义是（　）",
+   "options": [
+    "名词，探索",
+    "名词，参与",
+    "状态",
+    "形容词，传统的"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "involvement：名词，参与。例：Community involvement (involve) is important for social cohesion.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day11"
+   ]
+  },
+  {
+   "id": "Q-V-0090",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「society」在「Day11 社会与文化」中的词性与含义是（　）",
+   "options": [
+    "行为",
+    "名词，翻译",
+    "名词，社会",
+    "名词复数，文物"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "society：名词，社会。例：Modern society (society) faces many challenges.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day11"
+   ]
+  },
+  {
+   "id": "Q-V-0091",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「traditional」在「Day11 社会与文化」中的词性与含义是（　）",
+   "options": [
+    "形容词，传统的",
+    "名词，修正案",
+    "名词，发现",
+    "名词，研究者"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "traditional：形容词，传统的。例：The traditional (tradition) festival is celebrated every year.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day11"
+   ]
+  },
+  {
+   "id": "Q-V-0092",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「values」在「Day11 社会与文化」中的词性与含义是（　）",
+   "options": [
+    "名词复数，价值观",
+    "名词，录取",
+    "名词，数量",
+    "名词，连接"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "values：名词复数，价值观。例：The values (value) of a society are reflected in its laws.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day11"
+   ]
+  },
+  {
+   "id": "Q-V-0093",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「amendments」在「Day12 政治与法律」中的词性与含义是（　）",
+   "options": [
+    "名词，离开",
+    "名词，修正案",
+    "愿望、责任等的",
+    "名词，进步"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "amendments：名词，修正案。例：The amendments (elect) will be held next month.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day12"
+   ]
+  },
+  {
+   "id": "Q-V-0094",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「decision」在「Day12 政治与法律」中的词性与含义是（　）",
+   "options": [
+    "名词，智力",
+    "名词，调查",
+    "名词，面试",
+    "名词，决定"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "decision：名词，决定。例：The decision (decide) was made after careful consideration.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day12"
+   ]
+  },
+  {
+   "id": "Q-V-0095",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「Democratic」在「Day12 政治与法律」中的词性与含义是（　）",
+   "options": [
+    "行为",
+    "形容词，民主的",
+    "名词，连接",
+    "名词，调查"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "Democratic：形容词，民主的。例：Democratic (democrat) principles are important.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day12"
+   ]
+  },
+  {
+   "id": "Q-V-0096",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「legal」在「Day12 政治与法律」中的词性与含义是（　）",
+   "options": [
+    "名词，结构",
+    "名词，增长",
+    "形容词，法律的",
+    "名词，消费者"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "legal：形容词，法律的。例：The legal (law) system needs reform.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day12"
+   ]
+  },
+  {
+   "id": "Q-V-0097",
+   "subject": "english",
+   "chapter": "E02",
+   "type": "single",
+   "stem": "「political」在「Day12 政治与法律」中的词性与含义是（　）",
+   "options": [
+    "名词，影响",
+    "不是 dangerish",
+    "名词，保护",
+    "形容词，政治的"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "political：形容词，政治的。例：Political political (stable) is essential for development.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day12"
+   ]
+  },
+  {
+   "id": "Q-V-0098",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「achievements」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "options": [
+    "名词，教练",
+    "行为",
+    "名词，失望",
+    "名词，成就"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "achievements：名词，成就。例：Literary achievements (achieve) are recognized through awards.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day13"
+   ]
+  },
+  {
+   "id": "Q-V-0099",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「artifacts」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "options": [
+    "名词复数，文物",
+    "保留末尾的“e”",
+    "名词，更新",
+    "名词，修正案"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "artifacts：名词复数，文物。例：The museum displays historical artifacts (artifact).",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day13"
+   ]
+  },
+  {
+   "id": "Q-V-0100",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「creativity」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "options": [
+    "名词，关系",
+    "名词，侵蚀",
+    "形容词，有效的",
+    "名词，创造力"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "creativity：名词，创造力。例：Her artistic creativity (create) is impressive.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day13"
+   ]
+  },
+  {
+   "id": "Q-V-0101",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「description」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "options": [
+    "不是 anxiousness",
+    "名词复数，资源",
+    "名词，描述",
+    "名词，兴奋"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "description：名词，描述。例：The description (describe) in the novel is vivid.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day13"
+   ]
+  },
+  {
+   "id": "Q-V-0102",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「expression」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "options": [
+    "保留末尾的“e”",
+    "名词，设备",
+    "方式",
+    "名词，结构"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "expression：方式。例：Poetic expression (express) requires skill.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day13"
+   ]
+  },
+  {
+   "id": "Q-V-0103",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「imaginative」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "options": [
+    "形容词，富有想象力的",
+    "保留末尾的“e”",
+    "题",
+    "名词复数，变化"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "imaginative：形容词，富有想象力的。例：His imaginative (imagine) stories captivate readers.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day13"
+   ]
+  },
+  {
+   "id": "Q-V-0104",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「painting」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "options": [
+    "活动",
+    "名词，健康",
+    "一幅",
+    "形容词，社会的"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "painting：一幅。例：The painting (paint) was sold for a high price.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day13"
+   ]
+  },
+  {
+   "id": "Q-V-0105",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「performance」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "options": [
+    "不是 dangerish",
+    "行为",
+    "名词，表演",
+    "集 合名词"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "performance：名词，表演。例：The performance (perform) received a standing ovation.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day13"
+   ]
+  },
+  {
+   "id": "Q-V-0106",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「talent」在「Day13 艺术与文学」中的词性与含义是（　）",
+   "options": [
+    "名词，天赋",
+    "名词，麻烦",
+    "名词，效率",
+    "副词，负责任地"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "talent：名词，天赋。例：Musical talent (talent) often appears at a young age.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day13"
+   ]
+  },
+  {
+   "id": "Q-V-0107",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「arrangements」在「Day14 交通与旅行」中的词性与含义是（　）",
+   "options": [
+    "名词复数，特征",
+    "名词，安排",
+    "名词，记忆",
+    "名词，污染"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "arrangements：名词，安排。例：We need to make travel arrangements (arrange).",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day14"
+   ]
+  },
+  {
+   "id": "Q-V-0108",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「arrival」在「Day14 交通与旅行」中的词性与含义是（　）",
+   "options": [
+    "名词，保护",
+    "名词，解决",
+    "名词，晋升",
+    "名词，到达"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "arrival：名词，到达。例：The arrival (arrive) of the flight was delayed.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day14"
+   ]
+  },
+  {
+   "id": "Q-V-0109",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「connection」在「Day14 交通与旅行」中的词性与含义是（　）",
+   "options": [
+    "名词，纯净度",
+    "名词，就业",
+    "名词，连接",
+    "名词，结构"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "connection：名词，连接。例：The connection (connect) between cities is good.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day14"
+   ]
+  },
+  {
+   "id": "Q-V-0110",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「construction」在「Day14 交通与旅行」中的词性与含义是（　）",
+   "options": [
+    "名词，成就",
+    "不可数",
+    "行为",
+    "活动"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "construction：行为。例：Road construction (construct) causes traffic delays.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day14"
+   ]
+  },
+  {
+   "id": "Q-V-0111",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「exploration」在「Day14 交通与旅行」中的词性与含义是（　）",
+   "options": [
+    "名词，探索",
+    "名词，准确性",
+    "集 合名词",
+    "形容词，运动的"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "exploration：名词，探索。例：The exploration (explore) of new places is exciting.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day14"
+   ]
+  },
+  {
+   "id": "Q-V-0112",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「movement」在「Day14 交通与旅行」中的词性与含义是（　）",
+   "options": [
+    "名词，安排",
+    "政治、社会",
+    "名词，发现",
+    "动词，考虑"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "movement：政治、社会。例：The movement (move) of goods is efficient.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day14"
+   ]
+  },
+  {
+   "id": "Q-V-0113",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「Tourism」在「Day14 交通与旅行」中的词性与含义是（　）",
+   "options": [
+    "行为",
+    "名词，满足",
+    "形容词，实践的",
+    "名词，旅游业"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "Tourism：名词，旅游业。例：Tourism (tour) contributes to the local economy.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day14"
+   ]
+  },
+  {
+   "id": "Q-V-0114",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「discoveries」在「Day15 科学与研究」中的词性与含义是（　）",
+   "options": [
+    "名词，侵蚀",
+    "名词，发现",
+    "名词，准确性",
+    "名词，专注"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "discoveries：名词，发现。例：Scientific discoveries (discover) often lead to new technologies.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day15"
+   ]
+  },
+  {
+   "id": "Q-V-0115",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「equipment」在「Day15 科学与研究」中的词性与含义是（　）",
+   "options": [
+    "形容词，有创造力的",
+    "名词，设备",
+    "名词，指导",
+    "形容词，有效的"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "equipment：名词，设备。例：Laboratory equipment (equip) must be maintained.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day15"
+   ]
+  },
+  {
+   "id": "Q-V-0116",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「experiment」在「Day15 科学与研究」中的词性与含义是（　）",
+   "options": [
+    "方法",
+    "名词，研究",
+    "名词，稳定性",
+    "名词，谈判"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "experiment：方法。例：The experiment (experiment) produced interesting results.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day15"
+   ]
+  },
+  {
+   "id": "Q-V-0117",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「innovation」在「Day15 科学与研究」中的词性与含义是（　）",
+   "options": [
+    "形容词，获胜的",
+    "名词，退休",
+    "行为",
+    "名词，训练"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "innovation：行为。例：Technological innovation (innovate) drives development.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day15"
+   ]
+  },
+  {
+   "id": "Q-V-0118",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「observation」在「Day15 科学与研究」中的词性与含义是（　）",
+   "options": [
+    "行为",
+    "性",
+    "名词，指导",
+    "名词，钦佩"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "observation：行为。例：The observation (observe) was recorded carefully.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day15"
+   ]
+  },
+  {
+   "id": "Q-V-0119",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「athletic」在「Day16 运动与健身」中的词性与含义是（　）",
+   "options": [
+    "名词，成就",
+    "形容词，运动的",
+    "名词，解释",
+    "动词，实现"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "athletic：形容词，运动的。例：His athletic (athlete) abilities are impressive.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day16"
+   ]
+  },
+  {
+   "id": "Q-V-0120",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「coach」在「Day16 运动与健身」中的词性与含义是（　）",
+   "options": [
+    "名词，教练",
+    "非正式的",
+    "使其维持原状",
+    "名词，数量"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "coach：名词，教练。例：The coach (coach) gave helpful advice.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day16"
+   ]
+  },
+  {
+   "id": "Q-V-0121",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「exercise」在「Day16 运动与健身」中的词性与含义是（　）",
+   "options": [
+    "名词，失望",
+    "题",
+    "形容词，法律的",
+    "动词，实现"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "exercise：题。例：Regular exercise (exercise) is good for health.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day16"
+   ]
+  },
+  {
+   "id": "Q-V-0122",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「fitness」在「Day16 运动与健身」中的词性与含义是（　）",
+   "options": [
+    "名词，健康",
+    "名词，进步",
+    "形容词，有创造力的",
+    "名词，野生动物"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "fitness：名词，健康。例：Physical fitness (fit) is important for athletes.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day16"
+   ]
+  },
+  {
+   "id": "Q-V-0123",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「Participation」在「Day16 运动与健身」中的词性与含义是（　）",
+   "options": [
+    "名词，传递",
+    "名词，参与",
+    "名词，退休",
+    "行为"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "Participation：名词，参与。例：Participation (participate) in sports teaches teamwork.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day16"
+   ]
+  },
+  {
+   "id": "Q-V-0124",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「strength」在「Day16 运动与健身」中的词性与含义是（　）",
+   "options": [
+    "形容词，心理的",
+    "名词，旅游业",
+    "名词，力量",
+    "名词，探索"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "strength：名词，力量。例：Mental strength (strong) is as important as physical strength.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day16"
+   ]
+  },
+  {
+   "id": "Q-V-0125",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「training」在「Day16 运动与健身」中的词性与含义是（　）",
+   "options": [
+    "名词，解决方案",
+    "名词，训练",
+    "名词复数，文物",
+    "结果"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "training：名词，训练。例：The training (train) program is rigorous.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day16"
+   ]
+  },
+  {
+   "id": "Q-V-0126",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「winning」在「Day16 运动与健身」中的词性与含义是（　）",
+   "options": [
+    "形容词，获胜的",
+    "动词，演变",
+    "名词，侵蚀",
+    "使"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "winning：形容词，获胜的。例：The winning (win) team celebrated their victory.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day16"
+   ]
+  },
+  {
+   "id": "Q-V-0127",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「cooking」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "options": [
+    "名词，维护",
+    "活动或技艺",
+    "名词，多样性",
+    "副词，清晰地"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "cooking：活动或技艺。例：Traditional cooking (cook) methods are still used.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day17"
+   ]
+  },
+  {
+   "id": "Q-V-0128",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「eating」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "options": [
+    "名词，饮食",
+    "形容词，传统的",
+    "名词，记忆",
+    "动词，实现"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "eating：名词，饮食。例：Healthy eating (eat) habits are important.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day17"
+   ]
+  },
+  {
+   "id": "Q-V-0129",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「nutritional」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "options": [
+    "形容词，有创造力的",
+    "食物本身",
+    "名词，健康",
+    "名词，更新"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "nutritional：食物本身。例：The nutritional (nutritious) value of this meal is high.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day17"
+   ]
+  },
+  {
+   "id": "Q-V-0130",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「planning」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "options": [
+    "名词，探索",
+    "名词，可靠性",
+    "名词，污染",
+    "活动"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "planning：活动。例：Meal planning (plan) helps with budgeting.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day17"
+   ]
+  },
+  {
+   "id": "Q-V-0131",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「preference」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "options": [
+    "名词，偏好",
+    "名词，纯净度",
+    "名词，扩张",
+    "名词，表演"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "preference：名词，偏好。例：His preference (prefer) is for spicy food.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day17"
+   ]
+  },
+  {
+   "id": "Q-V-0132",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「preparation」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "options": [
+    "政治、社会",
+    "名词，面试",
+    "状态",
+    "如心理治疗师"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "preparation：状态。例：Food preparation (prepare) takes time.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day17"
+   ]
+  },
+  {
+   "id": "Q-V-0133",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「safety」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "options": [
+    "形容词，实践的",
+    "过程",
+    "名词，安全",
+    "名词，发明"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "safety：名词，安全。例：Food safety (safe) regulations are strict.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day17"
+   ]
+  },
+  {
+   "id": "Q-V-0134",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「Storage」在「Day17 食物与饮食」中的词性与含义是（　）",
+   "options": [
+    "名词，失望",
+    "名词，长度",
+    "名词复数，文物",
+    "名词，储存"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "Storage：名词，储存。例：Storage (store) of food properly prevents waste.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day17"
+   ]
+  },
+  {
+   "id": "Q-V-0135",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「guidance」在「Day18 家庭与关系」中的词性与含义是（　）",
+   "options": [
+    "名词，挑战",
+    "名词，指导",
+    "名词，教练",
+    "保留末尾的“e”"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "guidance：名词，指导。例：Parental guidance (guide) is valuable.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day18"
+   ]
+  },
+  {
+   "id": "Q-V-0136",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「marriage」在「Day18 家庭与关系」中的词性与含义是（　）",
+   "options": [
+    "状态",
+    "名词，进步",
+    "形容词，运动的",
+    "名词，设备"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "marriage：状态。例：The marriage (marry) ceremony was beautiful.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day18"
+   ]
+  },
+  {
+   "id": "Q-V-0137",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「memories」在「Day18 家庭与关系」中的词性与含义是（　）",
+   "options": [
+    "名词，记忆",
+    "一幅",
+    "名词，健康",
+    "活动"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "memories：名词，记忆。例：His childhood memories (memorize) are happy.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day18"
+   ]
+  },
+  {
+   "id": "Q-V-0138",
+   "subject": "english",
+   "chapter": "E03",
+   "type": "single",
+   "stem": "「relationships」在「Day18 家庭与关系」中的词性与含义是（　）",
+   "options": [
+    "副词，负责任地",
+    "形容词，获胜的",
+    "形容词，金融的",
+    "名词，关系"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "relationships：名词，关系。例：Family relationships (relate) are important.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day18"
+   ]
+  },
+  {
+   "id": "Q-V-0139",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「awareness」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "options": [
+    "名词，意识",
+    "形容词，传统的",
+    "动词，讨论",
+    "如心理治疗师"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "awareness：名词，意识。例：Public awareness (aware) of the issue has increased.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day19"
+   ]
+  },
+  {
+   "id": "Q-V-0140",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「broadcast」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "options": [
+    "形容词，不可预测的",
+    "名词，热情",
+    "名词，麻烦",
+    "名词，广播"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "broadcast：名词，广播。例：The broadcast (broadcast) reached millions of viewers.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day19"
+   ]
+  },
+  {
+   "id": "Q-V-0141",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「coverage」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "options": [
+    "名词，覆盖",
+    "使其维持原状",
+    "名词，银行业",
+    "名词，变化"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "coverage：名词，覆盖。例：Media coverage (cover) of the issue was extensive.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day19"
+   ]
+  },
+  {
+   "id": "Q-V-0142",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「delivery」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "options": [
+    "形容词，运动的",
+    "名词，传递",
+    "名词，退休",
+    "食物本身"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "delivery：名词，传递。例：News delivery (deliver) is faster than ever.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day19"
+   ]
+  },
+  {
+   "id": "Q-V-0143",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「editing」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "options": [
+    "名词，教练",
+    "名词，植被",
+    "工作",
+    "复数"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "editing：工作。例：The editing (edit) of the article improved it.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day19"
+   ]
+  },
+  {
+   "id": "Q-V-0144",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「influence」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "options": [
+    "名词，纯净度",
+    "名词，表演",
+    "名词，影响",
+    "名词，准确性"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "influence：名词，影响。例：Social media influence (influence) is powerful.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day19"
+   ]
+  },
+  {
+   "id": "Q-V-0145",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「Information」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "options": [
+    "名词，信息",
+    "名词，热情",
+    "名词，创造力",
+    "名词，高度"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "Information：名词，信息。例：Information (inform) spreads quickly online.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day19"
+   ]
+  },
+  {
+   "id": "Q-V-0146",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「publication」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "options": [
+    "形容词，金融的",
+    "行为",
+    "名词，兴奋",
+    "名词，广播"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "publication：行为。例：The publication (publish) of the book was successful.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day19"
+   ]
+  },
+  {
+   "id": "Q-V-0147",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「report」在「Day19 媒体与传播」中的词性与含义是（　）",
+   "options": [
+    "形容词，明智的",
+    "复数",
+    "名词，失望",
+    "名词，报道"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "report：名词，报道。例：The report (report) covered the event thoroughly.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day19"
+   ]
+  },
+  {
+   "id": "Q-V-0148",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「architecture」在「Day20 建筑与设计」中的词性与含义是（　）",
+   "options": [
+    "名词，合作",
+    "名词，支持",
+    "名词，诊断",
+    "总称"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "architecture：总称。例：Modern architecture (architect) often uses new materials.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day20"
+   ]
+  },
+  {
+   "id": "Q-V-0149",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「building」在「Day20 建筑与设计」中的词性与含义是（　）",
+   "options": [
+    "行为",
+    "名词复数，标准",
+    "名词，灵活性",
+    "名词，准确性"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "building：行为。例：Sustainable building (build) practices are encouraged.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day20"
+   ]
+  },
+  {
+   "id": "Q-V-0150",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「decoration」在「Day20 建筑与设计」中的词性与含义是（　）",
+   "options": [
+    "形容词，获胜的",
+    "名词，完成",
+    "名词，深度",
+    "行为"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "decoration：行为。例：Interior decoration (decorate) enhances living spaces.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day20"
+   ]
+  },
+  {
+   "id": "Q-V-0151",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「design」在「Day20 建筑与设计」中的词性与含义是（　）",
+   "options": [
+    "形容词，教育的",
+    "名词，设备",
+    "名词，扩张",
+    "方案、过程"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "design：方案、过程。例：Architectural design (design) requires creativity.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day20"
+   ]
+  },
+  {
+   "id": "Q-V-0152",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「engineer」在「Day20 建筑与设计」中的词性与含义是（　）",
+   "options": [
+    "名词，工程师",
+    "名词复数，标准",
+    "名词，可靠性",
+    "名词，贸易"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "engineer：名词，工程师。例：The engineer (engineer) solved the technical problem.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day20"
+   ]
+  },
+  {
+   "id": "Q-V-0153",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「maintenance」在「Day20 建筑与设计」中的词性与含义是（　）",
+   "options": [
+    "名词，关系",
+    "名词复数，资源",
+    "名词，成就",
+    "名词，维护"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "maintenance：名词，维护。例：The maintenance (maintain) of historical buildings is costly.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day20"
+   ]
+  },
+  {
+   "id": "Q-V-0154",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「structure」在「Day20 建筑与设计」中的词性与含义是（　）",
+   "options": [
+    "名词，继续",
+    "名词，设备",
+    "名词，保护",
+    "名词，结构"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "structure：名词，结构。例：The structure (structure) is strong and stable.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day20"
+   ]
+  },
+  {
+   "id": "Q-V-0155",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「collaboration」在「Day21 职业与工作」中的词性与含义是（　）",
+   "options": [
+    "集 合名词",
+    "形容词，明智的",
+    "名词，合作",
+    "名词，通货膨胀"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "collaboration：名词，合作。例：Workplace collaboration (collaborate) improves productivity.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day21"
+   ]
+  },
+  {
+   "id": "Q-V-0156",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「interview」在「Day21 职业与工作」中的词性与含义是（　）",
+   "options": [
+    "名词，参与",
+    "名词，健康",
+    "名词，面试",
+    "名词，通货膨胀"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "interview：名词，面试。例：The interview (interview) went well.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day21"
+   ]
+  },
+  {
+   "id": "Q-V-0157",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「Leadership」在「Day21 职业与工作」中的词性与含义是（　）",
+   "options": [
+    "方法",
+    "名词，传递",
+    "动词，考虑",
+    "集 合名词"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "Leadership：集 合名词。例：Leadership (lead) skills can be learned.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day21"
+   ]
+  },
+  {
+   "id": "Q-V-0158",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「manager」在「Day21 职业与工作」中的词性与含义是（　）",
+   "options": [
+    "名词，经理",
+    "名词，开始",
+    "名词，专注",
+    "名词，保护"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "manager：名词，经理。例：The manager (manage) approved the plan.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day21"
+   ]
+  },
+  {
+   "id": "Q-V-0159",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「Promotion」在「Day21 职业与工作」中的词性与含义是（　）",
+   "options": [
+    "形容词，有效的",
+    "总称",
+    "名词，参与",
+    "名词，晋升"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "Promotion：名词，晋升。例：Promotion (promote) is based on performance.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day21"
+   ]
+  },
+  {
+   "id": "Q-V-0160",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「retirement」在「Day21 职业与工作」中的词性与含义是（　）",
+   "options": [
+    "总称",
+    "名词，贸易",
+    "形容词，民主的",
+    "名词，退休"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "retirement：名词，退休。例：The retirement (retire) age is 65 in many countries.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day21"
+   ]
+  },
+  {
+   "id": "Q-V-0161",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「banking」在「Day22 金融与经济」中的词性与含义是（　）",
+   "options": [
+    "名词，污染",
+    "形容词，心理的",
+    "名词，银行业",
+    "名词，恢复"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "banking：名词，银行业。例：The banking (bank) system is regulated.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day22"
+   ]
+  },
+  {
+   "id": "Q-V-0162",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「financial」在「Day22 金融与经济」中的词性与含义是（　）",
+   "options": [
+    "名词，晋升",
+    "名词，诊断",
+    "名词，研究",
+    "形容词，金融的"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "financial：形容词，金融的。例：The financial (finance) report was positive.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day22"
+   ]
+  },
+  {
+   "id": "Q-V-0163",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「inflation」在「Day22 金融与经济」中的词性与含义是（　）",
+   "options": [
+    "名词，植被",
+    "活动",
+    "名词，自信",
+    "名词，通货膨胀"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "inflation：名词，通货膨胀。例：Price inflation (inflate) affects purchasing power.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day22"
+   ]
+  },
+  {
+   "id": "Q-V-0164",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「predictions」在「Day22 金融与经济」中的词性与含义是（　）",
+   "options": [
+    "名词，扩张",
+    "名词，预测",
+    "名词，变化",
+    "名词，专注"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "predictions：名词，预测。例：Economic predictions (predict) are often uncertain.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day22"
+   ]
+  },
+  {
+   "id": "Q-V-0165",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「Trade」在「Day22 金融与经济」中的词性与含义是（　）",
+   "options": [
+    "名词，贸易",
+    "名词，分析",
+    "名词，饮食",
+    "名词，工程师"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "Trade：名词，贸易。例：Trade (trade) between countries has increased.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day22"
+   ]
+  },
+  {
+   "id": "Q-V-0166",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「confidence」在「Day23 心理与性格」中的词性与含义是（　）",
+   "options": [
+    "名词，天赋",
+    "名词，预测",
+    "名词，覆盖",
+    "名词，自信"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "confidence：名词，自信。例：Self-confidence (confident) comes with experience.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day23"
+   ]
+  },
+  {
+   "id": "Q-V-0167",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「intelligence」在「Day23 心理与性格」中的词性与含义是（　）",
+   "options": [
+    "名词，短缺",
+    "名词，智力",
+    "名词，记忆",
+    "名词，保护"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "intelligence：名词，智力。例：Emotional intelligence (intelligent) is important for relationships.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day23"
+   ]
+  },
+  {
+   "id": "Q-V-0168",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「Motivation」在「Day23 心理与性格」中的词性与含义是（　）",
+   "options": [
+    "名词，进步",
+    "名词，晋升",
+    "名词，动力",
+    "不是 dangerish"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "Motivation：名词，动力。例：Motivation (motive) drives people to achieve.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day23"
+   ]
+  },
+  {
+   "id": "Q-V-0169",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「optimism」在「Day23 心理与性格」中的词性与含义是（　）",
+   "options": [
+    "名词，乐观",
+    "名词，植被",
+    "名词，稳定性",
+    "行为"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "optimism：名词，乐观。例：His optimism (optimistic) is inspiring.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day23"
+   ]
+  },
+  {
+   "id": "Q-V-0170",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「personality」在「Day23 心理与性格」中的词性与含义是（　）",
+   "options": [
+    "形容词，金融的",
+    "名词，高度",
+    "名词，偏好",
+    "名词，性格"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "personality：名词，性格。例：Her personality (personal) is very friendly.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day23"
+   ]
+  },
+  {
+   "id": "Q-V-0171",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「psychological」在「Day23 心理与性格」中的词性与含义是（　）",
+   "options": [
+    "名词，影响",
+    "名词，修正案",
+    "形容词，心理的",
+    "名词，晋升"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "psychological：形容词，心理的。例：The psychological (psychology) study was interesting.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day23"
+   ]
+  },
+  {
+   "id": "Q-V-0172",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「therapist」在「Day23 心理与性格」中的词性与含义是（　）",
+   "options": [
+    "如心理治疗师",
+    "名词，失望",
+    "名词，进步",
+    "名词，继续"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "therapist：如心理治疗师。例：The therapist (therapist) gave helpful advice.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day23"
+   ]
+  },
+  {
+   "id": "Q-V-0173",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「depth」在「Day24 自然与地理」中的词性与含义是（　）",
+   "options": [
+    "名词，耐用性",
+    "名词，诊断",
+    "名词，深度",
+    "名词，短缺"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "depth：名词，深度。例：The depth (depth) of the ocean is incredible.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day24"
+   ]
+  },
+  {
+   "id": "Q-V-0174",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「erosion」在「Day24 自然与地理」中的词性与含义是（　）",
+   "options": [
+    "名词，距离",
+    "名词，侵蚀",
+    "名词，传递",
+    "名词，结束"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "erosion：名词，侵蚀。例：The erosion (erode) of the coastline is concerning.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day24"
+   ]
+  },
+  {
+   "id": "Q-V-0175",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「features」在「Day24 自然与地理」中的词性与含义是（　）",
+   "options": [
+    "形容词，民主的",
+    "名词，教练",
+    "名词复数，资源",
+    "名词复数，特征"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "features：名词复数，特征。例：Geographical features (feature) affect climate.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day24"
+   ]
+  },
+  {
+   "id": "Q-V-0176",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「formation」在「Day24 自然与地理」中的词性与含义是（　）",
+   "options": [
+    "名词，合作",
+    "名词，保护",
+    "过程",
+    "方案、过程"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "formation：过程。例：The formation (form) of mountains takes millions of years.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day24"
+   ]
+  },
+  {
+   "id": "Q-V-0177",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「preservation」在「Day24 自然与地理」中的词性与含义是（　）",
+   "options": [
+    "名词，稳定性",
+    "不可数",
+    "使其维持原状",
+    "副词，清晰地"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "preservation：使其维持原状。例：The preservation (preserve) of forests is necessary.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day24"
+   ]
+  },
+  {
+   "id": "Q-V-0178",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「resources」在「Day24 自然与地理」中的词性与含义是（　）",
+   "options": [
+    "名词复数，资源",
+    "形容词，胜利的",
+    "动词，改进",
+    "名词，破坏"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "resources：名词复数，资源。例：Natural resources (resource) must be conserved.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day24"
+   ]
+  },
+  {
+   "id": "Q-V-0179",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「Vegetation」在「Day24 自然与地理」中的词性与含义是（　）",
+   "options": [
+    "名词，满足",
+    "名词，结构",
+    "名词复数，标准",
+    "名词，植被"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "Vegetation：名词，植被。例：Vegetation (vegetation) in the area is diverse.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day24"
+   ]
+  },
+  {
+   "id": "Q-V-0180",
+   "subject": "english",
+   "chapter": "E04",
+   "type": "single",
+   "stem": "「Wildlife」在「Day24 自然与地理」中的词性与含义是（　）",
+   "options": [
+    "形容词，民主的",
+    "名词，晋升",
+    "名词，野生动物",
+    "名词，力量"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "Wildlife：名词，野生动物。例：Wildlife (wildlife) protection is important.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day24"
+   ]
+  },
+  {
+   "id": "Q-V-0181",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「beginning」在「Day25 时间与历史」中的词性与含义是（　）",
+   "options": [
+    "名词，耐用性",
+    "名词，解决",
+    "名词，合作",
+    "名词，开始"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "beginning：名词，开始。例：The beginning (begin) of the project was delayed.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day25"
+   ]
+  },
+  {
+   "id": "Q-V-0182",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「civilizations」在「Day25 时间与历史」中的词性与含义是（　）",
+   "options": [
+    "状态",
+    "名词，信息",
+    "使其维持原状",
+    "不是 dangerish"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "civilizations：状态。例：Ancient civilizations (civilize) left behind many artifacts.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day25"
+   ]
+  },
+  {
+   "id": "Q-V-0183",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「continuation」在「Day25 时间与历史」中的词性与含义是（　）",
+   "options": [
+    "名词，继续",
+    "行为",
+    "名词，投资",
+    "非正式的"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "continuation：名词，继续。例：The continuation (continue) of the tradition is important.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day25"
+   ]
+  },
+  {
+   "id": "Q-V-0184",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「end」在「Day25 时间与历史」中的词性与含义是（　）",
+   "options": [
+    "方法",
+    "名词，距离",
+    "不可数",
+    "名词，结束"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "end：名词，结束。例：The end (end) of the war brought peace.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day25"
+   ]
+  },
+  {
+   "id": "Q-V-0185",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「events」在「Day25 时间与历史」中的词性与含义是（　）",
+   "options": [
+    "名词，恐惧",
+    "不是 anxiousness",
+    "名词，预测",
+    "名词复数，事件"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "events：名词复数，事件。例：Historical events (event) shape the present.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day25"
+   ]
+  },
+  {
+   "id": "Q-V-0186",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「length」在「Day25 时间与历史」中的词性与含义是（　）",
+   "options": [
+    "保留末尾的“e”",
+    "名词，更新",
+    "名词，长度",
+    "名词，消费者"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "length：名词，长度。例：The length (long) of the meeting was two hours.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day25"
+   ]
+  },
+  {
+   "id": "Q-V-0187",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「progress」在「Day25 时间与历史」中的词性与含义是（　）",
+   "options": [
+    "形容词，不可预测的",
+    "形容词，传统的",
+    "名词，进步",
+    "名词，植被"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "progress：名词，进步。例：The progress (progress) of technology is rapid.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day25"
+   ]
+  },
+  {
+   "id": "Q-V-0188",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「amount」在「Day26 数量与度量」中的词性与含义是（　）",
+   "options": [
+    "形容词，金融的",
+    "名词，决定",
+    "名词，数量",
+    "名词复数，价值观"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "amount：名词，数量。例：The amount (amount) of rainfall was recorded.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day26"
+   ]
+  },
+  {
+   "id": "Q-V-0189",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「data」在「Day26 数量与度量」中的词性与含义是（　）",
+   "options": [
+    "形容词，不可预测的",
+    "名词，创造力",
+    "其单数为 datum",
+    "名词，信息"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "data：其单数为 datum。例：Numerical data (data) supports the theory.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day26"
+   ]
+  },
+  {
+   "id": "Q-V-0190",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「distance」在「Day26 数量与度量」中的词性与含义是（　）",
+   "options": [
+    "方法",
+    "名词，纯净度",
+    "副词，负责任地",
+    "名词，距离"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "distance：名词，距离。例：The distance (distance) between cities is long.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day26"
+   ]
+  },
+  {
+   "id": "Q-V-0191",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「height」在「Day26 数量与度量」中的词性与含义是（　）",
+   "options": [
+    "名词，高度",
+    "名词，纯净度",
+    "名词，可靠性",
+    "名词，广播"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "height：名词，高度。例：The height (high) of the building is impressive.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day26"
+   ]
+  },
+  {
+   "id": "Q-V-0192",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「Measurement」在「Day26 数量与度量」中的词性与含义是（　）",
+   "options": [
+    "名词复数，习俗",
+    "行为",
+    "名词复数，变化",
+    "名词，预测"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "Measurement：行为。例：Measurement (measure) must be accurate in science.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day26"
+   ]
+  },
+  {
+   "id": "Q-V-0193",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「quantity」在「Day26 数量与度量」中的词性与含义是（　）",
+   "options": [
+    "名词，数量",
+    "名词，意识",
+    "名词，破坏",
+    "名词，建议"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "quantity：名词，数量。例：The quantity (quantify) of the material is sufficient.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day26"
+   ]
+  },
+  {
+   "id": "Q-V-0194",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「width」在「Day26 数量与度量」中的词性与含义是（　）",
+   "options": [
+    "名词，宽度",
+    "副词，快乐地",
+    "名词，创造力",
+    "非正式的"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "width：名词，宽度。例：The width (wide) of the river varies.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day26"
+   ]
+  },
+  {
+   "id": "Q-V-0195",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「Accuracy」在「Day27 质量与品质」中的词性与含义是（　）",
+   "options": [
+    "名词，准确性",
+    "名词，维护",
+    "名词，增长",
+    "名词，深度"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "Accuracy：名词，准确性。例：Accuracy (accurate) in reporting is essential.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day27"
+   ]
+  },
+  {
+   "id": "Q-V-0196",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「Consistency」在「Day27 质量与品质」中的词性与含义是（　）",
+   "options": [
+    "名词，乐观",
+    "名词，发现",
+    "形容词，获胜的",
+    "名词，一致性"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "Consistency：名词，一致性。例：Consistency (consistent) in quality builds trust.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day27"
+   ]
+  },
+  {
+   "id": "Q-V-0197",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「durability」在「Day27 质量与品质」中的词性与含义是（　）",
+   "options": [
+    "名词，恢复",
+    "名词，耐用性",
+    "名词，覆盖",
+    "过程"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "durability：名词，耐用性。例：The durability (durable) of the material was tested.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day27"
+   ]
+  },
+  {
+   "id": "Q-V-0198",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「flexibility」在「Day27 质量与品质」中的词性与含义是（　）",
+   "options": [
+    "名词，翻译",
+    "名词，性格",
+    "名词，创造力",
+    "名词，灵活性"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "flexibility：名词，灵活性。例：The flexibility (flexible) of the schedule helped.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day27"
+   ]
+  },
+  {
+   "id": "Q-V-0199",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「purity」在「Day27 质量与品质」中的词性与含义是（　）",
+   "options": [
+    "名词，决定",
+    "名词，纯净度",
+    "形容词，有效的",
+    "名词，稳定性"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "purity：名词，纯净度。例：The purity (pure) of the water was confirmed.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day27"
+   ]
+  },
+  {
+   "id": "Q-V-0200",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「quality」在「Day27 质量与品质」中的词性与含义是（　）",
+   "options": [
+    "名词，性格",
+    "形容词，传统的",
+    "使",
+    "名词，指导"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "quality：使。例：The quality (qualify) of the product is excellent.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day27"
+   ]
+  },
+  {
+   "id": "Q-V-0201",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「Reliability」在「Day27 质量与品质」中的词性与含义是（　）",
+   "options": [
+    "不是 curiousity",
+    "名词，可靠性",
+    "名词，诊断",
+    "名词，成就"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "Reliability：名词，可靠性。例：Reliability (reliable) is important for equipment.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day27"
+   ]
+  },
+  {
+   "id": "Q-V-0202",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「standards」在「Day27 质量与品质」中的词性与含义是（　）",
+   "options": [
+    "名词，侵蚀",
+    "名词复数，标准",
+    "集 合名词",
+    "方案、过程"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "standards：名词复数，标准。例：High standards (standard) are expected.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day27"
+   ]
+  },
+  {
+   "id": "Q-V-0203",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「Accomplishment」在「Day28 成功与成就」中的词性与含义是（　）",
+   "options": [
+    "名词复数，资源",
+    "名词，成就",
+    "其单数为 datum",
+    "名词，解决"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "Accomplishment：名词，成就。例：Accomplishment (accomplish) gives a sense of satisfaction.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day28"
+   ]
+  },
+  {
+   "id": "Q-V-0204",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「achievement」在「Day28 成功与成就」中的词性与含义是（　）",
+   "options": [
+    "名词，毕业",
+    "名词，兴奋",
+    "名词，影响",
+    "名词，成就"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "achievement：名词，成就。例：The achievement (achieve) was celebrated by all.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day28"
+   ]
+  },
+  {
+   "id": "Q-V-0205",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「advancement」在「Day28 成功与成就」中的词性与含义是（　）",
+   "options": [
+    "名词，变化",
+    "名词，关系",
+    "名词，安全",
+    "名词，晋升"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "advancement：名词，晋升。例：Career advancement (advance) is his goal.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day28"
+   ]
+  },
+  {
+   "id": "Q-V-0206",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「completion」在「Day28 成功与成就」中的词性与含义是（　）",
+   "options": [
+    "如心理治疗师",
+    "行为",
+    "名词，完成",
+    "名词，天赋"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "completion：名词，完成。例：The completion (complete) of the task was timely.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day28"
+   ]
+  },
+  {
+   "id": "Q-V-0207",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「fulfillment」在「Day28 成功与成就」中的词性与含义是（　）",
+   "options": [
+    "方式或信息",
+    "名词，经理",
+    "愿望、责任等的",
+    "形容词，获胜的"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "fulfillment：愿望、责任等的。例：The fulfillment (fulfill) of the dream took years.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day28"
+   ]
+  },
+  {
+   "id": "Q-V-0208",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「Improvement」在「Day28 成功与成就」中的词性与含义是（　）",
+   "options": [
+    "行为",
+    "形容词，心理的",
+    "非正式的",
+    "名词，营养"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "Improvement：行为。例：Improvement (improve) is visible in his work.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day28"
+   ]
+  },
+  {
+   "id": "Q-V-0209",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「success」在「Day28 成功与成就」中的词性与含义是（　）",
+   "options": [
+    "行为",
+    "名词，进步",
+    "形容词，富有想象力的",
+    "结果"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "success：结果。例：His success (succeed) was well deserved.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day28"
+   ]
+  },
+  {
+   "id": "Q-V-0210",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「victorious」在「Day28 成功与成就」中的词性与含义是（　）",
+   "options": [
+    "形容词，胜利的",
+    "名词，钦佩",
+    "名词，污染",
+    "名词，报道"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "victorious：形容词，胜利的。例：The victorious (victory) team was happy.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day28"
+   ]
+  },
+  {
+   "id": "Q-V-0211",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「challenge」在「Day29 问题与解决」中的词性与含义是（　）",
+   "options": [
+    "形容词，不可预测的",
+    "名词，退休",
+    "名词，挑战",
+    "名词，训练"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "challenge：名词，挑战。例：The challenge (challenge) was accepted.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day29"
+   ]
+  },
+  {
+   "id": "Q-V-0212",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「Difficulties」在「Day29 问题与解决」中的词性与含义是（　）",
+   "options": [
+    "名词，饮食",
+    "形容词，心理的",
+    "性",
+    "动词，改进"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "Difficulties：性。例：Difficulties (difficult) can be overcome with effort.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day29"
+   ]
+  },
+  {
+   "id": "Q-V-0213",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「investigation」在「Day29 问题与解决」中的词性与含义是（　）",
+   "options": [
+    "形容词，心理的",
+    "名词，调查",
+    "行为",
+    "名词，发现"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "investigation：名词，调查。例：The investigation (investigate) revealed new facts.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day29"
+   ]
+  },
+  {
+   "id": "Q-V-0214",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「issues」在「Day29 问题与解决」中的词性与含义是（　）",
+   "options": [
+    "形容词，民主的",
+    "名词复数，问题",
+    "名词，退休",
+    "形容词，运动的"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "issues：名词复数，问题。例：Technical issues (issue) delayed the project.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day29"
+   ]
+  },
+  {
+   "id": "Q-V-0215",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「resolution」在「Day29 问题与解决」中的词性与含义是（　）",
+   "options": [
+    "名词，解决",
+    "名词，耐用性",
+    "名词，谈判",
+    "名词，发明"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "resolution：名词，解决。例：The resolution (resolve) of the conflict took time.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day29"
+   ]
+  },
+  {
+   "id": "Q-V-0216",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「solution」在「Day29 问题与解决」中的词性与含义是（　）",
+   "options": [
+    "名词，创造力",
+    "名词，发现",
+    "名词，解决方案",
+    "名词，解决"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "solution：名词，解决方案。例：The solution (solve) to the problem was simple.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day29"
+   ]
+  },
+  {
+   "id": "Q-V-0217",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「solving」在「Day29 问题与解决」中的词性与含义是（　）",
+   "options": [
+    "名词，高度",
+    "名词，偏好",
+    "名词，解决",
+    "名词，退休"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "solving：名词，解决。例：Problem-solving (solve) skills are valuable.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day29"
+   ]
+  },
+  {
+   "id": "Q-V-0218",
+   "subject": "english",
+   "chapter": "E05",
+   "type": "single",
+   "stem": "「Trouble」在「Day29 问题与解决」中的词性与含义是（　）",
+   "options": [
+    "名词，面试",
+    "名词，变化",
+    "名词，麻烦",
+    "名词，结束"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "Trouble：名词，麻烦。例：Trouble (trouble) often leads to innovation.",
+   "source": {
+    "file": "高中英语核心高频词汇30天系统练习.pdf",
+    "page": 1
+   },
+   "kp": [],
+   "difficulty": 1,
+   "tags": [
+    "词汇",
+    "Day29"
+   ]
+  }
+ ]
+}

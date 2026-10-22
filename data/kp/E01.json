@@ -1,0 +1,77 @@
+{
+  "block": "E01",
+  "items": [
+    {
+      "id": "E01-01",
+      "subject": "english",
+      "chapter": "E01",
+      "topic": "动词与名词的相互转换",
+      "core": "掌握常见动词→名词后缀：-tion、-ment、-ance/-ence、-ure、-al、-y。",
+      "detail": "discover→discovery，consider→consideration，depart→departure，improve→improvement，expand→expansion，suggest→suggestion，discuss→discussion，develop→development，achieve→achievement，explain→explanation。注意拼写变化，如 explain 去 i 加 ation。",
+      "formulas": ["v. + -tion → n.（consider → consideration）", "v. + -ment → n.（improve → improvement）", "v. + -ure → n.（depart → departure）"],
+      "bullets": ["explain → explanation（不是 explaination）", "suggest → suggestion", "develop → development", "achieve → achievement"],
+      "examples": [
+        { "q": "She made an important ______ (discover) in her research.", "a": "discovery。形容词 important 后接名词。" },
+        { "q": "The manager will ______ (consideration) your proposal.", "a": "consider。will 后接动词原形。" }
+      ],
+      "trap": "易错：忽略词性，看到括号里的名词就直接填名词；explanation 拼写多加 i。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 1 },
+      "star": 4,
+      "tags": ["词性转换", "Day1"]
+    },
+    {
+      "id": "E01-02",
+      "subject": "english",
+      "chapter": "E01",
+      "topic": "形容词与副词的转换",
+      "core": "形容词修饰名词，副词修饰动词、形容词或整句；多数副词由形容词加 -ly 构成。",
+      "detail": "clear→clearly，danger→dangerous，creative→creatively，predict→unpredictable，accurate→accurately，effect→effective，responsible→responsibly，efficient→efficiently，wise→wisdom（名词特殊变化），happy→happily。注意以辅音字母 + y 结尾变 y 为 i 再加 ly。",
+      "formulas": ["adj. + -ly → adv.", "辅音 + y → 变 y 为 i 加 -ly", "-le → -ly（simple → simply）"],
+      "bullets": ["effective 有效果的；efficient 效率高的", "dangerous 是形容词", "wisdom 是名词", "unpredictable 是不可预测的"],
+      "examples": [
+        { "q": "She spoke ______ (clear) so everyone could understand.", "a": "clearly。修饰动词 spoke 用副词。" },
+        { "q": "This is a ______ (danger) area after dark.", "a": "dangerous。修饰名词 area 用形容词。" }
+      ],
+      "trap": "易错：形容词和副词混用；effective 与 efficient 词义混淆。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 1 },
+      "star": 4,
+      "tags": ["词性转换", "Day2"]
+    },
+    {
+      "id": "E01-03",
+      "subject": "english",
+      "chapter": "E01",
+      "topic": "高频动词短语",
+      "core": "动词短语的宾语位置和介词搭配是高频失分点，要整块记忆。",
+      "detail": "fill in（填写）、take place（举行）、give up（放弃）、look into（调查）、take after（像）、come true（实现）、go over（回顾）、come up with（想出）、spread（蔓延）、put up with（忍受）。注意代词作宾语时放在动词与副词之间。",
+      "formulas": ["fill in the form", "give up smoking", "look into the problem", "come up with an idea"],
+      "bullets": ["take place 无被动", "give up doing sth", "look forward to doing", "put up with 忍受"],
+      "examples": [
+        { "q": "Please ______ this form. (填写)", "a": "fill in。" },
+        { "q": "He decided to ______ smoking. (放弃)", "a": "give up。" }
+      ],
+      "trap": "易错：look forward to 后接动词原形；take place 用于被动语态。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 2 },
+      "star": 4,
+      "tags": ["动词短语", "Day3"]
+    },
+    {
+      "id": "E01-04",
+      "subject": "english",
+      "chapter": "E01",
+      "topic": "高频介词搭配",
+      "core": "介词搭配没有捷径，必须按「动词/名词/形容词 + 介词」整组记忆。",
+      "detail": "pay attention to（注意）、take pride in（以……为傲）、make a contribution to（对……做贡献）、have an advantage over（比……有优势）、take care of（照顾）、succeed in（成功）、apologize for（为……道歉）、search for（寻找）、agree with（同意某人）、depend on（依靠）。",
+      "formulas": ["pay attention to + n./doing", "take pride in = be proud of", "have an advantage over", "succeed in doing sth"],
+      "bullets": ["to 在此是介词，后接 doing", "apologize to sb for sth", "agree with sb / agree to a plan", "depend on 依靠"],
+      "examples": [
+        { "q": "We must pay attention ______ the details.", "a": "to。" },
+        { "q": "She succeeded ______ passing the exam.", "a": "in。" }
+      ],
+      "trap": "易错：pay attention to 后接动词原形；把 advantage over 写成 advantage than。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 2 },
+      "star": 4,
+      "tags": ["介词搭配", "Day3"]
+    }
+  ]
+}

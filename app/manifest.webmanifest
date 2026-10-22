@@ -1,0 +1,19 @@
+{
+  "name": "拾阶 · 高中学习与备考",
+  "short_name": "拾阶",
+  "description": "高中数学、物理、化学、英语第一批资料重构：知识卡、速查、刷题、错题本、模拟考、30 天计划，离线可用。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#f5f2ea",
+  "theme_color": "#2f6f5e",
+  "lang": "zh-CN",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

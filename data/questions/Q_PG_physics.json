@@ -1,0 +1,915 @@
+{
+ "block": "PHY_GEN",
+ "items": [
+  {
+   "id": "Q-PG-0001",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 1 m/s，以 1 m/s² 做匀加速直线运动，2 s 末速度为（　）m/s",
+   "options": [
+    "2",
+    "10",
+    "3",
+    "13"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "v=v₀+at=1+1×2=3 m/s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0002",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 2 m/s，以 3 m/s² 做匀加速直线运动，6 s 末速度为（　）m/s",
+   "options": [
+    "25",
+    "20",
+    "10",
+    "27"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "v=v₀+at=2+3×6=20 m/s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0003",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 1 m/s，以 3 m/s² 做匀加速直线运动，2 s 末速度为（　）m/s",
+   "options": [
+    "6",
+    "7",
+    "21",
+    "15"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "v=v₀+at=1+3×2=7 m/s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0004",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 0 m/s，以 4 m/s² 做匀加速直线运动，4 s 末速度为（　）m/s",
+   "options": [
+    "14",
+    "16",
+    "48",
+    "17"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "v=v₀+at=0+4×4=16 m/s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0005",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 3 m/s，以 3 m/s² 做匀加速直线运动，2 s 末速度为（　）m/s",
+   "options": [
+    "18",
+    "9",
+    "17",
+    "15"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "v=v₀+at=3+3×2=9 m/s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0006",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 1 m/s，以 3 m/s² 做匀加速直线运动，6 s 末速度为（　）m/s",
+   "options": [
+    "17",
+    "19",
+    "29",
+    "57"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "v=v₀+at=1+3×6=19 m/s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0007",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 3 m/s，以 4 m/s² 做匀加速直线运动，5 s 末速度为（　）m/s",
+   "options": [
+    "46",
+    "92",
+    "13",
+    "23"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "v=v₀+at=3+4×5=23 m/s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0008",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 2 m/s，以 3 m/s² 做匀加速直线运动，3 s 末速度为（　）m/s",
+   "options": [
+    "12",
+    "7",
+    "8",
+    "11"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "v=v₀+at=2+3×3=11 m/s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0009",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 0 m/s，以 1 m/s² 做匀加速直线运动，5 s 末速度为（　）m/s",
+   "options": [
+    "4",
+    "5",
+    "10",
+    "15"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "v=v₀+at=0+1×5=5 m/s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0011",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 3 m/s，加速度 2 m/s²，5 s 内位移为（　）m",
+   "options": [
+    "120",
+    "36",
+    "40",
+    "38"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "x=v₀t+½at²=3×5+½×2×5²=40 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0012",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 0 m/s，加速度 2 m/s²，5 s 内位移为（　）m",
+   "options": [
+    "29",
+    "25",
+    "28",
+    "23"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "x=v₀t+½at²=0×5+½×2×5²=25 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0013",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 0 m/s，加速度 4 m/s²，2 s 内位移为（　）m",
+   "options": [
+    "3",
+    "14",
+    "8",
+    "9"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "x=v₀t+½at²=0×2+½×4×2²=8 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0014",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 1 m/s，加速度 1 m/s²，4 s 内位移为（　）m",
+   "options": [
+    "12",
+    "7",
+    "24",
+    "18"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "x=v₀t+½at²=1×4+½×1×4²=12 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0015",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 4 m/s，加速度 3 m/s²，2 s 内位移为（　）m",
+   "options": [
+    "24",
+    "22",
+    "16",
+    "14"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "x=v₀t+½at²=4×2+½×3×2²=14 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0016",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 3 m/s，加速度 4 m/s²，5 s 内位移为（　）m",
+   "options": [
+    "70",
+    "67",
+    "65",
+    "66"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "x=v₀t+½at²=3×5+½×4×5²=65 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0017",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 5 m/s，加速度 1 m/s²，2 s 内位移为（　）m",
+   "options": [
+    "2",
+    "12",
+    "9",
+    "19"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "x=v₀t+½at²=5×2+½×1×2²=12 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0018",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 3 m/s，加速度 2 m/s²，3 s 内位移为（　）m",
+   "options": [
+    "20",
+    "18",
+    "22",
+    "13"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "x=v₀t+½at²=3×3+½×2×3²=18 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0019",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 5 m/s，加速度 3 m/s²，4 s 内位移为（　）m",
+   "options": [
+    "44",
+    "45",
+    "34",
+    "176"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "x=v₀t+½at²=5×4+½×3×4²=44 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0020",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体初速度 4 m/s，加速度 2 m/s²，2 s 内位移为（　）m",
+   "options": [
+    "36",
+    "12",
+    "16",
+    "24"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "x=v₀t+½at²=4×2+½×2×2²=12 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0021",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体从 20 m 高处自由下落（g 取 10 m/s²），落地时间为（　）s",
+   "options": [
+    "6",
+    "2",
+    "3",
+    "12"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "h=½gt²，t=√(2h/g)=√(2×20/10)=2 s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0022",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体从 45 m 高处自由下落（g 取 10 m/s²），落地时间为（　）s",
+   "options": [
+    "7",
+    "4",
+    "3",
+    "9"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "h=½gt²，t=√(2h/g)=√(2×45/10)=3 s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0024",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体从 5 m 高处自由下落（g 取 10 m/s²），落地时间为（　）s",
+   "options": [
+    "6",
+    "2",
+    "1",
+    "9"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "h=½gt²，t=√(2h/g)=√(2×5/10)=1 s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0029",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "汽车以 10 m/s 行驶，刹车加速度大小为 1 m/s²，刹车距离为（　）m",
+   "options": [
+    "100",
+    "58",
+    "50",
+    "200"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "刹车到停止位移 x=v₀²/(2a)=10²/(2×1)=50 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0030",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "汽车以 6 m/s 行驶，刹车加速度大小为 2 m/s²，刹车距离为（　）m",
+   "options": [
+    "16",
+    "7",
+    "9",
+    "13"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "刹车到停止位移 x=v₀²/(2a)=6²/(2×2)=9 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0031",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "汽车以 10 m/s 行驶，刹车加速度大小为 2 m/s²，刹车距离为（　）m",
+   "options": [
+    "32",
+    "23",
+    "25",
+    "31"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "刹车到停止位移 x=v₀²/(2a)=10²/(2×2)=25 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0032",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "汽车以 12 m/s 行驶，刹车加速度大小为 2 m/s²，刹车距离为（　）m",
+   "options": [
+    "39",
+    "26",
+    "36",
+    "72"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "刹车到停止位移 x=v₀²/(2a)=12²/(2×2)=36 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0033",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "汽车以 16 m/s 行驶，刹车加速度大小为 1 m/s²，刹车距离为（　）m",
+   "options": [
+    "128",
+    "136",
+    "118",
+    "138"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "刹车到停止位移 x=v₀²/(2a)=16²/(2×1)=128 m。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0034",
+   "subject": "physics",
+   "chapter": "P02",
+   "type": "single",
+   "stem": "打点计时器纸带上相邻计数点间距差为 0.01 m，T=0.1 s，加速度为（　）m/s²",
+   "options": [
+    "1",
+    "4",
+    "2",
+    "7"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "Δx=aT²，a=Δx/T²=0.01/0.01=1 m/s²。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0035",
+   "subject": "physics",
+   "chapter": "P02",
+   "type": "single",
+   "stem": "打点计时器纸带上相邻计数点间距差为 0.05 m，T=0.1 s，加速度为（　）m/s²",
+   "options": [
+    "5",
+    "11",
+    "9",
+    "3"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "Δx=aT²，a=Δx/T²=0.05/0.01=5 m/s²。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0037",
+   "subject": "physics",
+   "chapter": "P02",
+   "type": "single",
+   "stem": "打点计时器纸带上相邻计数点间距差为 0.04 m，T=0.1 s，加速度为（　）m/s²",
+   "options": [
+    "2",
+    "4",
+    "16",
+    "9"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "Δx=aT²，a=Δx/T²=0.04/0.01=4 m/s²。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0038",
+   "subject": "physics",
+   "chapter": "P02",
+   "type": "single",
+   "stem": "打点计时器纸带上相邻计数点间距差为 0.03 m，T=0.1 s，加速度为（　）m/s²",
+   "options": [
+    "6",
+    "5",
+    "7",
+    "3"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "Δx=aT²，a=Δx/T²=0.03/0.01=3 m/s²。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0042",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体以 11 m/s 竖直上抛（g 取 10 m/s²），最大高度为（　）m",
+   "options": [
+    "8",
+    "10",
+    "6",
+    "3"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "H=v₀²/(2g)=11²/20=6 m；上升时间 1 s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0043",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体以 20 m/s 竖直上抛（g 取 10 m/s²），最大高度为（　）m",
+   "options": [
+    "80",
+    "20",
+    "16",
+    "60"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "H=v₀²/(2g)=20²/20=20 m；上升时间 2 s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0044",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体以 14 m/s 竖直上抛（g 取 10 m/s²），最大高度为（　）m",
+   "options": [
+    "5",
+    "8",
+    "9",
+    "16"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "H=v₀²/(2g)=14²/20=9 m；上升时间 1 s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  },
+  {
+   "id": "Q-PG-0045",
+   "subject": "physics",
+   "chapter": "P01",
+   "type": "single",
+   "stem": "物体以 16 m/s 竖直上抛（g 取 10 m/s²），最大高度为（　）m",
+   "options": [
+    "12",
+    "36",
+    "17",
+    "8"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "H=v₀²/(2g)=16²/20=12 m；上升时间 1 s。",
+   "source": {
+    "file": "1第一章运动的描述_4-19.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "运动学"
+   ]
+  }
+ ]
+}

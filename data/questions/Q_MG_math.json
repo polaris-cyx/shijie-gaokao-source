@@ -1,0 +1,2137 @@
+{
+ "block": "MATH_GEN",
+ "items": [
+  {
+   "id": "Q-MG-0001",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=-3，d=2，则 a_6=（　）",
+   "options": [
+    "6",
+    "7",
+    "21",
+    "4"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "a_n=a_1+(n-1)d=-3+5×2=7。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0002",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=5，d=6，则 a_15=（　）",
+   "options": [
+    "178",
+    "89",
+    "84",
+    "95"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "a_n=a_1+(n-1)d=5+14×6=89。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0003",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=8，d=6，则前 12 项和 S_12=（　）",
+   "options": [
+    "502",
+    "492",
+    "499",
+    "489"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "S_n=na_1+n(n-1)d/2=12×8+66×6=492。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0004",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=7，d=5，则前 7 项和 S_7=（　）",
+   "options": [
+    "152",
+    "160",
+    "154",
+    "164"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "S_n=na_1+n(n-1)d/2=7×7+21×5=154。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0005",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=3，d=5，则前 7 项和 S_7=（　）",
+   "options": [
+    "128",
+    "126",
+    "130",
+    "116"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "S_n=na_1+n(n-1)d/2=7×3+21×5=126。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0006",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=0，d=5，则前 15 项和 S_15=（　）",
+   "options": [
+    "1050",
+    "529",
+    "525",
+    "528"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "S_n=na_1+n(n-1)d/2=15×0+105×5=525。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0007",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=-3，d=5，则 a_6=（　）",
+   "options": [
+    "88",
+    "22",
+    "24",
+    "12"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "a_n=a_1+(n-1)d=-3+5×5=22。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0008",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=-1，d=3，则 a_15=（　）",
+   "options": [
+    "37",
+    "123",
+    "40",
+    "41"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "a_n=a_1+(n-1)d=-1+14×3=41。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0009",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=1，d=1，则 a_6=（　）",
+   "options": [
+    "1",
+    "13",
+    "6",
+    "12"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "a_n=a_1+(n-1)d=1+5×1=6。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0010",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=-5，d=4，则 a_14=（　）",
+   "options": [
+    "49",
+    "94",
+    "47",
+    "52"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "a_n=a_1+(n-1)d=-5+13×4=47。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0011",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=6，d=2，则 a_8=（　）",
+   "options": [
+    "15",
+    "20",
+    "25",
+    "10"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "a_n=a_1+(n-1)d=6+7×2=20。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0012",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=1，d=2，则前 6 项和 S_6=（　）",
+   "options": [
+    "31",
+    "37",
+    "36",
+    "144"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "S_n=na_1+n(n-1)d/2=6×1+15×2=36。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0013",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=1，d=2，则前 7 项和 S_7=（　）",
+   "options": [
+    "52",
+    "47",
+    "51",
+    "49"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "S_n=na_1+n(n-1)d/2=7×1+21×2=49。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0014",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=2，d=5，则前 11 项和 S_11=（　）",
+   "options": [
+    "891",
+    "297",
+    "303",
+    "300"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "S_n=na_1+n(n-1)d/2=11×2+55×5=297。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0015",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=0，d=1，则 a_14=（　）",
+   "options": [
+    "15",
+    "3",
+    "13",
+    "9"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "a_n=a_1+(n-1)d=0+13×1=13。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0016",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等差数列 {a_n} 中，a_1=5，d=6，则 a_7=（　）",
+   "options": [
+    "31",
+    "123",
+    "41",
+    "40"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "a_n=a_1+(n-1)d=5+6×6=41。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0017",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等比数列 {a_n} 中，a_1=1，q=2，则前 5 项和 S_5=（　）",
+   "options": [
+    "35",
+    "93",
+    "31",
+    "28"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "S_n=a_1(1-q^n)/(1-q)=1(1-(2)^5)/(1-(2))=31。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0018",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等比数列 {a_n} 中，a_1=-1，q=3，则前 6 项和 S_6=（　）",
+   "options": [
+    "-364",
+    "-728",
+    "-1456",
+    "-1092"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "S_n=a_1(1-q^n)/(1-q)=-1(1-(3)^6)/(1-(3))=-364。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0019",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等比数列 {a_n} 中，a_1=3，q=2，则 a_4=（　）",
+   "options": [
+    "25",
+    "30",
+    "32",
+    "24"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "a_n=a_1q^(n-1)=3×(2)^3=24。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0020",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等比数列 {a_n} 中，a_1=-1，q=2，则 a_3=（　）",
+   "options": [
+    "-16",
+    "-8",
+    "-4",
+    "0"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "a_n=a_1q^(n-1)=-1×(2)^2=-4。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0021",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等比数列 {a_n} 中，a_1=-2，q=3，则 a_6=（　）",
+   "options": [
+    "-1458",
+    "-1944",
+    "-972",
+    "-486"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "a_n=a_1q^(n-1)=-2×(3)^5=-486。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0022",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等比数列 {a_n} 中，a_1=2，q=2，则前 4 项和 S_4=（　）",
+   "options": [
+    "33",
+    "36",
+    "30",
+    "35"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "S_n=a_1(1-q^n)/(1-q)=2(1-(2)^4)/(1-(2))=30。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0023",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等比数列 {a_n} 中，a_1=-1，q=-2，则 a_5=（　）",
+   "options": [
+    "-32",
+    "-48",
+    "-16",
+    "-64"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "a_n=a_1q^(n-1)=-1×(-2)^4=-16。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0024",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等比数列 {a_n} 中，a_1=1，q=-2，则 a_3=（　）",
+   "options": [
+    "11",
+    "4",
+    "3",
+    "1"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "a_n=a_1q^(n-1)=1×(-2)^2=4。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0025",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等比数列 {a_n} 中，a_1=-1，q=3，则 a_6=（　）",
+   "options": [
+    "-486",
+    "-243",
+    "-972",
+    "-729"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "a_n=a_1q^(n-1)=-1×(3)^5=-243。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0026",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等比数列 {a_n} 中，a_1=3，q=3，则 a_6=（　）",
+   "options": [
+    "737",
+    "729",
+    "727",
+    "2916"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "a_n=a_1q^(n-1)=3×(3)^5=729。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0027",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等比数列 {a_n} 中，a_1=-2，q=-2，则前 6 项和 S_6=（　）",
+   "options": [
+    "43",
+    "42",
+    "32",
+    "47"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "S_n=a_1(1-q^n)/(1-q)=-2(1-(-2)^6)/(1-(-2))=42。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0028",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等比数列 {a_n} 中，a_1=-2，q=3，则前 6 项和 S_6=（　）",
+   "options": [
+    "-1456",
+    "-2912",
+    "-728",
+    "-2184"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "S_n=a_1(1-q^n)/(1-q)=-2(1-(3)^6)/(1-(3))=-728。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0029",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等比数列 {a_n} 中，a_1=3，q=2，则 a_6=（　）",
+   "options": [
+    "101",
+    "92",
+    "96",
+    "97"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "a_n=a_1q^(n-1)=3×(2)^5=96。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0030",
+   "subject": "math",
+   "chapter": "M06",
+   "type": "single",
+   "stem": "等比数列 {a_n} 中，a_1=-2，q=3，则前 5 项和 S_5=（　）",
+   "options": [
+    "-484",
+    "-242",
+    "-968",
+    "-726"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "S_n=a_1(1-q^n)/(1-q)=-2(1-(3)^5)/(1-(3))=-242。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0031",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=4x^2+3x 在 x=1 处的导数值 f'(1)=（　）",
+   "options": [
+    "10",
+    "14",
+    "11",
+    "8"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "f'(x)=8x+3，代入 x=1 得 11。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0032",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=1x^2+-4x 在 x=-1 处的导数值 f'(-1)=（　）",
+   "options": [
+    "1",
+    "-24",
+    "-12",
+    "-6"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "f'(x)=2x+-4，代入 x=-1 得 -6。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0033",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=1x^2+4x 在 x=1 处的导数值 f'(1)=（　）",
+   "options": [
+    "4",
+    "2",
+    "13",
+    "6"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "f'(x)=2x+4，代入 x=1 得 6。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0034",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=2x^2+3x 在 x=3 处的导数值 f'(3)=（　）",
+   "options": [
+    "5",
+    "10",
+    "15",
+    "20"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "f'(x)=4x+3，代入 x=3 得 15。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0035",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=2x^2+-2x 在 x=1 处的导数值 f'(1)=（　）",
+   "options": [
+    "6",
+    "2",
+    "12",
+    "3"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "f'(x)=4x+-2，代入 x=1 得 2。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0036",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=3x^2+4x 在 x=-2 处的导数值 f'(-2)=（　）",
+   "options": [
+    "0",
+    "-8",
+    "-32",
+    "-24"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "f'(x)=6x+4，代入 x=-2 得 -8。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0037",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=1x^2+-3x 在 x=-2 处的导数值 f'(-2)=（　）",
+   "options": [
+    "-28",
+    "-7",
+    "-14",
+    "0"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "f'(x)=2x+-3，代入 x=-2 得 -7。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0038",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=4x^2+0x 在 x=0 处的导数值 f'(0)=（　）",
+   "options": [
+    "6",
+    "8",
+    "0",
+    "5"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "f'(x)=8x+0，代入 x=0 得 0。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0039",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=3x^2+3x 在 x=1 处的导数值 f'(1)=（　）",
+   "options": [
+    "7",
+    "15",
+    "9",
+    "13"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "f'(x)=6x+3，代入 x=1 得 9。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0040",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=4x^2+-3x 在 x=2 处的导数值 f'(2)=（　）",
+   "options": [
+    "20",
+    "26",
+    "13",
+    "18"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "f'(x)=8x+-3，代入 x=2 得 13。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0041",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=3x^2+-4x 在 x=0 处的导数值 f'(0)=（　）",
+   "options": [
+    "-8",
+    "0",
+    "-4",
+    "2"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "f'(x)=6x+-4，代入 x=0 得 -4。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0042",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=1x^2+2x 在 x=2 处的导数值 f'(2)=（　）",
+   "options": [
+    "9",
+    "6",
+    "14",
+    "2"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "f'(x)=2x+2，代入 x=2 得 6。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0043",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=3x^2+2x 在 x=3 处的导数值 f'(3)=（　）",
+   "options": [
+    "20",
+    "23",
+    "80",
+    "30"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "f'(x)=6x+2，代入 x=3 得 20。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0044",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=2x^2+0x 在 x=3 处的导数值 f'(3)=（　）",
+   "options": [
+    "12",
+    "14",
+    "20",
+    "19"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "f'(x)=4x+0，代入 x=3 得 12。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0045",
+   "subject": "math",
+   "chapter": "M04",
+   "type": "single",
+   "stem": "函数 f(x)=4x^2+0x 在 x=-1 处的导数值 f'(-1)=（　）",
+   "options": [
+    "0",
+    "-8",
+    "-32",
+    "2"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "f'(x)=8x+0，代入 x=-1 得 -8。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0047",
+   "subject": "math",
+   "chapter": "M03",
+   "type": "single",
+   "stem": "计算 log_53125=（　）",
+   "options": [
+    "15",
+    "9",
+    "3",
+    "5"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "因为 5^5=3125，所以 log_53125=5。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0048",
+   "subject": "math",
+   "chapter": "M03",
+   "type": "single",
+   "stem": "计算 log_39=（　）",
+   "options": [
+    "10",
+    "2",
+    "3",
+    "8"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "因为 3^2=9，所以 log_39=2。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0050",
+   "subject": "math",
+   "chapter": "M03",
+   "type": "single",
+   "stem": "计算 log_3243=（　）",
+   "options": [
+    "12",
+    "1",
+    "0",
+    "5"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "因为 3^5=243，所以 log_3243=5。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0051",
+   "subject": "math",
+   "chapter": "M03",
+   "type": "single",
+   "stem": "计算 log_5625=（　）",
+   "options": [
+    "3",
+    "4",
+    "11",
+    "12"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "因为 5^4=625，所以 log_5625=4。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0052",
+   "subject": "math",
+   "chapter": "M03",
+   "type": "single",
+   "stem": "计算 log_28=（　）",
+   "options": [
+    "0",
+    "3",
+    "9",
+    "4"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "因为 2^3=8，所以 log_28=3。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0053",
+   "subject": "math",
+   "chapter": "M03",
+   "type": "single",
+   "stem": "计算 log_5125=（　）",
+   "options": [
+    "9",
+    "6",
+    "0",
+    "3"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "因为 5^3=125，所以 log_5125=3。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0054",
+   "subject": "math",
+   "chapter": "M03",
+   "type": "single",
+   "stem": "计算 log_525=（　）",
+   "options": [
+    "8",
+    "2",
+    "4",
+    "12"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "因为 5^2=25，所以 log_525=2。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0055",
+   "subject": "math",
+   "chapter": "M03",
+   "type": "single",
+   "stem": "计算 log_216=（　）",
+   "options": [
+    "12",
+    "0",
+    "4",
+    "3"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "因为 2^4=16，所以 log_216=4。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0057",
+   "subject": "math",
+   "chapter": "M05",
+   "type": "single",
+   "stem": "sin 30° 的值为（　）",
+   "options": [
+    "3.5",
+    "4.5",
+    "5.5",
+    "0.5"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "sin 30°=0.5，属于特殊角三角函数值。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0058",
+   "subject": "math",
+   "chapter": "M05",
+   "type": "single",
+   "stem": "tan 45° 的值为（　）",
+   "options": [
+    "1",
+    "0",
+    "2",
+    "8"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "tan 45°=1，属于特殊角三角函数值。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0061",
+   "subject": "math",
+   "chapter": "M05",
+   "type": "single",
+   "stem": "cos 60° 的值为（　）",
+   "options": [
+    "8.5",
+    "0.5",
+    "2",
+    "2.5"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "cos 60°=0.5，属于特殊角三角函数值。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0064",
+   "subject": "math",
+   "chapter": "M05",
+   "type": "single",
+   "stem": "sin 45° 的值为（　）",
+   "options": [
+    "4.71",
+    "5.71",
+    "2.13",
+    "0.71"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "sin 45°=0.71，属于特殊角三角函数值。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0065",
+   "subject": "math",
+   "chapter": "M02",
+   "type": "single",
+   "stem": "若 x>0，则 x+4/x 的最小值为（　）",
+   "options": [
+    "4",
+    "11",
+    "14",
+    "1"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "x+4/x ≥ 2√4 = 4，当 x=√4 时取等。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0066",
+   "subject": "math",
+   "chapter": "M02",
+   "type": "single",
+   "stem": "若 x>0，则 x+16/x 的最小值为（　）",
+   "options": [
+    "10",
+    "8",
+    "3",
+    "15"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "x+16/x ≥ 2√16 = 8，当 x=√16 时取等。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0069",
+   "subject": "math",
+   "chapter": "M02",
+   "type": "single",
+   "stem": "若 x>0，则 x+9/x 的最小值为（　）",
+   "options": [
+    "6",
+    "12",
+    "7",
+    "24"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "x+9/x ≥ 2√9 = 6，当 x=√9 时取等。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0073",
+   "subject": "math",
+   "chapter": "M02",
+   "type": "single",
+   "stem": "若 x>0，则 x+1/x 的最小值为（　）",
+   "options": [
+    "2",
+    "9",
+    "10",
+    "0"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "x+1/x ≥ 2√1 = 2，当 x=√1 时取等。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0074",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "计算 C_5^4=（　）",
+   "options": [
+    "13",
+    "15",
+    "5",
+    "2"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "C(5,4)=5!/(4!×1!)=5。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0076",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "计算 C_7^4=（　）",
+   "options": [
+    "105",
+    "35",
+    "37",
+    "41"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "C(7,4)=7!/(4!×3!)=35。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0077",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "计算 C_7^3=（　）",
+   "options": [
+    "140",
+    "42",
+    "36",
+    "35"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "C(7,3)=7!/(3!×4!)=35。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0078",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "计算 C_6^2=（　）",
+   "options": [
+    "18",
+    "15",
+    "23",
+    "25"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "C(6,2)=6!/(2!×4!)=15。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0079",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "计算 C_9^3=（　）",
+   "options": [
+    "84",
+    "81",
+    "83",
+    "89"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "C(9,3)=9!/(3!×6!)=84。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0080",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "计算 C_6^4=（　）",
+   "options": [
+    "15",
+    "21",
+    "10",
+    "25"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "C(6,4)=6!/(4!×2!)=15。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0081",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "计算 C_8^4=（　）",
+   "options": [
+    "70",
+    "65",
+    "280",
+    "67"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "C(8,4)=8!/(4!×4!)=70。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0082",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "计算 C_9^2=（　）",
+   "options": [
+    "36",
+    "44",
+    "43",
+    "108"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "C(9,2)=9!/(2!×7!)=36。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0085",
+   "subject": "math",
+   "chapter": "M09",
+   "type": "single",
+   "stem": "计算 C_5^2=（　）",
+   "options": [
+    "10",
+    "6",
+    "30",
+    "8"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "C(5,2)=5!/(2!×3!)=10。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0086",
+   "subject": "math",
+   "chapter": "M10",
+   "type": "single",
+   "stem": "向量 a=(-2,-2)，b=(-3,-3)，则 a·b=（　）",
+   "options": [
+    "18",
+    "12",
+    "7",
+    "10"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "a·b=-2×-3+-2×-3=12。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0087",
+   "subject": "math",
+   "chapter": "M10",
+   "type": "single",
+   "stem": "向量 a=(-2,-1)，b=(0,-1)，则 a·b=（　）",
+   "options": [
+    "2",
+    "1",
+    "3",
+    "9"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "a·b=-2×0+-1×-1=1。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0088",
+   "subject": "math",
+   "chapter": "M10",
+   "type": "single",
+   "stem": "向量 a=(-3,3)，b=(1,3)，则 a·b=（　）",
+   "options": [
+    "2",
+    "10",
+    "6",
+    "14"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "a·b=-3×1+3×3=6。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0089",
+   "subject": "math",
+   "chapter": "M10",
+   "type": "single",
+   "stem": "向量 a=(1,-3)，b=(3,-4)，则 a·b=（　）",
+   "options": [
+    "45",
+    "15",
+    "16",
+    "12"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "a·b=1×3+-3×-4=15。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0090",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "圆 (x-3)^2+(y--1)^2=4 的半径为（　）",
+   "options": [
+    "2",
+    "10",
+    "5",
+    "8"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "标准式中 r²=4，所以 r=2。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0091",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "圆 (x--2)^2+(y-4)^2=9 的半径为（　）",
+   "options": [
+    "3",
+    "10",
+    "12",
+    "9"
+   ],
+   "answer": [
+    0
+   ],
+   "explain": "标准式中 r²=9，所以 r=3。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0092",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "圆 (x-3)^2+(y-4)^2=36 的半径为（　）",
+   "options": [
+    "1",
+    "6",
+    "10",
+    "12"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "标准式中 r²=36，所以 r=6。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0093",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "圆 (x--1)^2+(y--1)^2=16 的半径为（　）",
+   "options": [
+    "12",
+    "14",
+    "3",
+    "4"
+   ],
+   "answer": [
+    3
+   ],
+   "explain": "标准式中 r²=16，所以 r=4。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0094",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "圆 (x--2)^2+(y--2)^2=16 的半径为（　）",
+   "options": [
+    "8",
+    "4",
+    "3",
+    "12"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "标准式中 r²=16，所以 r=4。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0095",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "圆 (x-3)^2+(y-3)^2=4 的半径为（　）",
+   "options": [
+    "6",
+    "0",
+    "2",
+    "8"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "标准式中 r²=4，所以 r=2。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0096",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "圆 (x--2)^2+(y-3)^2=9 的半径为（　）",
+   "options": [
+    "9",
+    "4",
+    "3",
+    "5"
+   ],
+   "answer": [
+    2
+   ],
+   "explain": "标准式中 r²=9，所以 r=3。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  },
+  {
+   "id": "Q-MG-0097",
+   "subject": "math",
+   "chapter": "M08",
+   "type": "single",
+   "stem": "圆 (x-1)^2+(y-2)^2=36 的半径为（　）",
+   "options": [
+    "4",
+    "6",
+    "12",
+    "10"
+   ],
+   "answer": [
+    1
+   ],
+   "explain": "标准式中 r²=36，所以 r=6。",
+   "source": {
+    "file": "高中数学核心知识背记手册（背记版）.pdf",
+    "page": 0
+   },
+   "kp": [],
+   "difficulty": 2,
+   "tags": [
+    "计算"
+   ]
+  }
+ ]
+}

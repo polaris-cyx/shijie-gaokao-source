@@ -1,0 +1,16 @@
+{
+  "name": "拾阶 · 高中学习与备考",
+  "shortName": "拾阶",
+  "tagline": "把厚厚的资料，拆成每天能走完的一小步",
+  "version": "1.0.0",
+  "examDate": "2027-06-07",
+  "examLabel": "2027 年高考",
+  "dailyGoal": { "cards": 12, "quiz": 10, "words": 15, "minutes": 45 },
+  "passScore": 60,
+  "subjects": [
+    { "id": "math", "name": "数学", "short": "数", "color": "#3f6ad8", "soft": "#e8eefc", "desc": "10 章 · 87 张卡 · 12 种最值方法" },
+    { "id": "physics", "name": "物理", "short": "物", "color": "#c2761a", "soft": "#fdf0dd", "desc": "2 章 · 16 张卡 · 图像与实验" },
+    { "id": "chemistry", "name": "化学", "short": "化", "color": "#0f8a78", "soft": "#e2f5f1", "desc": "6 章 · 26 张卡 · 158 条方程式" },
+    { "id": "english", "name": "英语", "short": "英", "color": "#b34a7a", "soft": "#fbe9f0", "desc": "5 章 · 20 张卡 · 30 天词汇" }
+  ]
+}

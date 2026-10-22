@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>拾阶 · 高中学习与备考</title>
+<meta name="description" content="基于高中数学背记手册、物理第一章、化学方程式大全、英语高频词汇 30 天资料重构的高中学习与备考系统：知识卡、公式速查、刷题、错题本、模拟考、学习计划，离线可用。">
+<meta name="theme-color" content="#2f6f5e">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="拾阶">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="icon" href="icon-192.png">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+<div id="boot" class="boot">
+  <div class="boot-mark">拾</div>
+  <div class="boot-bar"><i></i></div>
+  <p>正在铺好今天的台阶…</p>
+</div>
+
+<div id="app" class="app" hidden>
+  <aside class="rail" id="rail">
+    <div class="brand">
+      <div class="brand-mark">拾</div>
+      <div class="brand-text">
+        <strong>拾阶</strong>
+        <span>高中学习与备考</span>
+      </div>
+    </div>
+
+    <nav class="nav" id="nav"></nav>
+
+    <div class="rail-foot">
+      <div class="rail-progress">
+        <div class="rp-head"><span>总体掌握</span><b id="railPct">0%</b></div>
+        <div class="rp-bar"><i id="railBar"></i></div>
+        <div class="rp-sub" id="railSub">0 / 0 张卡片</div>
+      </div>
+      <div class="rail-actions">
+        <button class="icon-btn" data-act="theme" title="切换深浅色">◐</button>
+        <button class="icon-btn" data-act="settings" title="设置">⚙</button>
+      </div>
+    </div>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <button class="icon-btn only-tablet" id="btnMenu" aria-label="菜单">☰</button>
+      <div class="crumbs" id="crumbs"><b>今日</b></div>
+      <div class="topbar-right">
+        <button class="search-trigger" data-act="search" id="searchTrigger">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+          <span>搜知识卡、公式、单词、题目…</span>
+          <kbd>/</kbd>
+        </button>
+        <div class="streak-pill" id="streakPill" title="连续学习天数">
+          <span class="flame">火</span><b id="streakN">0</b><span>天</span>
+        </div>
+        <button class="icon-btn only-mobile" data-act="search" aria-label="搜索">
+          <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+        </button>
+      </div>
+    </header>
+    <div class="view" id="view"></div>
+  </main>
+
+  <nav class="tabbar" id="tabbar"></nav>
+</div>
+
+<div class="sheet" id="moreSheet" hidden>
+  <div class="sheet-mask" data-close-sheet></div>
+  <div class="sheet-panel">
+    <div class="sheet-grip"></div>
+    <div class="sheet-head"><b>更多</b><button class="icon-btn" data-close-sheet>×</button></div>
+    <div class="sheet-grid" id="moreGrid"></div>
+  </div>
+</div>
+
+<div class="search-overlay" id="searchOverlay" hidden>
+  <div class="search-panel">
+    <div class="search-row">
+      <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      <input id="searchInput" type="search" placeholder="输入关键词，例如：基本不等式、加速度、discovery、钠与水" autocomplete="off" enterkeyhint="search">
+      <button id="searchClose">取消</button>
+    </div>
+    <div class="search-hint" id="searchHint">支持知识卡、公式、化学方程式、单词、题目全文搜索</div>
+    <div class="search-results" id="searchResults"></div>
+  </div>
+</div>
+
+<div class="modal" id="modal" hidden>
+  <div class="modal-mask" data-close-modal></div>
+  <div class="modal-box" id="modalBox"></div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="data.bundle.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

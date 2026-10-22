@@ -1,0 +1,73 @@
+{
+  "block": "E05",
+  "items": [
+    {
+      "id": "E05-01",
+      "subject": "english",
+      "chapter": "E05",
+      "topic": "时间与历史高频词",
+      "core": "时间类：century、decade、era、period、ancient、contemporary、historical。",
+      "detail": "注意历史类阅读中的时间顺序与因果关系。词性转换：history→historical→historian；contemporary 表示「当代的」，也可作名词「同代人」。",
+      "formulas": ["history → historical → historian", "ancient 古代的 ↔ modern 现代的", "in the 21st century"],
+      "bullets": ["decade 十年", "century 百年", "era 时代", "historical 历史的（非虚构）"],
+      "examples": [
+        { "q": "The building dates back to the 18th ______.", "a": "century。" }
+      ],
+      "trap": "易错：historic（有历史意义的）与 historical（历史的）混淆。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 25 },
+      "star": 3,
+      "tags": ["时间", "Day25"]
+    },
+    {
+      "id": "E05-02",
+      "subject": "english",
+      "chapter": "E05",
+      "topic": "数量、度量与质量品质",
+      "core": "数量：amount、number、quantity、percentage；质量：quality、standard、reliable、sufficient。",
+      "detail": "区分 amount（不可数）、number（可数）、quantity（可数/不可数）。词性转换：rely→reliable→reliability；suffice→sufficient；percent→percentage。",
+      "formulas": ["a large amount of + 不可数", "a large number of + 可数复数", "rely → reliable → reliability"],
+      "bullets": ["the number of ……的数量（谓语单数）", "a number of 许多（谓语复数）", "high quality 高质量", "be sufficient for 足够"],
+      "examples": [
+        { "q": "A large ______ of students took part in the activity.", "a": "number。students 可数复数用 a number of。" }
+      ],
+      "trap": "易错：amount 与 number 混用；the number of 谓语用复数。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 26 },
+      "star": 4,
+      "tags": ["数量", "Day26-27"]
+    },
+    {
+      "id": "E05-03",
+      "subject": "english",
+      "chapter": "E05",
+      "topic": "成功、成就与问题解决",
+      "core": "成功类：achieve、accomplish、succeed、effort、persistence；问题类：solve、handle、approach、solution、challenge。",
+      "detail": "词性转换：succeed→success→successful→successfully；achieve→achievement；solve→solution；persist→persistence→persistent。写作中常用「面对挑战—采取措施—取得成果」结构。",
+      "formulas": ["succeed in doing sth", "achieve one's goal", "solve a problem", "make an effort to do sth"],
+      "bullets": ["succeed in doing", "achieve a goal", "come up with a solution", "overcome difficulties"],
+      "examples": [
+        { "q": "He hopes to ______ (achievement) his goal this year.", "a": "achieve。to 后接动词原形。" }
+      ],
+      "trap": "易错：succeed 后接 in doing 不是 to do；success 可数性。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 28 },
+      "star": 4,
+      "tags": ["成功", "Day28-29"]
+    },
+    {
+      "id": "E05-04",
+      "subject": "english",
+      "chapter": "E05",
+      "topic": "30 天词汇综合复习策略",
+      "core": "高频词汇复习三步：词性转换 → 固定搭配 → 语境运用。",
+      "detail": "每天 25 题，先做词性转换，再做短语搭配，最后放入短文语境。错题按「拼写、词性、搭配、词义」四类归档。复习时遮住答案，先自己写，再对照解析。",
+      "formulas": ["词性转换：看括号提示 + 句子成分", "固定搭配：整块记忆", "语境填空：先通读再填"],
+      "bullets": ["先判断空格在句中作什么成分", "名词注意单复数", "动词注意时态语态", "形容词副词注意修饰对象"],
+      "examples": [
+        { "q": "Service ______ (improve) is necessary.", "a": "improvement。作主语用名词。" }
+      ],
+      "trap": "易错：只看括号里的词，不看句子成分；忽略时态和单复数。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 26 },
+      "star": 4,
+      "tags": ["综合", "方法", "Day30"]
+    }
+  ]
+}

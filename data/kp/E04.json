@@ -1,0 +1,73 @@
+{
+  "block": "E04",
+  "items": [
+    {
+      "id": "E04-01",
+      "subject": "english",
+      "chapter": "E04",
+      "topic": "媒体与传播高频词",
+      "core": "媒体类：media、broadcast、publish、journalist、audience、advertise、influence。",
+      "detail": "词性转换：publish→publication→publisher；advertise→advertisement；influence→influential；communicate→communication。注意被动语态在新闻英语中的使用。",
+      "formulas": ["publish → publication", "advertise → advertisement", "influence → influential", "communicate → communication"],
+      "bullets": ["mass media 大众媒体", "social media 社交媒体", "be influenced by 受……影响", "target audience 目标受众"],
+      "examples": [
+        { "q": "The news was ______ (broadcast) live yesterday.", "a": "broadcast。broadcast 的过去分词与原形相同。" }
+      ],
+      "trap": "易错：advertisement 拼写；media 是 medium 的复数。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 19 },
+      "star": 3,
+      "tags": ["媒体", "Day19"]
+    },
+    {
+      "id": "E04-02",
+      "subject": "english",
+      "chapter": "E04",
+      "topic": "建筑、职业与工作高频词",
+      "core": "建筑：architecture、structure、design、construct；职业：career、profession、apply、interview、qualify。",
+      "detail": "词性转换：construct→construction→constructive；design→designer；apply→application→applicant；qualify→qualification。求职信常用表达：apply for、be qualified for。",
+      "formulas": ["construct → construction", "apply → application → applicant", "qualify → qualification"],
+      "bullets": ["apply for a job 申请工作", "be qualified for 胜任", "career development 职业发展", "job interview 面试"],
+      "examples": [
+        { "q": "He is well ______ (qualify) for the position.", "a": "qualified。be qualified for 胜任。" }
+      ],
+      "trap": "易错：apply to（机构）与 apply for（职位）混淆；application 与 applicant 混淆。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 21 },
+      "star": 4,
+      "tags": ["建筑", "职业", "Day20-21"]
+    },
+    {
+      "id": "E04-03",
+      "subject": "english",
+      "chapter": "E04",
+      "topic": "金融、心理与性格高频词",
+      "core": "金融：finance、budget、account、invest、profit；心理：anxiety、confidence、motivation、personality、emotion。",
+      "detail": "词性转换：anxious→anxiety；confident→confidence；motivate→motivation；person→personality；emotion→emotional。描述性格常用形容词：optimistic、responsible、independent、sensitive。",
+      "formulas": ["anxious → anxiety", "confident → confidence", "motivate → motivation", "emotion → emotional"],
+      "bullets": ["be confident of 对……有信心", "deal with anxiety 应对焦虑", "financial management 财务管理", "a strong personality 鲜明的性格"],
+      "examples": [
+        { "q": "Her ______ (anxious) was obvious before the exam.", "a": "anxiety。形容词性物主代词后接名词。" }
+      ],
+      "trap": "易错：anxiety 拼写；confident 与 confidence 词性。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 22 },
+      "star": 4,
+      "tags": ["金融", "心理", "Day22-23"]
+    },
+    {
+      "id": "E04-04",
+      "subject": "english",
+      "chapter": "E04",
+      "topic": "自然与地理高频词",
+      "core": "地理类：climate、region、landscape、resource、population、environment、disaster。",
+      "detail": "词性转换：geography→geographical；populate→population；environment→environmental；nature→natural。注意描述地理位置与气候特征的表达。",
+      "formulas": ["geography → geographical", "population → populate", "nature → natural → naturally"],
+      "bullets": ["natural resources 自然资源", "climate change 气候变化", "natural disaster 自然灾害", "be rich in 富含"],
+      "examples": [
+        { "q": "The area is rich ______ natural resources.", "a": "in。be rich in 富含。" }
+      ],
+      "trap": "易错：population 作主语时谓语单复数；environment 与 surroundings。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 23 },
+      "star": 3,
+      "tags": ["地理", "Day24"]
+    }
+  ]
+}

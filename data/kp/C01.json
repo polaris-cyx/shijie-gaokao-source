@@ -1,0 +1,90 @@
+{
+  "block": "C01",
+  "items": [
+    {
+      "id": "C01-01",
+      "subject": "chemistry",
+      "chapter": "C01",
+      "topic": "钠及其化合物的转化",
+      "core": "钠是活泼金属，常温生成 Na₂O，点燃生成 Na₂O₂；Na₂O₂ 与 H₂O、CO₂ 反应均放出 O₂。",
+      "detail": "钠与水反应：2Na + 2H₂O = 2NaOH + H₂↑，现象「浮、熔、游、响、红」。Na₂O 是碱性氧化物，Na₂O₂ 不是碱性氧化物，具有强氧化性，可作供氧剂、漂白剂。Na₂CO₃ 与 NaHCO₃ 的鉴别与除杂是高频考点。",
+      "formulas": ["2Na + 2H_2O = 2NaOH + H_2↑", "2Na_2O_2 + 2H_2O = 4NaOH + O_2↑", "2Na_2O_2 + 2CO_2 = 2Na_2CO_3 + O_2", "2NaHCO_3 --Δ--> Na_2CO_3 + H_2O + CO_2↑"],
+      "bullets": ["钠保存在煤油中", "Na₂O₂ 中氧为 -1 价", "NaHCO₃ 受热易分解", "除去 CO₂ 中的 HCl 用饱和 NaHCO₃"],
+      "examples": [
+        { "q": "将少量 Na₂O₂ 加入酚酞溶液中，有什么现象？", "a": "溶液先变红后褪色。变红是因为生成 NaOH，褪色是因为 Na₂O₂ 的强氧化性。" }
+      ],
+      "trap": "易错：把 Na₂O₂ 当成碱性氧化物；钠与盐溶液反应时先与水反应。",
+      "source": { "file": "高中化学方程式大全知识清单-2027届高三一轮复习.pdf", "page": 1 },
+      "star": 4,
+      "tags": ["钠", "过氧化钠"]
+    },
+    {
+      "id": "C01-02",
+      "subject": "chemistry",
+      "chapter": "C01",
+      "topic": "铝及其化合物的两性",
+      "core": "Al、Al₂O₃、Al(OH)₃ 都能与强酸和强碱反应，具有两性。",
+      "detail": "铝与 NaOH 溶液反应：2Al + 2NaOH + 2H₂O = 2NaAlO₂ + 3H₂↑。Al(OH)₃ 既能溶于盐酸又能溶于 NaOH。实验室制备 Al(OH)₃ 用铝盐与氨水，不用 NaOH，避免沉淀溶解。",
+      "formulas": ["2Al + 2NaOH + 2H_2O = 2NaAlO_2 + 3H_2↑", "Al_2O_3 + 2NaOH = 2NaAlO_2 + H_2O", "Al(OH)_3 + NaOH = NaAlO_2 + 2H_2O", "AlCl_3 + 3NH_3·H_2O = Al(OH)_3↓ + 3NH_4Cl"],
+      "bullets": ["铝热反应：2Al + Fe₂O₃ → Al₂O₃ + 2Fe", "Al(OH)₃ 不溶于氨水", "偏铝酸钠通 CO₂ 生成 Al(OH)₃", "铝表面致密氧化膜"],
+      "examples": [
+        { "q": "为什么实验室制 Al(OH)₃ 用氨水而不用 NaOH？", "a": "Al(OH)₃ 能溶于过量 NaOH，用氨水可避免沉淀溶解。" }
+      ],
+      "trap": "易错：铝与 NaOH 反应时漏写水；Al(OH)₃ 与氨水反应。",
+      "source": { "file": "高中化学方程式大全知识清单-2027届高三一轮复习.pdf", "page": 6 },
+      "star": 4,
+      "tags": ["铝", "两性"]
+    },
+    {
+      "id": "C01-03",
+      "subject": "chemistry",
+      "chapter": "C01",
+      "topic": "铁及其化合物的转化",
+      "core": "铁与强氧化剂反应生成 Fe³⁺，与弱氧化剂反应生成 Fe²⁺；Fe²⁺ 易被氧化为 Fe³⁺。",
+      "detail": "铁在氧气中燃烧生成 Fe₃O₄，与氯气反应生成 FeCl₃，与盐酸反应生成 FeCl₂。Fe³⁺ 遇 KSCN 变红，Fe²⁺ 遇 K₃[Fe(CN)₆] 生成蓝色沉淀。Fe(OH)₂ 在空气中迅速变灰绿最终红褐色。",
+      "formulas": ["3Fe + 2O_2 --点燃--> Fe_3O_4", "2Fe + 3Cl_2 --点燃--> 2FeCl_3", "Fe + 2HCl = FeCl_2 + H_2↑", "2FeCl_3 + Fe = 3FeCl_2", "4Fe(OH)_2 + O_2 + 2H_2O = 4Fe(OH)_3"],
+      "bullets": ["Fe³⁺ 检验用 KSCN", "Fe²⁺ 检验用 K₃[Fe(CN)₆]", "Fe₃O₄ 可看作 FeO·Fe₂O₃", "铁与水蒸气高温反应"],
+      "examples": [
+        { "q": "向 FeCl₃ 溶液中加入过量铁粉，最终溶液中的金属阳离子是什么？", "a": "Fe²⁺。发生 2Fe³⁺ + Fe = 3Fe²⁺。" }
+      ],
+      "trap": "易错：铁与氯气生成 FeCl₂；Fe³⁺ 与铁反应生成 Fe²⁺ 的方向写反。",
+      "source": { "file": "高中化学方程式大全知识清单-2027届高三一轮复习.pdf", "page": 7 },
+      "star": 5,
+      "tags": ["铁", "离子检验"]
+    },
+    {
+      "id": "C01-04",
+      "subject": "chemistry",
+      "chapter": "C01",
+      "topic": "铜及其化合物的性质",
+      "core": "铜在潮湿空气中生成铜绿；铜与浓硫酸、稀硝酸、浓硝酸反应，体现氧化性酸的特性。",
+      "detail": "铜与浓硫酸需加热：Cu + 2H₂SO₄(浓) → CuSO₄ + SO₂↑ + 2H₂O。铜与稀硝酸生成 NO，与浓硝酸生成 NO₂。常温下铜与浓硫酸不反应。",
+      "formulas": ["2Cu + O_2 + CO_2 + H_2O = Cu_2(OH)_2CO_3", "Cu + 2H_2SO_4(浓) --Δ--> CuSO_4 + SO_2↑ + 2H_2O", "3Cu + 8HNO_3(稀) = 3Cu(NO_3)_2 + 2NO↑ + 4H_2O", "Cu + 4HNO_3(浓) = Cu(NO_3)_2 + 2NO_2↑ + 2H_2O"],
+      "bullets": ["铜绿成分是碱式碳酸铜", "浓硫酸与铜需加热", "稀硝酸产物是 NO", "浓硝酸产物是 NO₂"],
+      "examples": [
+        { "q": "铜与稀硝酸反应，若生成 2 mol NO，转移电子多少 mol？", "a": "N 从 +5 降到 +2，每个 NO 得 3 个电子，共 6 mol。" }
+      ],
+      "trap": "易错：铜与稀硫酸反应；浓硝酸与铜反应生成 NO。",
+      "source": { "file": "高中化学方程式大全知识清单-2027届高三一轮复习.pdf", "page": 9 },
+      "star": 4,
+      "tags": ["铜", "硝酸"]
+    },
+    {
+      "id": "C01-05",
+      "subject": "chemistry",
+      "chapter": "C01",
+      "topic": "金属的冶炼与活动性顺序",
+      "core": "金属活动性顺序：K Ca Na Mg Al Zn Fe Sn Pb (H) Cu Hg Ag Pt Au，越靠前越活泼。",
+      "detail": "活泼金属（K、Na、Mg、Al）用电解法冶炼；中等活泼金属（Zn、Fe、Cu）用热还原法；不活泼金属（Hg、Ag）用热分解法；Pt、Au 用物理方法。",
+      "formulas": ["2NaCl --电解--> 2Na + Cl_2↑", "Fe_2O_3 + 3CO --高温--> 2Fe + 3CO_2", "2HgO --Δ--> 2Hg + O_2↑"],
+      "bullets": ["K、Ca、Na、Mg、Al 电解", "Zn、Fe、Cu 热还原", "Hg、Ag 热分解", "Pt、Au 物理分离"],
+      "examples": [
+        { "q": "工业炼铝用电解 Al₂O₃ 还是电解 AlCl₃？", "a": "电解熔融 Al₂O₃。AlCl₃ 是共价化合物，熔融不导电。" }
+      ],
+      "trap": "易错：电解熔融 AlCl₃ 制铝；忘记冰晶石的作用。",
+      "source": { "file": "高中化学方程式大全知识清单-2027届高三一轮复习.pdf", "page": 5 },
+      "star": 3,
+      "tags": ["冶炼", "活动性"]
+    }
+  ]
+}

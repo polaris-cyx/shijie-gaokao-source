@@ -1,0 +1,73 @@
+{
+  "block": "E02",
+  "items": [
+    {
+      "id": "E02-01",
+      "subject": "english",
+      "chapter": "E02",
+      "topic": "经济与商业高频词",
+      "core": "经济类阅读常考：economy、finance、investment、profit、budget、market、consume、commercial。",
+      "detail": "注意词性转换：economy→economic→economically；finance→financial；invest→investment；consume→consumer→consumption；commerce→commercial。阅读中要能根据上下文判断词义。",
+      "formulas": ["economy n. → economic adj. → economically adv.", "finance n. → financial adj.", "consume v. → consumer n. → consumption n."],
+      "bullets": ["profit 利润", "budget 预算", "investment 投资", "commercial 商业的"],
+      "examples": [
+        { "q": "The company announced its ______ (expand) plan.", "a": "expansion。形容词性物主代词后接名词。" }
+      ],
+      "trap": "易错：economic（经济的）与 economical（节约的）混淆。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 7 },
+      "star": 3,
+      "tags": ["经济", "Day7"]
+    },
+    {
+      "id": "E02-02",
+      "subject": "english",
+      "chapter": "E02",
+      "topic": "健康与医疗高频词",
+      "core": "健康类高频：health、treatment、recover、symptom、prevention、nutrition、mental、physical。",
+      "detail": "词性转换：treat→treatment；recover→recovery；prevent→prevention；nutrition→nutritious；medicine→medical。常见搭配：recover from、be harmful to、take medicine、mental health。",
+      "formulas": ["treat v. → treatment n.", "recover v. → recovery n.", "prevent v. → prevention n."],
+      "bullets": ["recover from 从……中恢复", "be beneficial to 对……有益", "mental health 心理健康", "side effect 副作用"],
+      "examples": [
+        { "q": "Regular exercise is beneficial ______ our health.", "a": "to。" }
+      ],
+      "trap": "易错：recover 后接 from；treatment 可数性。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 8 },
+      "star": 3,
+      "tags": ["健康", "Day8"]
+    },
+    {
+      "id": "E02-03",
+      "subject": "english",
+      "chapter": "E02",
+      "topic": "科技与环境高频词",
+      "core": "科技类：technology、innovation、artificial intelligence、digital、device；环境类：environment、pollution、sustainable、recycle、emission。",
+      "detail": "注意科技词汇的构词：innovate→innovation→innovative；sustain→sustainable；pollute→pollution→pollutant。环境类阅读常考因果关系与解决措施。",
+      "formulas": ["innovate → innovation → innovative", "pollute → pollution → pollutant", "sustain → sustainable"],
+      "bullets": ["artificial intelligence 人工智能", "carbon emission 碳排放", "renewable energy 可再生能源", "take measures to do 采取措施"],
+      "examples": [
+        { "q": "With the rapid ______ (develop) of AI, many industries are changing.", "a": "development。with the rapid development of 是固定表达。" }
+      ],
+      "trap": "易错：technology 可数性；pollution 不可数。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 9 },
+      "star": 4,
+      "tags": ["科技", "环境", "Day9-10"]
+    },
+    {
+      "id": "E02-04",
+      "subject": "english",
+      "chapter": "E02",
+      "topic": "社会文化与政治法律高频词",
+      "core": "社会类：society、culture、tradition、community；法律类：law、justice、regulation、policy、right。",
+      "detail": "词性转换：social→society→socially；tradition→traditional；regulate→regulation；politics→political→politician。阅读中注意作者态度词与逻辑连接词。",
+      "formulas": ["society n. → social adj.", "tradition n. → traditional adj.", "regulate v. → regulation n."],
+      "bullets": ["cultural heritage 文化遗产", "social responsibility 社会责任", "carry out a policy 执行政策", "human rights 人权"],
+      "examples": [
+        { "q": "It is our responsibility to protect cultural ______ (heritage).", "a": "heritage。此处 heritage 本身是名词。" }
+      ],
+      "trap": "易错：politics 是政治学/政治，political 是形容词；policy 与 politics 混淆。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 11 },
+      "star": 3,
+      "tags": ["社会", "法律", "Day11-12"]
+    }
+  ]
+}

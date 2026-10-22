@@ -1,0 +1,73 @@
+{
+  "block": "E03",
+  "items": [
+    {
+      "id": "E03-01",
+      "subject": "english",
+      "chapter": "E03",
+      "topic": "艺术与文学高频词",
+      "core": "艺术类：art、literature、creative、 masterpiece、exhibition、performance、inspire。",
+      "detail": "词性转换：create→creation→creative→creativity；inspire→inspiration→inspiring；perform→performance→performer。文学阅读注意修辞与情感色彩。",
+      "formulas": ["create → creation → creative → creativity", "inspire → inspiration → inspiring", "perform → performance → performer"],
+      "bullets": ["be inspired by 受……启发", "a masterpiece 杰作", "art exhibition 艺术展", "literary works 文学作品"],
+      "examples": [
+        { "q": "He solved the problem ______ (creative).", "a": "creatively。修饰动词 solved 用副词。" }
+      ],
+      "trap": "易错：creative 与 creativity 词性混用；inspiration 与 aspiration 混淆。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 13 },
+      "star": 3,
+      "tags": ["艺术", "Day13"]
+    },
+    {
+      "id": "E03-02",
+      "subject": "english",
+      "chapter": "E03",
+      "topic": "交通与旅行高频词",
+      "core": "旅行类：journey、destination、transport、accommodation、itinerary、souvenir。",
+      "detail": "词性转换：travel→traveller；arrive→arrival；depart→departure；transport→transportation。常见搭配：set off、check in、look forward to、be located in。",
+      "formulas": ["arrive v. → arrival n.", "depart v. → departure n.", "travel v./n. → traveller n."],
+      "bullets": ["set off 出发", "check in 办理入住/登机", "be located in 位于", "a means of transport 交通方式"],
+      "examples": [
+        { "q": "His sudden ______ (depart) surprised everyone.", "a": "departure。形容词 sudden 后接名词。" }
+      ],
+      "trap": "易错：arrival 与 departure 反义；transport 可作动词和名词。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 14 },
+      "star": 3,
+      "tags": ["旅行", "Day14"]
+    },
+    {
+      "id": "E03-03",
+      "subject": "english",
+      "chapter": "E03",
+      "topic": "科学与研究高频词",
+      "core": "科研类：research、experiment、hypothesis、analysis、evidence、conclusion、method。",
+      "detail": "词性转换：analyse→analysis；conclude→conclusion；evident→evidence；hypothesize→hypothesis。科研阅读注意实验步骤、数据与结论的对应关系。",
+      "formulas": ["analyse v. → analysis n.（复数 analyses）", "conclude v. → conclusion n.", "evident adj. → evidence n."],
+      "bullets": ["draw a conclusion 得出结论", "carry out an experiment 做实验", "data analysis 数据分析", "scientific method 科学方法"],
+      "examples": [
+        { "q": "The scientist ______ (analysis) the data carefully.", "a": "analysed。此处需要动词过去式。" }
+      ],
+      "trap": "易错：analysis 复数是 analyses；research 通常不可数。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 15 },
+      "star": 4,
+      "tags": ["科学", "Day15"]
+    },
+    {
+      "id": "E03-04",
+      "subject": "english",
+      "chapter": "E03",
+      "topic": "运动、饮食与家庭高频词",
+      "core": "运动：athlete、fitness、competition、champion；饮食：nutrition、diet、ingredient；家庭：relationship、generation、support。",
+      "detail": "词性转换：compete→competition→competitive→competitor；fit→fitness；nutrition→nutritious；relate→relationship。注意可数与不可数名词的搭配。",
+      "formulas": ["compete → competition → competitor", "fit → fitness", "relate → relationship"],
+      "bullets": ["a balanced diet 均衡饮食", "take part in 参加", "family relationship 家庭关系", "generation gap 代沟"],
+      "examples": [
+        { "q": "She is a famous ______ (compete) in the Olympics.", "a": "competitor。a famous 后接可数名词单数。" }
+      ],
+      "trap": "易错：competition（比赛）与 competitor（选手）混淆；diet 可数。",
+      "source": { "file": "高中英语核心高频词汇30天系统练习.pdf", "page": 16 },
+      "star": 3,
+      "tags": ["运动", "饮食", "Day16-18"]
+    }
+  ]
+}
